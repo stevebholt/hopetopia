@@ -24,7 +24,7 @@ website:
     background: success
   
   sidebar:
-    - title: "About"
+    - title: "Home"
       style: "docked"
       search: true
       contents:
@@ -55,6 +55,51 @@ website:
           contents:
             - aboutfd.qmd
             - budgetfd.qmd
+    
+    - title: "Community Development"
+      contents:
+        - section: "Housing and Planning"
+          contents:
+            - abouthp.qmd
+            - budgethp.qmd
+        - section: "Buidings and Regulations"
+          contents:
+            - aboutbr.qmd
+            - budgetbr.qmd
+          
+    - title: "Social Services"
+      contents:
+        - section: "Adult Services"
+          contents:
+            - aboutas.qmd
+            - budgetas.qmd
+        - section: "Youth Services"
+          contents:
+            - aboutys.qmd
+            - budgetys.qmd
+    
+    - title: "General Services"
+      contents:
+        - section: "Transportation"
+          contents:
+            - abouttd.qmd
+            - budgettd.qmd
+        - section: "General Services"
+          contents:
+            - aboutgs.qmd
+            - budgetgs.qmd
+            
+    - title: "Education"
+      contents:
+        - section: Public Schools
+          contents:
+            - aboutps.qmd
+            - budgetps.qmd
+        - section: Evaluation
+          contents:
+            - aboutev.qmd
+            - budgetev.qmd
+        
 
 format:
   html:

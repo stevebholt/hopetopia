@@ -10,6 +10,23 @@ website:
         text: Home
       - about.qmd
     background: success
+  
+  sidebar:
+    - title: "About"
+      style: "docked"
+      search: true
+      contents:
+        - section: "Our People"
+          contents:
+            - index.qmd
+            
+        - section: "Our Wards"
+          contents:
+            - index.qmd
+        
+        - section: "Our Economy"
+          contents: 
+            - index.qmd
 
 format:
   html:

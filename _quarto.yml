@@ -31,11 +31,9 @@ website:
         - section: "Our People"
           contents:
             - people.qmd
-            
         - section: "Our Wards"
           contents:
             - wards.qmd
-        
         - section: "Our Economy"
           contents: 
             - econ.qmd

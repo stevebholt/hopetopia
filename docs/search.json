@@ -12,5 +12,54 @@
     "title": "About",
     "section": "",
     "text": "Welcome to the website of the city of Hopetopia! At this hub, you will find information about our city’s people, businesses, and broader economy. The rest of the site provides information on each of the city’s government departments, the services they provide, and the people who work in them."
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "Statistics on Hopetopians",
+    "section": "",
+    "text": "Unemployed\nHS or less\n2-year degree\n4-year degree or more\nMedian income\n\n\n\n\n20%\n75%\n20%\n5%\n$28,000\n\n\n2%\n35%\n20%\n45%\n$60,000\n\n\n12%\n45%\n40%\n15%\n$45,000\n\n\n1%\n35%\n35%\n30%\n$90,000\n\n\n\n\n\n\n<=18\n19-55\n55+\n\n\n\n\n25%\n50%\n25%\n\n\n15%\n75%\n10%\n\n\n20%\n55%\n25%\n\n\n22%\n48%\n30%"
+  },
+  {
+    "objectID": "dcd.html",
+    "href": "dcd.html",
+    "title": "Department of Community Development",
+    "section": "",
+    "text": "Coming soon!"
+  },
+  {
+    "objectID": "des.html",
+    "href": "des.html",
+    "title": "Department of Emergency Services",
+    "section": "",
+    "text": "Coming soon!"
+  },
+  {
+    "objectID": "dgs.html",
+    "href": "dgs.html",
+    "title": "Department of General Services",
+    "section": "",
+    "text": "Coming soon!"
+  },
+  {
+    "objectID": "dss.html",
+    "href": "dss.html",
+    "title": "Department of Social Services",
+    "section": "",
+    "text": "Coming soon!"
+  },
+  {
+    "objectID": "ed.html",
+    "href": "ed.html",
+    "title": "Department of Education",
+    "section": "",
+    "text": "Coming soon!"
+  },
+  {
+    "objectID": "mayor.html",
+    "href": "mayor.html",
+    "title": "Mayor’s Office",
+    "section": "",
+    "text": "The mayor was elected three years ago on a platform of increasing economic equity in the city and providing more robust aid to the poorer areas of the city. Your primary campaign focus was increasing housing affordability and attracting businesses back to the Northwest quadrant. In a narrow primary win, the mayor assembled a coalition of support from the Northwest and Northeast quadrants, while a slim advantage in the southwest quadrant made the difference. Below is a summary of the city’s finances."
   }
 ]

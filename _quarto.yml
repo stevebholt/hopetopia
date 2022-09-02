@@ -6,9 +6,21 @@ website:
   title: "Hopetopia"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Home"
+        file: index.qmd
+      - text: "Mayor"
+        file: mayor.qmd
+      - text: "Emergency Services"
+        file: des.qmd
+      - text: "Community Development"
+        file: dcd.qmd
+      - text: "Social Services"
+        file: dss.qmd
+      - text: "General Services"
+        file: dgs.qmd
+      - text: "Education"
+        file: ed.qmd
+      
     background: success
   
   sidebar:
@@ -18,15 +30,31 @@ website:
       contents:
         - section: "Our People"
           contents:
-            - about.qmd
+            - people.qmd
             
         - section: "Our Wards"
           contents:
-            - about.qmd
+            - wards.qmd
         
         - section: "Our Economy"
           contents: 
-            - about.qmd
+            - econ.qmd
+            
+    - title: "Office of the Mayor"
+      contents: 
+            - abtmayor.qmd
+            - mayorbudget.qmd
+    
+    - title: "Emergency Services"
+      contents:
+        - section: "Police Department"
+          contents:
+            - aboutpd.qmd
+            - budgetpd.qmd
+        - section: "Fire Department"
+          contents:
+            - aboutfd.qmd
+            - budgetfd.qmd
 
 format:
   html:

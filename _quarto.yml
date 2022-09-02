@@ -33,49 +33,70 @@ website:
             - href: people.qmd
             - href: wards.qmd
             - href: econ.qmd
-            
-        - section: "Office of the Mayor"
-          contents: 
+         
+    - title: "Office of the Mayor"
+      contents:
             - href: mayor.qmd
+            - href: abtmayor.qmd
             - href: mayorbudget.qmd
     
-        - section: "Emergency Services"
+    - title: "Emergency Services"
+      contents:
+        - href: des.qmd
+        - section: "Police Department"
           contents:
-            - href: des.qmd
             - href: aboutpd.qmd
             - href: budgetpd.qmd
+        - section: "Fire Department"
+          contents:
             - href: aboutfd.qmd
             - href: budgetfd.qmd
     
-        - section: "Community Development"
+    - title: "Community Development"
+      contents:
+        - href: dcd.qmd
+        - section: "Housing and Planning"
           contents:
-            - href: dcd.qmd
             - href: abouthp.qmd
             - href: budgethp.qmd
+        - section: "Buidings and Regulations"
+          contents:
             - href: aboutbr.qmd
             - href: budgetbr.qmd
           
-        - section: "Social Services"
+    - title: "Social Services"
+      contents:
+        -href: dss.qmd
+        - section: "Adult Services"
           contents:
-            - href: dss.qmd
             - href: aboutas.qmd
             - href: budgetas.qmd
+        - section: "Youth Services"
+          contents:
             - href: aboutys.qmd
             - href: budgetys.qmd
     
-        - section: "General Services"
+    - title: "General Services"
+      contents:
+        - href: dgs.qmd
+        - section: "Transportation"
           contents:
-            - href: dgs.qmd
             - href: abouttd.qmd
             - href: budgettd.qmd
+        - section: "General Services"
+          contents:
             - href: aboutgs.qmd
             - href: budgetgs.qmd
             
-        - section: "Education"
+    - title: "Education"
+      contents:
+        - href: ed.qmd
+        - section: Public Schools
           contents:
-            - href: ed.qmd
             - href: aboutps.qmd
             - href: budgetps.qmd
+        - section: Evaluation
+          contents:
             - href: aboutev.qmd
             - href: budgetev.qmd
         

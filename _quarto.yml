@@ -18,15 +18,15 @@ website:
       contents:
         - section: "Our People"
           contents:
-            - index.qmd
+            - about.qmd
             
         - section: "Our Wards"
           contents:
-            - index.qmd
+            - about.qmd
         
         - section: "Our Economy"
           contents: 
-            - index.qmd
+            - about.qmd
 
 format:
   html:

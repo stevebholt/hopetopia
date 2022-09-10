@@ -70,7 +70,7 @@ Our economy is a dynamic economy with a mix of industrial manufacturing, technol
 
 ## Housing
 
-@tbl-homes provides an overview of homeownership versus renters in Hopetopia, as well as information about the propertax and rent burden in the city. 
+@tbl-homes provides an overview of homeownership versus renters in Hopetopia, as well as information about the property tax and rent burden in the city. 
 
 |                  | Northwest | Northeast | Southwest | Southeast |
 | ---------------- | :-------: | :-------: | :-------: | :-------: |

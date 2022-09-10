@@ -1,0 +1,16 @@
+---
+title: "HPD Budget"
+---
+
+## Current Operations Budget
+@tbl-budgetpd outlines our budget for FY21. Our FY22 budget is current in development.
+
+| Department of Emergency Services | 267,500,000.00 |
+| -------------------------------- | -------------- |
+| Police                           | 162,000,000.00 |
+| Investigations                   | 24,300,000.00  |
+| Patrol                           | 121,500,000.00 |
+| Equipment                        | 16,200,000.00  |
+| Citizen Review Board             | 500,000.00     |
+
+: Operations Budget for FY21 {#tbl-budgetpd}

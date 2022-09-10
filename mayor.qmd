@@ -1,8 +1,11 @@
 ---
 title: "Mayor's Office"
 ---
+## About the Mayor
+The mayor was elected three years ago on a platform of increasing economic equity in the city and providing more robust aid to the poorer areas of the city. Your primary campaign focus was increasing housing affordability and attracting businesses back to the Southwest ward. In a narrow primary win, the mayor assembled a coalition of support from the Southwest and Northeast quadrants, while a slim advantage in the Northwest ward made the difference. 
 
-The mayor was elected three years ago on a platform of increasing economic equity in the city and providing more robust aid to the poorer areas of the city. Your primary campaign focus was increasing housing affordability and attracting businesses back to the Southwest ward. In a narrow primary win, the mayor assembled a coalition of support from the Southwest and Northeast quadrants, while a slim advantage in the Northwest ward made the difference. @tbl-budgetall summarizes the city's budget.
+## The Mayor's Budget
+@tbl-budgetall summarizes the city's budget.
 
 |                                     | FY21              | FY22              |
 |------------------------------------|------------------|------------------|

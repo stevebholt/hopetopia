@@ -1,6 +1,19 @@
 ---
-title: "About Us"
+title: "Police Department"
 ---
 
 ## Recent News
-The police chief has been focused on community policing efforts, using assigned and steady patrols who operate on a predicted schedule in pairs and have the same assigned beat for 6-month cycles. Recently, the investigations units unresolved crimes rate has increased by 30%, driven largely by poor clearance rates in the Southwest quadrant. Morale is generally low among your officers as some patrols feel their assigned beats are disproportionately more difficult than others. You’ve also been struggling with community relations in the Southwest quadrant where multiple reports of officer misconduct have been verified by the Citizen Review Board. 9/12
+The police chief has been focused on community policing efforts, using assigned and steady patrols who operate on a predicted schedule in pairs and have the same assigned beat for 6-month cycles. Recently, the investigations units unresolved crimes rate has increased by 30%, driven largely by poor clearance rates in the Southwest quadrant. Morale is generally low among your officers as some patrols feel their assigned beats are disproportionately more difficult than others. The department has also been struggling with community relations in the Southwest quadrant where multiple reports of officer misconduct have been verified by the Citizen Review Board. 9/12
+
+## Current Operations Budget
+@tbl-budgetpd outlines our budget for FY21. Our FY22 budget is current in development.
+
+| Department of Emergency Services | 267,500,000.00 |
+| -------------------------------- | -------------- |
+| Police                           | 162,000,000.00 |
+| Investigations                   | 24,300,000.00  |
+| Patrol                           | 121,500,000.00 |
+| Equipment                        | 16,200,000.00  |
+| Citizen Review Board             | 500,000.00     |
+
+: Operations Budget for FY21 {#tbl-budgetpd}

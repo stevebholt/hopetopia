@@ -1,0 +1,16 @@
+---
+title: "budgetfd"
+---
+
+## Current Operations Budget
+@tbl-budgetfd outlines our budget for FY21. Our FY22 budget is current in development.
+
+| Fire                 | 105,000,000.00 |
+| -------------------- | -------------- |
+| Safety and education | 5,250,000.00   |
+| Inspections          | 10,500,000.00  |
+| Investigations       | 5,250,000.00   |
+| Response             | 68,250,000.00  |
+| Equipment            | 15,750,000.00  |
+
+: Operations Budget for FY21 {#tbl-budgetfd}

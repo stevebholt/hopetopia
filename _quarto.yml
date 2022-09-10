@@ -42,15 +42,9 @@ website:
     - title: "Emergency Services"
       contents:
         - href: des.qmd
-        - section: "Police Department"
-          contents:
-            - href: aboutpd.qmd
-            - href: budgetpd.qmd
-        - section: "Fire Department"
-          contents:
-            - href: aboutfd.qmd
-            - href: budgetfd.qmd
-    
+        - href: aboutpd.qmd
+        - href: aboutfd.qmd
+        
     - title: "Community Development"
       contents:
         - href: dcd.qmd

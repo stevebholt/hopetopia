@@ -26,7 +26,7 @@ Like all cities, it is the people of Hopetopia that make our city unique and dri
 | \% New Resident               |     7     |     7     |     7     |     6     |
 | \% English as Second Language |     4     |     9     |     2     |     3     |
 | People per Sq. Mile           |    726    |   1245    |    541    |    589    |
-| Population of Ward            |  179271   |  199520   |  167608   |  178871   |
+| Population of Ward            |  179,271   |  199,520   |  167,608   |  178,871   |
 
 : Demographics of Hopetopia {#tbl-demos}
 
@@ -44,7 +44,7 @@ Like all cities, it is the people of Hopetopia that make our city unique and dri
 | # of children if > 0 |         2 |         2 |         2 |         2 |
 | % HH with child < age 5 |         6 |         7 |         6 |         7 |
 | People per Sq. Mile |       726 |      1245 |       541 |       589 |
-| Population of Ward |    179271 |    199520 |    167608 |    178871 |
+| Population of Ward |    179,271 |    199,520 |    167,608 |    178,871 |
 
 : Statistics about Hopetopia Families {#tbl-families}
 
@@ -63,6 +63,6 @@ Like all cities, it is the people of Hopetopia that make our city unique and dri
 | College Students (%) |         6 |         7 |         6 |         4 |
 | Graduate Students (%) |         1 |         1 |         1 |         1 |
 | People per Sq. Mile |       726 |      1245 |       541 |       589 |
-| Population of Ward |    179271 |    199520 |    167608 |    178871 |
+| Population of Ward |    179,271 |    199,520 |    167,608 |    178,871 |
 
 : Proportion of Population in School {#tbl-edpop}

@@ -1,5 +1,16 @@
 ---
 title: "Mayor's Office"
 ---
-The mayor was elected three years ago on a platform of increasing economic equity in the city and providing more robust aid to the poorer areas of the city. Your primary campaign focus was increasing housing affordability and attracting businesses back to the Southwest ward. In a narrow primary win, the mayor assembled a coalition of support from the Northwest and Northeast quadrants, while a slim advantage in the southwest ward made the difference. Below is a summary of the city's budget.
 
+The mayor was elected three years ago on a platform of increasing economic equity in the city and providing more robust aid to the poorer areas of the city. Your primary campaign focus was increasing housing affordability and attracting businesses back to the Southwest ward. In a narrow primary win, the mayor assembled a coalition of support from the Southwest and Northeast quadrants, while a slim advantage in the Northwest ward made the difference. @tbl-budgetall summarizes the city's budget.
+
+|                                     | FY21              | FY22              |
+|------------------------------------|------------------|------------------|
+| Revenues                            | \$ 5,890,754,000.00 | \$ 6,185,291,700.00 |
+| Department of Emergency Services    | \$ 1,267,500,000.00 |                   |
+| Department of Community Development | \$ 215,000,000.00  |                   |
+| Department of Social Services       | \$ 1,150,000,000.00 |                   |
+| Department of General Services      | \$ 910,254,000.00  |                   |
+| Department of Education             | \$ 2,348,000,000.00  |                   |
+
+: Budget Appropriations {#tbl-budgetall}

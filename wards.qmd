@@ -5,7 +5,7 @@ title: "Our Wards"
 # Organization
 
 The city of Hopetopia is a square grid that is roughly
-14 miles by 16 miles with a population of 350,000 residents. The grid is
+20 miles by 18 miles with a population of 725,270 residents. The grid is
 divided into four wards, with downtown and city hall resting in the center
 of the city. Each ward has 4 roughly equally sized districts, each with a
 representative on the city council (for a total of 16 council members) and each

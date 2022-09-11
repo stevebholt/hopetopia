@@ -8,7 +8,7 @@ Youth Social Services provides foster care services and responds to and investig
 ## Current Operating Budget
 @tbl-ysbudget provides an overview of the FY21 budget for Youth Social Services broken out by operations and the source of the expenditure. 
 
-::: {tbl-ysbudget layout-ncol=2}
+::: {#tbl-ysbudget layout-ncol=2}
 | Youth Social Services          | 181,713 |
 | ------------------------------ | ------- |
 | Child protective services      | 24,819  |

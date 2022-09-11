@@ -3,10 +3,11 @@ title: "Adult Social Services"
 ---
 
 ## Recent News
-
+The adult services includes mental health programs that provide a mix of subsidies (through a mental health insurance supplement for low-income, employed residents) and direct service provision (through the operation of a mental health clinic in each quadrant for low-income, unemployed residents). Adult services also operate workforce development programs (basic job training for entry level jobs and job placement assistance for entry-level jobs with a focus on long-term unemployed and formerly incarcerated residents). Finally, you operate three substance abuse treatment clinics to help provide treatment and support for those struggling with drug or alcohol addictions. 9/12
 
 
 ## Current Operations Budget
+@tbl-asbudget provides an overview of the FY21 budget for Housing and Planning broken out by operations and the source of the expenditure. 
 
 ::: {#tbl-asbudget layout-ncol=2}
 | Adult Social Services | 378,993 |

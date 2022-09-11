@@ -36,9 +36,7 @@ website:
     - title: "Office of the Mayor"
       contents:
             - href: mayor.qmd
-            - href: abtmayor.qmd
-            - href: mayorbudget.qmd
-    
+  
     - title: "Emergency Services"
       contents:
         - href: des.qmd
@@ -48,50 +46,26 @@ website:
     - title: "Community Development"
       contents:
         - href: dcd.qmd
-        - section: "Housing and Planning"
-          contents:
-            - href: abouthp.qmd
-            - href: budgethp.qmd
-        - section: "Buidings and Regulations"
-          contents:
-            - href: aboutbr.qmd
-            - href: budgetbr.qmd
-          
+        - href: abouthp.qmd
+        - href: aboutbr.qmd
+        
     - title: "Social Services"
       contents:
         - href: dss.qmd
-        - section: "Adult Services"
-          contents:
-            - href: aboutas.qmd
-            - href: budgetas.qmd
-        - section: "Youth Services"
-          contents:
-            - href: aboutys.qmd
-            - href: budgetys.qmd
-    
+        - href: aboutas.qmd
+        - href: aboutys.qmd
+        
     - title: "General Services"
       contents:
         - href: dgs.qmd
-        - section: "Transportation"
-          contents:
-            - href: abouttd.qmd
-            - href: budgettd.qmd
-        - section: "General Services"
-          contents:
-            - href: aboutgs.qmd
-            - href: budgetgs.qmd
-            
+        - href: abouttd.qmd
+        - href: aboutgs.qmd
+        
     - title: "Education"
       contents:
         - href: ed.qmd
-        - section: Public Schools
-          contents:
-            - href: aboutps.qmd
-            - href: budgetps.qmd
-        - section: Evaluation
-          contents:
-            - href: aboutev.qmd
-            - href: budgetev.qmd
+        - href: aboutps.qmd
+        - href: aboutev.qmd
         
 
 format:

@@ -102,7 +102,7 @@
     "href": "aboutpd.html#current-operations-budget",
     "title": "Police Department",
     "section": "Current Operations Budget",
-    "text": "Current Operations Budget\nTable 1 outlines our budget for FY21. Our FY22 budget is current in development.\n\n\nTable 1: Operations Budget for FY21\n\n\nDepartment of Emergency Services\n267,500,000.00\n\n\n\n\nPolice\n162,000,000.00\n\n\nInvestigations\n24,300,000.00\n\n\nPatrol\n121,500,000.00\n\n\nEquipment\n16,200,000.00\n\n\nCitizen Review Board\n500,000.00"
+    "text": "Current Operations Budget\nTable 1 outlines our budget for FY21 overall and ?@tbl-budgetpol breaks out the details of the police budget. Our FY22 budget is currently in development.\n::: {#tbl-budgetpdall layout-ncol=2} | Policing and Corrections | 929,339,000.00 | | ——————————– | ————– | | Police | 572,163,000.00 | | Investigations and Forensics | 25,113,000.00 | | Corrections and Rehabilitation | 255,141,000.00 | | Communications and Other | 76,404,000.00 | | Capital & Equipment | 18,000,000.00 | | Citizen Review Board | 500,000.00 |\n\n\nTable 1: Operations Budget for FY21\n\n\nPolice\n572,163,000.00\n\n\n\n\nCapital\n18,000,000.00\n\n\nPersonnel FT Pay\n383,915,000.00\n\n\nPay - Other\n34,330,000.00\n\n\nFringe benefits\n86,663,000.00\n\n\nOvertime\n49,252,000.00\n\n\n\n\n: Police Budget Detail {#tbl-budgetpol}"
   },
   {
     "objectID": "budgetfd.html",

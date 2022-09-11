@@ -8,3 +8,31 @@ title: "Adult Social Services"
 
 ## Current Operations Budget
 
+::: {#tbl-asbudget layout-ncol=2}
+| Adult Social Services | 378,993 |
+| ---------------- | --------- |
+| Cash assistance             | 96,997  |
+| Job training                | 27,686  |
+| SNAP                        | 1,155   |
+| Case management             | 20,979  |
+| Eligibility determination   | 75,189  |
+| Disability                  | 3,345   |
+| Domestic violence shelters | 2,024  |
+| Homelessness prevention     | 5,114  |
+| Mental health services      | 66,839 |
+| Substance abuse services    | 40,561 |
+| Management | 39,104 |
+
+: Adult Social Services Operations (in 1,000s) {#tbl-asops}
+
+| Adult Social Services | 378,993 |
+| -------------------- | -------------- |
+| Personnel FT Pay | 233,224 |
+| Pay - Other | 88,165 |
+| Fringe benefits | 52,273 |
+| Overtime | 1,294 |
+
+: Adult Social Services Expenditures (in 1,000s) {#tbl-asexp}
+
+Budget Overview FY21
+:::

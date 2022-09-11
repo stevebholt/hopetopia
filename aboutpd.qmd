@@ -9,7 +9,7 @@ The police chief has been focused on community policing efforts, using assigned 
 @tbl-budgetpd outlines our budget for FY21 overall (in thousands) and @tbl-pddetail breaks out the details of the police budget by cost and @tbl-pdallocate breaks out the budget by operations. Our FY22 budget is currently in development.
 
 ::: {#tbl-budgetpdall layout-ncol=3}
-| Policing and Corrections | 929,339 |
+| Policing and Corrections | 947,318 |
 | -------------------------------- | -------------- |
 | Police                           | 572,163 |
 | Investigations and Forensics    | 25,113  |

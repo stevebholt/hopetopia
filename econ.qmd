@@ -113,3 +113,5 @@ Our economy is a dynamic economy with a mix of industrial manufacturing, technol
 | NE        | 10    | 15         | 85%                                  | 90%                                 | 16/8/4               | 20           |
 | NW        | 6     | 4          | 70%                                  | 55%                                 | 24/6/4              | 18           |
 | SE        | 15    | 13         | 97%                                  | 98%                                 | 20/12/4              | 15           |
+
+: Other information {#tbl-otherecon}

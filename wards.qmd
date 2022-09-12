@@ -18,7 +18,7 @@ and a robust service sector.
 
 ## Southwest ward
 
-The Northwest ward of Hopetopia is highly populated, demographically mixed, but very low income section of the city beset
+The Southwest ward of Hopetopia is highly populated, demographically mixed, but very low income section of the city beset
 by problems and resource needs. The ward has widespread poverty, crumbling
 roads in many neighborhoods, an increasing supply of abandoned and condemned
 properties, and frequent complaints about the quality of the schools. Recently,
@@ -38,14 +38,14 @@ density.
 
 ## Southeast ward
 
-The southeast ward is primarily an upper-income
+The Southeast ward is primarily an upper-income
 ward and less demographically mixed than the city as a whole. The schools
 are well-funded and high-performing, the ward houses the area's large
 university, and the ward contains a variety of very high-end retailers and
 restaurants.
 
 ## Northwest ward
-The Southwest ward is also very mixed income (from very wealthy to very poor) and very
+The Northwest ward is also very mixed income (from very wealthy to very poor) and very
 demographically mixed. The schools are well-funded and high-performing, and
 there are a range of businesses from smaller tech firms, a handful of mid-sized
 manufacturing firms, and the community college and elite STEM college are in

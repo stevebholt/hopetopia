@@ -12,11 +12,11 @@ Under the long-standing fire chief, morale is generally high, though the number 
 | Fire                 | 282,037 |
 | -------------------- | -------------- |
 | Operations | 181,889   |
-| Administrative support  | 13,643  |
+| Administrative support  | 20,235  |
 | Support Services       | 25,296   |
-| Prevention and Inspections             | 14,408  |
+| Prevention and Inspections             | 24,408  |
 | Professional Development            | 10,254  |
-| Management | 9,955 |
+| Management | 19,955 |
 
 : Operations Budget for FY21 (in 1,000s) {#tbl-fdops}
 
@@ -25,7 +25,7 @@ Under the long-standing fire chief, morale is generally high, though the number 
 | Personnel FT Pay | 176,559 |
 | Pay - Other | 963 |
 | Fringe benefits | 38,900 |
-| Overtime | 65,610 |
+| Overtime | 65,615 |
 
 : Operations Budget for FY21 (in 1,000s) {#tbl-fddetail}
 

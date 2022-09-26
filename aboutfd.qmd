@@ -6,6 +6,33 @@ title: "Fire Department"
 Under the long-standing fire chief, morale is generally high, though the number of fires due to faulty wiring has been increasing. The fire chief believes inspection efforts for fire safety are underfunded and should be a priority. 9/12
 
 ## Current Operations Budget
+@tbl-budgetfdall22 provides an overview of the FY22 budget proposed by the mayor and passed by the city council. The mayor's proposed budget allocated a 23,959,600 budgetary increase to the Police and Fire departments. Although the Fire Department requested more resources, the mayor proposed a 10,000,000 increase in the operations budget. After a month of general public forums in each ward, we have identified timely inspections as a priority for the coming year. Accordingly, we have allocated an additional 8,000,000 to prevention and inspections and an additional 2,000,000 in professional development to hire and train additional fire safety inspectors throughout the city. @tbl-fdops22 summarizes out allocations for the coming year.
+
+::: {#tbl-budgetfdall22 layout-ncol=2}
+| Fire                 | 292,037 |
+| -------------------- | -------------- |
+| Operations | 181,889   |
+| Administrative support  | 20,235  |
+| Support Services       | 25,296   |
+| Prevention and Inspections             | 32,408  |
+| Professional Development            | 12,254  |
+| Management | 19,955 |
+
+: Operations Budget for FY21 (in 1,000s) {#tbl-fdops22}
+
+| Fire                 | 292,037 |
+| -------------------- | -------------- |
+| Personnel FT Pay | 182,559 |
+| Pay - Other | 963 |
+| Fringe benefits | 40,900 |
+| Overtime | 67,615 |
+
+: Operations Budget for FY22 (in 1,000s) {#tbl-fddetail22}
+
+Budget Overview
+:::
+
+## FY21 Operations Budget
 @tbl-budgetfdall outlines our budget for FY21. @tbl-fdops summarizes the budget by operations and @tbl-fddetail summarizes the budget by type of expenditure. Our FY22 budget is current in development.
 
 ::: {#tbl-budgetfdall layout-ncol=2}

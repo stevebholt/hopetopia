@@ -18,7 +18,7 @@ Under the long-standing fire chief, morale is generally high, though the number 
 | Professional Development            | 12,254  |
 | Management | 19,955 |
 
-: Operations Budget for FY21 (in 1,000s) {#tbl-fdops22}
+: Operations Budget for FY22 (in 1,000s) {#tbl-fdops22}
 
 | Fire                 | 292,037 |
 | -------------------- | -------------- |

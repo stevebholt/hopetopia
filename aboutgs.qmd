@@ -5,6 +5,37 @@ title: "General Services"
 ## Recent News
 General Services provides a variety of basic infrastructural services, such as waste management (e.g., garbage and recycling collection and sorting), construction and maintenance of parks, enforcement of environmental regulations, and maintenance of government property (e.g., streets, sidewalks, streetlights, traffic lights and signs). Garbage collection workers have reported difficulty recruiting and retaining enough workers, leading to pickup delays in all four quadrants. 9/12 
 
+## Current Operations Budget
+@tbl-gsbudget22 lays out our budget for the coming fiscal year. The Mayor proposed a 13,316,000 increase in our budget. After holding a public meeting in each of the wards, we have decided to focus our efforts on expanding the number of parks in the city - particularly in the less dense Southwest Ward - and improvements to the streetlights and traffic lights throughout the city. 
+
+::: {#tbl-gsbudget22 layout-ncol=2}
+| General Services                          | 327,655 |
+| ----------------------------------------- | ------- |
+| Snow removal                              | 8,364   |
+| Fleet management                          | 35,973  |
+| Parking enforcement                       | 36,119  |
+| Waste Management                          | 93,429  |
+| Management                                | 51,189  |
+| Environmental regulations (water and air) | 52,610  |
+| Parks and recreation                      | 42,942  |
+| Additional Park Land Investment    |  4,729 |
+| Street Light Safety Plan           |  2,300  |
+
+: General Services Operations (in 1,000s) {#tbl-gsops22}
+
+| General Services      | 327,655 |
+| -------------------- | -------------- |
+| Personnel FT Pay | 197,437 |
+| Pay - Other | 77,124 |
+| Fringe benefits | 47,355 |
+| Overtime | 2,389 |
+
+: General Services Expenditures (in 1,000s) {tbl-gsexp22}
+
+Budget Overview FY22
+:::
+
+
 ## Current Operating Budget
 @tbl-gsbudget provides an overview of the FY21 budget for General Services broken out by operations and the source of the expenditure.
 

@@ -6,6 +6,35 @@ title: "Youth Social Services"
 Youth Social Services provides foster care services and responds to and investigates reports of abuse (child protection services below). In addition, the youth services side of the department operates summer learning programs and early childhood education programs in coordination with the school district, an internship and jobs program for teens in the city, and recreational sport programs for low- and middle-income youth. 9/12
 
 ## Current Operating Budget
+@tbl-ysbudget22 provides an overview of our FY22 budget. The Mayor proposed an increase of 15,514,000. After meeting with the PTA, Hopetopia chapter of the Boys & Girls Club, and surveying the youth of Hopetopia, we have proposed an increased focus on summer jobs programs and child protection services. We've also provided a modest increase in funding for early education. 
+
+
+::: {#tbl-ysbudget22 layout-ncol=2}
+| Youth Social Services          | 197,227 |
+| ------------------------------ | ------- |
+| Child protective services      | 29,819  |
+| Adoption and guardianship      | 32,875  |
+| Sports, recreation, and summer jobs programs | 1,907     |
+| Child placement                | 50,754  |
+| Management                     | 43,385  |
+| Early education subsidy        | 37,973  |
+
+: Youth Social Services Operations (in 1,000s) {#tbl-ysops22}
+
+| Youth Social Services | 197,227 |
+| -------------------- | -------------- |
+| Personnel FT Pay | 116,822 |
+| Pay - Other | 47,272 |
+| Fringe benefits | 30,063 |
+| Overtime | 1,135 |
+
+: Youth Social Services Expenditures (in 1,000s) {#tbl-ysexp22}
+
+Budget Overview FY22
+:::
+
+
+## FY21 Operating Budget
 @tbl-ysbudget provides an overview of the FY21 budget for Youth Social Services broken out by operations and the source of the expenditure. 
 
 ::: {#tbl-ysbudget layout-ncol=2}

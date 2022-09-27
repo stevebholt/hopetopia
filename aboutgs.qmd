@@ -36,7 +36,7 @@ Budget Overview FY22
 :::
 
 
-## Current Operating Budget
+## FY21 Operating Budget
 @tbl-gsbudget provides an overview of the FY21 budget for General Services broken out by operations and the source of the expenditure.
 
 ::: {#tbl-gsbudget layout-ncol=2}

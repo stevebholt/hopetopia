@@ -7,7 +7,7 @@ The City of Hopetopia's Housing and Planning Agency's mission is to build back b
 
 ## Recent News
 :::{.callout-note}
-**10/6/2022** In conjunction with city-wide efforts to improve services, the Housing and Planning Agency has identified three performance goals that it will begin tracking and reporting publicly. 1. A reduction in the number of grants that take longer than 3 months to process. 2. A reduction in the share of enforcement complaints that take longer than 2 weeks to process. 3. An increase in the ratio of eligible residents to available units that are affordable.
+**10/6/2022** In conjunction with city-wide efforts to improve services, the Housing and Planning Agency has identified three performance goals that it will begin tracking and reporting publicly. 1. A reduction in the number of grants that take longer than 3 months to process. 2. A reduction in the share of maintenance complaints that take longer than 2 weeks to process. 3. An increase in the ratio of eligible residents to available units that are affordable.
 :::
 
 :::{.callout-note}
@@ -19,14 +19,14 @@ The City of Hopetopia's Housing and Planning Agency's mission is to build back b
 ### Who We Are
 @tbl-hpstaff provides an overview of the HPA workforce overall, by position, and broken out by characteristics of interest to the public. 
 
-|                 | Inspectors | Central office | Managers | Review Board | Total |
+|                 | Maintenance | Central office | Managers | Review Board | Total |
 | --------------- | ---------- | -------------- | -------- | ------------ | ----- |
 | White           | 125         | 139            | 104      | 7           | 375   |
 | Non-white       | 30         | 122            | 70       | 3           | 225   |
 | Male            | 65         | 113            | 122      | 8           | 308   |
 | Female          | 90         | 148            | 52       | 2           | 292   |
 | Non-resident    | 66         | 104            | 122      | 0            | 292   |
-| College degree+ | 155         | 217            | 174      | 10           | 556   |
+| College degree+ | 55         | 217            | 174      | 10           | 456   |
 | Total           | 155         | 261            | 174      | 10           | 600   |
 
 : Housing and Planning Agency Staffing Descriptive Statistics (FTE) {#tbl-hpstaff}
@@ -38,7 +38,7 @@ The City of Hopetopia's Housing and Planning Agency's mission is to build back b
 | ---------------------------------------- | ---- | ---- | ---- | ---- |
 | Eligible resident:Affordable unit ratio  | 80:1 | 25:1 | 35:1 | 60:1 |
 | Number of grants < 3 month delay         | 150   | 375   | 120   | 235   |
-| Code enforcement calls < 2 week response | 120  | 300  | 250  | 20   |
+| Maintenance calls < 2 week response | 120  | 300  | 250  | 20   |
 
 : Housing and Planning Agency Performance Indicators by Ward {#tbl-hpperf}
 

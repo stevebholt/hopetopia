@@ -2,8 +2,45 @@
 title: "Housing and Planning Agency"
 ---
 
+## Misson Statement
+The City of Hopetopia's Housing and Planning Agency's mission is to build back better by making our communities and housing more sustainable and affordable for all. Our vision will be to improve the lives of our residents by vowing to create more affordable, diverse and sustainable housing especially in the South Ward. For our stakeholders we promise a strong public engagement strategy which will include regularly scheduled meetings in which their input will be vital to our strategy and success. Overall, through our mission we promise to invest the surplus money budgeted to us for FY22 responsibly to deliver strong results for the community we serve.
+
 ## Recent News
-The head of the HPA has been prioritizing acquiring and rehabilitating abandoned properties in the NW quadrant for the last two years. The program prioritizes residential units and after rehabilitation, manages the units directly and offers both market rate and subsidized units. Recently, the market rate units have been experiencing vacancy rates as many other services and businesses are not convenient to the SW quadrant. Real Estate partners have also noted that the home ownership development programs are often insufficiently funded for SW residents given their economic need. As a result, most of the program helps first time home buyers in the SE and NW quadrants. 9/12
+:::{.callout-note}
+**10/6/2022** In conjunction with city-wide efforts to improve services, the Housing and Planning Agency has identified three performance goals that it will begin tracking and reporting publicly. 1. A reduction in the number of grants that take longer than 3 months to process. 2. A reduction in the share of enforcement complaints that take longer than 2 weeks to process. 3. An increase in the ratio of eligible residents to available units that are affordable.
+:::
+
+:::{.callout-note}
+**9/12/2022** The head of the HPA has been prioritizing acquiring and rehabilitating abandoned properties in the NW quadrant for the last two years. The program prioritizes residential units and after rehabilitation, manages the units directly and offers both market rate and subsidized units. Recently, the market rate units have been experiencing vacancy rates as many other services and businesses are not convenient to the SW quadrant. Real Estate partners have also noted that the home ownership development programs are often insufficiently funded for SW residents given their economic need. As a result, most of the program helps first time home buyers in the SE and NW quadrants.
+:::
+
+## Operations
+@tbl-hostaff provides an overview of the HPA workforce overall, by position, and broken out by characteristics of interest to the public. 
+
+### Who We Are
+
+|                 | Inspectors | Central office | Managers | Review Board | Total |
+| --------------- | ---------- | -------------- | -------- | ------------ | ----- |
+| White           | 125         | 139            | 104      | 7           | 375   |
+| Non-white       | 30         | 122            | 70       | 3           | 225   |
+| Male            | 65         | 113            | 122      | 8           | 308   |
+| Female          | 90         | 148            | 52       | 2           | 292   |
+| Non-resident    | 66         | 104            | 122      | 0            | 292   |
+| College degree+ | 155         | 217            | 174      | 10           | 556   |
+| Total           | 155         | 261            | 174      | 10           | 600   |
+
+: Housing and Planning Agency Staffing Descriptive Statistics (FTE) {#tbl-hpstaff}
+
+### How We're Doing
+@tbl-hpperf summarizes our preliminary performance assessment on our newly adopted performance metrics separately by ward. City-wide, we process 1,200 grants per year and 2,000 code enforcement calls per year.
+
+|                                          | NW   | SW   | NE   | SE   |
+| ---------------------------------------- | ---- | ---- | ---- | ---- |
+| Eligible resident:Affordable unit ratio  | 80:1 | 25:1 | 35:1 | 60:1 |
+| Number of grants < 3 month delay         | 150   | 375   | 120   | 235   |
+| Code enforcement calls < 2 week response | 120  | 300  | 250  | 20   |
+
+: Housing and Planning Agency Performance Indicators by Ward {#tbl-hpperf}
 
 ## Current Operations Budget
 @tbl-hpbudget presents our operating budget for FY22. The mayor proposed and council passed a 67,562,000 increase in our operations budget. After meeting with housing and tenant advocates in the Southwest, Northeast, and Northwest quadrants, we have drafted a set of investments that will improve homeownership and subsidized housing throughout the city. This fiscal year will focus on housing stock in NW and homeowner opportunities in SW. 

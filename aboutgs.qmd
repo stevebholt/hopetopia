@@ -67,7 +67,7 @@ The Department of General Services aims to provide reliable and efficient servic
 | Fringe benefits | 47,355 |
 | Overtime | 2,389 |
 
-: General Services Expenditures (in 1,000s) {tbl-gsexp22}
+: General Services Expenditures (in 1,000s) {#tbl-gsexp22}
 
 Budget Overview FY22
 :::

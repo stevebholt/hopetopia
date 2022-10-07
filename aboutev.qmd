@@ -2,8 +2,45 @@
 title: "Evalution and Administration"
 ---
 
+## Mission Statement
+The Department of Education Evaluation (DOEE) aims to ensure that quality and equitable education is provided to all students of Hopetopia. The DOEE provides high-quality evaluations of educators (administrators, teachers, and counselors) to ensure quality management, operations, counseling, and instruction. The DOEE uses a standard method of evaluation to provide evaluations that are fair and unbiased. The DOEE also provides resources to educators including support to improve management and classroom instruction, and access to up-to-date student data.
+
 ## Recent News
-Evaluation and Administration handles the legally mandated evaluation and assessment of student achievement and leads program and staff evaluation efforts. The Evaluation and Administration department is currently dealing with a wave of scandals related to recent investigative reporting from the local paper - Hopetopian Times - that revealed a subset of teachers may have manipulated student tests to improve assessment scores. Internal investigations have also recently revealed that a large charter school operator has been misleading auditors on the expenditures of funds with the president of the operator taking an outsized share of public payments as salary and utilizing under-qualified teachers. The mayor is taking increasing notice of the series of scandals and expects remedies. 9/12
+:::{.callout-note}
+**10/6/2022** In conjunction with city-wide efforts to improve services, the Evaluation and Administration Department of HPS has identified three performance goals that it will begin tracking and reporting publicly. 1. Improving the allocation of support resources to schools across the district. 2. Improving the timeliness of teacher evaluations. 3. In light of parents increasingly withholding their child's participation on test days and schools selectively excluding students on test days, we will focus on improving the share of students who take standardized assessments. 
+:::
+
+:::{.callout-note}
+**9/12/2022** Evaluation and Administration handles the legally mandated evaluation and assessment of student achievement and leads program and staff evaluation efforts. The Evaluation and Administration department is currently dealing with a wave of scandals related to recent investigative reporting from the local paper - Hopetopian Times - that revealed a subset of teachers may have manipulated student tests to improve assessment scores. Internal investigations have also recently revealed that a large charter school operator has been misleading auditors on the expenditures of funds with the president of the operator taking an outsized share of public payments as salary and utilizing under-qualified teachers. The mayor is taking increasing notice of the series of scandals and expects remedies.
+:::
+
+## Operations
+
+### Who We Are
+@tbl-evstaff provides an overview of the central office workforce in the Hopetopia Public School district by position and separately by demographic characteristics.
+
+|                 | Assessment Design | Central Office | Evaluators | Data Analysis | Total |
+| --------------- | ----------------- | -------------- | ---------- | ------------- | ----- |
+| White           | 116               | 290            | 174        | 116           | 594   |
+| Non-white       | 29                | 145            | 116        | 14            | 406   |
+| Male            | 87                | 72             | 87         | 87            | 493   |
+| Female          | 58                | 362            | 203        | 43            | 478   |
+| Non-resident    | 43                | 203            | 232        | 72            | 420   |
+| College degree+ | 145               | 362            | 232        | 130           | 899   |
+| Total           | 145               | 435            | 290        | 130           | 1,000  |
+
+: Evaluation and Administration of Hopetopia Public Schools Staffing Descriptive Statistics (FTE) {#tbl-evstaff}
+
+### How We're Doing
+@tbl-evperf summarizes our performance on our newly adopted performance indicators over the previous academic calendar to provide our baseline performance. 
+
+|                                                    | NW | SW | NE | SE |
+| -------------------------------------------------- | -- | -- | -- | -- |
+| Percent of schools reporting sufficient staff      | 98 | 42 | 53 | 99 |
+| Percent of teachers who receive formal evaluations | 92 | 30 | 67 | 97 |
+| Percent of students taking assessment              | 96 | 65 | 48 | 78 |
+
+: HPS Evaluation and Administration Performance Indicators by Ward {#tbl-evperf}
 
 ## Current Operations Budget
 @tbl-evbudget provides an overview of the FY21 budget for Evaluation and Administration broken out by operations and the source of the expenditure.

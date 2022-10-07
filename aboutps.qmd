@@ -2,8 +2,16 @@
 title: "Hopetopia Public Schools"
 ---
 
+## Mission Statement
+We aim to direct public resources responsibly to provide competitive salaries, extracurricular & community events, technology, equipment, supplies, textbooks, utilities, and student services to enhance the school experience for students, parents, teachers, and administrators.
+
 ## Recent News
-The Hopetopia Public School district operates 112 public schools and pays per-student tuition to subsidize an additional 67 charter schools. The schools in the district vary widely in performance. As of late, the schools in the SW and NE quadrants have been struggling and coping with overcrowding. In addition to operating the public school system, you operate the community college in the city - a college that is looking to expand their offerings to include some four-year degrees. 9/12
+:::{.callout-note}
+**10/6/2022** In conjunction with city-wide efforts to improve services, Hopetopia Public Schools has identified three performance goals that it will begin tracking and reporting publicly. 1. 
+
+:::{.callout-note}
+**9/12/2022** The Hopetopia Public School district operates 112 public schools and pays per-student tuition to subsidize an additional 67 charter schools. The schools in the district vary widely in performance. As of late, the schools in the SW and NE quadrants have been struggling and coping with overcrowding. In addition to operating the public school system, you operate the community college in the city - a college that is looking to expand their offerings to include some four-year degrees.
+:::
 
 ## Current Operations Budget
 @tbl-psbudget22 summarizes the Hopetopia Public School District budget for FY22. After meeting with parents, leaders of the Hopetopia teacher's union, and surveying students in Hopetopia public schools, we have decided to use the 338,198,000 budgetary increase in the Mayor's proposed budget to increase school staffing with the aim of reducing class sizes throughout the district. We are also provided increases to teacher base pay and facilities and materials upgrades throughout the district to improve working conditions and continue to attract and retain talented teachers in our district. 

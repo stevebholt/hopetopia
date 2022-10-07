@@ -15,9 +15,9 @@ The City of Hopetopia's Housing and Planning Agency's mission is to build back b
 :::
 
 ## Operations
-@tbl-hostaff provides an overview of the HPA workforce overall, by position, and broken out by characteristics of interest to the public. 
 
 ### Who We Are
+@tbl-hpstaff provides an overview of the HPA workforce overall, by position, and broken out by characteristics of interest to the public. 
 
 |                 | Inspectors | Central office | Managers | Review Board | Total |
 | --------------- | ---------- | -------------- | -------- | ------------ | ----- |

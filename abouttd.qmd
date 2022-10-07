@@ -65,7 +65,7 @@ Our mission is to maintain and expand a network of bus routes, and roads so all 
 | Fringe benefits | 90,594 |
 | Overtime | 5,498 |
 
-: Transportation Department Expenditures (in 1,000s) {tbl-tdexp22}
+: Transportation Department Expenditures (in 1,000s) {#tbl-tdexp22}
 
 Budget Overview FY22
 :::

@@ -96,7 +96,7 @@ Budget Overview FY22
 | Fringe benefits | 43,355 |
 | Overtime | 1,073 |
 
-: General Services Expenditures (in 1,000s) {tbl-gsexp}
+: General Services Expenditures (in 1,000s) {#tbl-gsexp}
 
 Budget Overview FY21
 :::

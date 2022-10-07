@@ -7,11 +7,40 @@ We aim to direct public resources responsibly to provide competitive salaries, e
 
 ## Recent News
 :::{.callout-note}
-**10/6/2022** In conjunction with city-wide efforts to improve services, Hopetopia Public Schools has identified three performance goals that it will begin tracking and reporting publicly. 1. 
+**10/6/2022** In conjunction with city-wide efforts to improve services, Hopetopia Public Schools has identified three performance goals that it will begin tracking and reporting publicly. 1. Ensuring the teacher-student ratio across schools does not exceed 1:25. 2. Improving parity in the proportion of veteran teachers at schools across wards. 3. Improving the "on-time" graduation rates across the city.
+:::
 
 :::{.callout-note}
 **9/12/2022** The Hopetopia Public School district operates 112 public schools and pays per-student tuition to subsidize an additional 67 charter schools. The schools in the district vary widely in performance. As of late, the schools in the SW and NE quadrants have been struggling and coping with overcrowding. In addition to operating the public school system, you operate the community college in the city - a college that is looking to expand their offerings to include some four-year degrees.
 :::
+
+## Operations
+
+### Who We Are
+@tbl-psstaff summarizes the characteristics of our workforce by position and demographic characteristics.
+
+|                 | Assistant Principals | Teachers | Support Staff | Principals | Total |
+| --------------- | -------------------- | -------- | ------------- | ---------- | ----- |
+| White           | 53                   | 3255     | 368           | 59         | 3735  |
+| Non-white       | 13                   | 1184     | 184           | 53         | 1434  |
+| Male            | 105                  | 1217     | 79            | 79         | 1480  |
+| Female          | 53                   | 3222     | 473           | 33         | 3781  |
+| Non-resident    | 99                   | 1032     | 520           | 53         | 1703  |
+| College degree+ | 158                  | 4439     | 493           | 112        | 5202  |
+| Total           | 158                  | 4439     | 552           | 112        | 5261  |
+
+: Hopetopia Public Schools Staffing Descriptive Statistics (FTE) {#tbl-psstaff}
+
+### How We're Doing
+@tbl-psperf provides an overview of where we are on our goals in the current year. The data provides the average across schools in each ward of the city.
+
+|                                         | NW   | SW   | NE   | SE   |
+| --------------------------------------- | ---- | ---- | ---- | ---- |
+| Average teacher-student ratio           | 1:20 | 1:35 | 1:38 | 1:15 |
+| Percent of teachers >5 years experience | 73   | 46   | 42   | 88   |
+| Percent of students graduating on-time  | 93   | 72   | 64   | 98   |
+
+: Hopetopia Public Schools Performance Indicators by Ward {#tbl-psperf}
 
 ## Current Operations Budget
 @tbl-psbudget22 summarizes the Hopetopia Public School District budget for FY22. After meeting with parents, leaders of the Hopetopia teacher's union, and surveying students in Hopetopia public schools, we have decided to use the 338,198,000 budgetary increase in the Mayor's proposed budget to increase school staffing with the aim of reducing class sizes throughout the district. We are also provided increases to teacher base pay and facilities and materials upgrades throughout the district to improve working conditions and continue to attract and retain talented teachers in our district. 

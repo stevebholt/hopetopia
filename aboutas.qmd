@@ -2,104 +2,110 @@
 title: "Adult Human Services"
 ---
 
-## Mission Statement
-It is the mission of the Adult Human Services Department to ensure the health, well-being, and independence of vulnerable adults in Hopetopia. In the AHS Department, our vision is to improve the quality of life and enhance the dignity of Hopetopia's adults, persons with disabilities, and drug addicts through a community-based system of services, benefits, protections, and opportunities.
+<!---# ## Mission Statement
+--->
 
 ## Recent News
-:::{.callout-note}
+
+<!---#::: callout-note
 **10/6/2022** In conjunction with city-wide efforts to improve services, Adult Human Services has identified three performance goals that it will begin tracking and reporting publicly. 1. Improving the proportion of our job training programs that place participants in jobs. 2. Decreasing the time spent in transitional housing among our homeless population. 3. Increasing the proportion of SNAP-eligible residents participating in the program.
 :::
 
-:::{.callout-note}
+::: callout-note
 **9/12/2022** The Adult Human Services includes mental health programs that provide a mix of subsidies (through a mental health insurance supplement for low-income, employed residents) and direct service provision (through the operation of a mental health clinic in each quadrant for low-income, unemployed residents). Adult Human Services also operate workforce development programs (basic job training for entry level jobs and job placement assistance for entry-level jobs with a focus on long-term unemployed and formerly incarcerated residents). Finally, Adult Human Services operate three substance abuse treatment clinics to help provide treatment and support for those struggling with drug or alcohol addictions.
 :::
+--->
 
 ### Who We Are
-@tbl-asstaff summarizes the characteristics of our staff by position. 
+
+@tbl-asstaff summarizes the characteristics of our staff by position.
 
 |                 | Psychiatrists | Social workers | Central Office | Trainers | Total |
-| --------------- | ------------- | -------------- | -------------- | -------- | ----- |
+|------------|------------|------------|------------|------------|------------|
 | White           | 241           | 241            | 241            | 201      | 925   |
 | Non-white       | 161           | 402            | 80             | 40       | 683   |
 | Male            | 161           | 161            | 121            | 161      | 603   |
-| Female          | 241           | 482            | 201            | 80       | 1,005  |
+| Female          | 241           | 482            | 201            | 80       | 1,005 |
 | Non-resident    | 161           | 121            | 113            | 96       | 490   |
-| College degree+ | 402           | 643            | 241            | 241      | 1,528  |
-| Total           | 402           | 643            | 322            | 241      | 1,608  |
+| College degree+ | 402           | 643            | 241            | 241      | 1,528 |
+| Total           | 402           | 643            | 322            | 241      | 1,608 |
 
 : Adult Human Services Staffing Descriptive Statistics (FTE) {#tbl-asstaff}
 
-### How We're Doing
+<!---# ### How We're Doing
+
 @tbl-asperf describes our current performance on indicators aligned with our newly adopted goals separately by ward.
 
-|                                                              | NW | SW | NE | SE |
-| ------------------------------------------------------------ | -- | -- | -- | -- |
-| Percent of job training participants employed 6 months later | 72 | 39 | 67 | 85 |
-| Average time spent in temporary shelters (in weeks)          | 36 | 12 | 16 | 38 |
-| Percent SNAP eligible receiving SNAP                         | 35 | 88 | 65 | 42 |
+|                                                              | NW  | SW  | NE  | SE  |
+|------------------------------------------------|------|------|------|------|
+| Percent of job training participants employed 6 months later | 72  | 39  | 67  | 85  |
+| Average time spent in temporary shelters (in weeks)          | 36  | 12  | 16  | 38  |
+| Percent SNAP eligible receiving SNAP                         | 35  | 88  | 65  | 42  |
 
 : Adult Human Services Performance Indicators by Ward {#tbl-asperf}
 
 ## Current Operations Budget
+
 @tbl-asbudget22 provides an overview of Adult Human Service's FY22 Operations Budget. The Mayor's proposed budget provided our request for a 32,404,803 increase for FY22. After meeting with non-profit executives and the broader public. In the coming year, we are prioritizing an increase in SNAP funding to supplement federal and state dollars and provide more generous food subsidies; an increase in disability support services, and increase in efforts to prevent homelessness by focusing on housing placement and improved emergency rent subsidies.
 
-::: {#tbl-asbudget22 layout-ncol=2}
-| Adult Human Services | 411,397 |
-| ---------------- | --------- |
-| Cash assistance             | 98,497  |
-| Job training                | 27,837  |
-| SNAP                        | 8,906   |
-| Case management             | 22,479  |
-| Eligibility determination   | 76,189  |
-| Disability                  | 12,474   |
-| Domestic violence shelters | 4,524  |
-| Homelessness prevention     | 10,114  |
-| Mental health services      | 67,839 |
-| Substance abuse services    | 42,061 |
-| Management | 40,104 |
+::: {#tbl-asbudget22 layout-ncol="2"}
+| Adult Human Services       | 411,397 |
+|----------------------------|---------|
+| Cash assistance            | 98,497  |
+| Job training               | 27,837  |
+| SNAP                       | 8,906   |
+| Case management            | 22,479  |
+| Eligibility determination  | 76,189  |
+| Disability                 | 12,474  |
+| Domestic violence shelters | 4,524   |
+| Homelessness prevention    | 10,114  |
+| Mental health services     | 67,839  |
+| Substance abuse services   | 42,061  |
+| Management                 | 40,104  |
 
 : Adult Human Services Operations (in 1,000s) {#tbl-asops22}
 
 | Adult Human Services | 411,397 |
-| -------------------- | -------------- |
-| Personnel FT Pay | 249,224 |
-| Pay - Other | 96,165 |
-| Fringe benefits | 60,273 |
-| Overtime | 1,699 |
+|----------------------|---------|
+| Personnel FT Pay     | 249,224 |
+| Pay - Other          | 96,165  |
+| Fringe benefits      | 60,273  |
+| Overtime             | 1,699   |
 
 : Adult Human Services Expenditures (in 1,000s) {#tbl-asexp22}
 
 Budget Overview FY22
 :::
+--->
+## FY22 Operations Budget
 
-## FY21 Operations Budget
-@tbl-asbudget provides an overview of the FY21 budget for Adult Human Services broken out by operations and the source of the expenditure. 
+@tbl-asbudget provides an overview of the FY21 budget for Adult Human Services broken out by operations and the source of the expenditure.
 
-::: {#tbl-asbudget layout-ncol=2}
-| Adult Human Services | 378,993 |
-| ---------------- | --------- |
-| Cash assistance             | 96,997  |
-| Job training                | 27,686  |
-| SNAP                        | 1,155   |
-| Case management             | 20,979  |
-| Eligibility determination   | 75,189  |
-| Disability                  | 3,345   |
-| Domestic violence shelters | 2,024  |
-| Homelessness prevention     | 5,114  |
-| Mental health services      | 66,839 |
-| Substance abuse services    | 40,561 |
-| Management | 39,104 |
+::: {#tbl-asbudget layout-ncol="2"}
+| Adult Human Services       | 378,993 |
+|----------------------------|---------|
+| Cash assistance            | 96,997  |
+| Job training               | 27,686  |
+| SNAP                       | 1,155   |
+| Case management            | 20,979  |
+| Eligibility determination  | 75,189  |
+| Disability                 | 3,345   |
+| Domestic violence shelters | 2,024   |
+| Homelessness prevention    | 5,114   |
+| Mental health services     | 66,839  |
+| Substance abuse services   | 40,561  |
+| Management                 | 39,104  |
 
 : Adult Human Services Operations (in 1,000s) {#tbl-asops}
 
 | Adult Human Services | 378,993 |
-| -------------------- | -------------- |
-| Personnel FT Pay | 233,224 |
-| Pay - Other | 88,165 |
-| Fringe benefits | 52,273 |
-| Overtime | 1,294 |
+|----------------------|---------|
+| Personnel FT Pay     | 233,224 |
+| Pay - Other          | 88,165  |
+| Fringe benefits      | 52,273  |
+| Overtime             | 1,294   |
 
 : Adult Human Services Expenditures (in 1,000s) {#tbl-asexp}
 
-Budget Overview FY21
+Budget Overview FY22
 :::

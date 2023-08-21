@@ -34,6 +34,7 @@ Our Mission is to safeguard public health in Hopetopia by ensuring that the buil
 
 : Buildings and Regulations Agency taffing Descriptive Statistics (FTE) {#tbl-brstaff}
 
+<!---
 ### How We're Doing
 
 @tbl-brperf captures our agency's current performance toward our newly adopted goals separately by ward.
@@ -45,7 +46,7 @@ Our Mission is to safeguard public health in Hopetopia by ensuring that the buil
 | Average time for project approval (in months)           | 16  | 10  | 13  | 18  |
 
 : Buildings and Regulations Agency Performance Indicators by Ward {#tbl-brperf}
-<!---#
+
 ## Current Operations Budget
 
 @tbl-brbudget22 lays our our FY22 operations budget. The mayor proposed a 4,317,000 increase in our budget. After meeting with property owners through several homeowner's associations and rotary club meetings, we have prioritized code enforcement in our allocation of the new funds. We have also increased our staffing for proposal review after consultation with local developers and construction companies.

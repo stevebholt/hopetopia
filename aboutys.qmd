@@ -2,40 +2,45 @@
 title: "Youth Social Services"
 ---
 
-## Mission Statement
-Hopetopia's Youth Social Services Department promotes the safety, security, well-being, and advancement of our youth. We meet our priorities by investigating reports of abuse, providing child protective and placement services, offering summer learning programs, opening access to recreational programs and career opportunities, as well as making available early childhood education programs to our communities. The Youth Social Services Department aims to continue making Hopetopia a source of security and innovation for our youngest residents.
+<!---# ## Mission Statement
 
+Hopetopia's Youth Social Services Department promotes the safety, security, well-being, and advancement of our youth. We meet our priorities by investigating reports of abuse, providing child protective and placement services, offering summer learning programs, opening access to recreational programs and career opportunities, as well as making available early childhood education programs to our communities. The Youth Social Services Department aims to continue making Hopetopia a source of security and innovation for our youngest residents.
+--->
 ## Recent News
-:::{.callout-note}
+<!---#
+::: callout-note
 **10/6/2022** In conjunction with city-wide efforts to improve services, Youth Social Services has identified three performance goals that it will begin tracking and reporting publicly. 1. Increase participation in internship, summer jobs, and recreational programs. 2. Increase parental satisfaction with early education services. 3. Reducing the number of recurring abuse cases without permanent intervention or resolution.
 :::
 
-:::{.callout-note}
+::: callout-note
 **9/12/2022** Youth Social Services provides foster care services and responds to and investigates reports of abuse (child protection services below). In addition, the youth services side of the department operates summer learning programs and early childhood education programs in coordination with the school district, an internship and jobs program for teens in the city, and recreational sport programs for low- and middle-income youth.
 :::
+--->
 
 ## Operations
 
 ### Who We Are
-@tbl-ysstaff provides an overview of the characteristics of our workforce by position. 
+
+@tbl-ysstaff provides an overview of the characteristics of our workforce by position.
 
 |                 | Psychiatrists | Social workers | Central Office | Trainers | Total |
-| --------------- | ------------- | -------------- | -------------- | -------- | ----- |
-| White           | 142           | 1,780           | 712            | 178      | 2,812  |
+|------------|------------|------------|------------|------------|------------|
+| White           | 142           | 1,780          | 712            | 178      | 2,812 |
 | Non-white       | 36            | 356            | 178            | 178      | 748   |
-| Male            | 53            | 534            | 356            | 89       | 1,032  |
-| Female          | 125           | 1,602           | 534            | 267      | 2,528  |
+| Male            | 53            | 534            | 356            | 89       | 1,032 |
+| Female          | 125           | 1,602          | 534            | 267      | 2,528 |
 | Non-resident    | 142           | 356            | 178            | 53       | 730   |
-| College degree+ | 178           | 2,136           | 534            | 356      | 3,204  |
-| Total           | 178           | 2,136           | 890            | 356      | 3,560  |
+| College degree+ | 178           | 2,136          | 534            | 356      | 3,204 |
+| Total           | 178           | 2,136          | 890            | 356      | 3,560 |
 
 : Youth Social Services Staffing Descriptive Statistics (FTE) {#tbl-ysstaff}
 
-### How We're Doing
+<!---# ### How We're Doing
+
 @tbl-ysperf summarizes our current status on our new goals. The satisfaction grade is based on parent survey averages aggregated to the ward-level on scale of 0 to 100. Parents are prompted to grade the services they have received overall. Our child protection services investigate 2,400 reports of child abuse per year, with each ward ranging between 400 and 800 cases per year.
 
 |                                                         | NW    | SW    | NE    | SE    |
-| ------------------------------------------------------- | ----- | ----- | ----- | ----- |
+|----------------------------------------|--------|--------|--------|--------|
 | Enrollment in internships, summer jobs, and rec leagues | 1,200 | 4,000 | 5,200 | 2,000 |
 | Early Education Overall Satisfaction Grade (0-100)      | 89    | 78    | 85    | 93    |
 | Percent of abuse cases that re-occur at least once      | 10    | 27    | 32    | 48    |
@@ -43,57 +48,59 @@ Hopetopia's Youth Social Services Department promotes the safety, security, well
 : Youth Social Services Performance Indicators by Ward {#tbl-ysperf}
 
 ## Current Operating Budget
-@tbl-ysbudget22 provides an overview of our FY22 budget. The Mayor proposed an increase of 15,514,000. After meeting with the PTA, Hopetopia chapter of the Boys & Girls Club, and surveying the youth of Hopetopia, we have proposed an increased focus on summer jobs programs and child protection services. We've also provided a modest increase in funding for early education. 
 
+@tbl-ysbudget22 provides an overview of our FY22 budget. The Mayor proposed an increase of 15,514,000. After meeting with the PTA, Hopetopia chapter of the Boys & Girls Club, and surveying the youth of Hopetopia, we have proposed an increased focus on summer jobs programs and child protection services. We've also provided a modest increase in funding for early education.
 
-::: {#tbl-ysbudget22 layout-ncol=2}
-| Youth Social Services          | 197,227 |
-| ------------------------------ | ------- |
-| Child protective services      | 29,819  |
-| Adoption and guardianship      | 32,875  |
-| Sports, recreation, and summer jobs programs | 1,907     |
-| Child placement                | 50,754  |
-| Management                     | 43,385  |
-| Early education subsidy        | 37,973  |
+::: {#tbl-ysbudget22 layout-ncol="2"}
+| Youth Social Services                        | 197,227 |
+|----------------------------------------------|---------|
+| Child protective services                    | 29,819  |
+| Adoption and guardianship                    | 32,875  |
+| Sports, recreation, and summer jobs programs | 1,907   |
+| Child placement                              | 50,754  |
+| Management                                   | 43,385  |
+| Early education subsidy                      | 37,973  |
 
 : Youth Social Services Operations (in 1,000s) {#tbl-ysops22}
 
 | Youth Social Services | 197,227 |
-| -------------------- | -------------- |
-| Personnel FT Pay | 116,822 |
-| Pay - Other | 47,272 |
-| Fringe benefits | 30,063 |
-| Overtime | 1,135 |
+|-----------------------|---------|
+| Personnel FT Pay      | 116,822 |
+| Pay - Other           | 47,272  |
+| Fringe benefits       | 30,063  |
+| Overtime              | 1,135   |
 
 : Youth Social Services Expenditures (in 1,000s) {#tbl-ysexp22}
 
 Budget Overview FY22
 :::
 
+--->
 
-## FY21 Operating Budget
-@tbl-ysbudget provides an overview of the FY21 budget for Youth Social Services broken out by operations and the source of the expenditure. 
+## FY22 Operating Budget
 
-::: {#tbl-ysbudget layout-ncol=2}
-| Youth Social Services          | 181,713 |
-| ------------------------------ | ------- |
-| Child protective services      | 24,819  |
-| Adoption and guardianship      | 29,875  |
+@tbl-ysbudget provides an overview of the FY22 budget for Youth Social Services broken out by operations and the source of the expenditure.
+
+::: {#tbl-ysbudget layout-ncol="2"}
+| Youth Social Services                        | 181,713 |
+|----------------------------------------------|---------|
+| Child protective services                    | 24,819  |
+| Adoption and guardianship                    | 29,875  |
 | Sports, recreation, and summer jobs programs | 907     |
-| Child placement                | 45,754  |
-| Management                     | 43,385  |
-| Early education subsidy        | 36,973  |
+| Child placement                              | 45,754  |
+| Management                                   | 43,385  |
+| Early education subsidy                      | 36,973  |
 
 : Youth Social Services Operations (in 1,000s) {#tbl-ysops}
 
 | Youth Social Services | 181,713 |
-| -------------------- | -------------- |
-| Personnel FT Pay | 111,822 |
-| Pay - Other | 42,272 |
-| Fringe benefits | 25,063 |
-| Overtime | 621 |
+|-----------------------|---------|
+| Personnel FT Pay      | 111,822 |
+| Pay - Other           | 42,272  |
+| Fringe benefits       | 25,063  |
+| Overtime              | 621     |
 
 : Youth Social Services Expenditures (in 1,000s) {#tbl-ysexp}
 
-Budget Overview FY21
+Budget Overview FY22
 :::

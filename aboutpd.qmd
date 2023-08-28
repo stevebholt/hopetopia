@@ -2,40 +2,49 @@
 title: "Police Department"
 ---
 
-## Mission Statement
+<!---# ## Mission Statement
+
 The Mission of the Hopetopia Police Department is to serve our community through crime prevention and law enforcement. The Hopetopia Police Department aims to protect the city and build trust with the community. Our department aims to reduce crime in a manner that facilitates the social growth of Hopetopia, while also stimulating professional growth within our department.
 
+--->
+
 ## Recent News
-:::{.callout-note}
-**10/6/2022** In conjunction with city-wide efforts to improve services, the Police Department has identified three performance goals that it will begin tracking and reporting publicly. 1. Minimizing the number of officer shifts missed throughout the year (excluding approved leave). 2. Minimizing the ratio of complaints to arrests. 3. Maximizing job satisfaction among officers internally. 
+
+<!---#
+::: callout-note
+**10/6/2022** In conjunction with city-wide efforts to improve services, the Police Department has identified three performance goals that it will begin tracking and reporting publicly. 1. Minimizing the number of officer shifts missed throughout the year (excluding approved leave). 2. Minimizing the ratio of complaints to arrests. 3. Maximizing job satisfaction among officers internally.
 :::
 
-:::{.callout-note}
+::: callout-note
 **9/12/2022** The police chief has been focused on community policing efforts, using assigned and steady patrols who operate on a predicted schedule in pairs and have the same assigned beat for 6-month cycles. Recently, the investigations units unresolved crimes rate has increased by 30%, driven largely by poor clearance rates in the Southwest quadrant. Morale is generally low among your officers as some patrols feel their assigned beats are disproportionately more difficult than others. The department has also been struggling with community relations in the Southwest quadrant where multiple reports of officer misconduct have been verified by the Citizen Review Board.
 :::
+
+--->
 
 ## Operations
 
 ### Who We Are
+
 @tbl-pdstaff summarizes Police Department staffing by position and demographic characteristics of interest to the public.
 
 |                 | Detectives | Sergeants | Officers | Captains | CRB | Total |
-| --------------- | ---------- | --------- | -------- | -------- | --- | ----- |
-| White           | 141        | 705       | 2,073     | 41       | 33  | 2,993  |
-| Non-white       | 25         | 124       | 829      | 0        | 29  | 1,007  |
-| Male            | 145        | 746       | 1,865     | 33       | 25  | 2,815  |
-| Female          | 21         | 83        | 1,036     | 8        | 37  | 1,185  |
-| Non-resident    | 158        | 663       | 2,280     | 17       | 0   | 3,117  |
-| College degree+ | 166        | 622       | 1,036     | 41       | 12  | 1,878  |
-| Total           | 166        | 829       | 2,902     | 41       | 62  | 4,000  |
+|-----------------|------------|-----------|----------|----------|-----|-------|
+| White           | 141        | 705       | 2,073    | 41       | 33  | 2,993 |
+| Non-white       | 25         | 124       | 829      | 0        | 29  | 1,007 |
+| Male            | 145        | 746       | 1,865    | 33       | 25  | 2,815 |
+| Female          | 21         | 83        | 1,036    | 8        | 37  | 1,185 |
+| Non-resident    | 158        | 663       | 2,280    | 17       | 0   | 3,117 |
+| College degree+ | 166        | 622       | 1,036    | 41       | 12  | 1,878 |
+| Total           | 166        | 829       | 2,902    | 41       | 62  | 4,000 |
 
 : Police Department Staffing Descriptive Statistics (FTE) {#tbl-pdstaff}
 
-### How We're Doing
+<!---# ### How We're Doing
+
 @tbl-pdperf provides the average performance on our tracked indicators for officers in each ward. The indicators are measured at the officer-level and then averaged by ward.
 
 |                          | NW   | SW  | NE  | SE   |
-| ------------------------ | ---- | --- | --- | ---- |
+|--------------------------|------|-----|-----|------|
 | Complaint:Arrest ratio   | 1:20 | 1:6 | 1:9 | 1:15 |
 | Number of Missed Shifts  | 30   | 120 | 156 | 10   |
 | Job satisfaction (0-100) | 80   | 30  | 55  | 41   |
@@ -43,83 +52,85 @@ The Mission of the Hopetopia Police Department is to serve our community through
 : Police Department Performance Indicators by Ward {#tbl-pdperf}
 
 ## Current Operations Budget
+
 @tbl-budgetpdall22 provides an overview of the FY22 budget proposed by the mayor and passed by the city council. The mayor's proposed budget allocated a 23,959,600 budgetary increase to the Police and Fire departments. Although the Police Department requested additional resources, the mayor's office approved 13,959,600 in new spending. After meeting with neighborhood associations, the CRB, and attending council hearings, we have allocated the additional resources primarily to professional development - focused on community policing training consistent with the mayor's goals - and investigations. Th bulk of the money will be allocated to hiring new personnel and procuring a contractor for conducting community policing professional development courses. See @tbl-pdallocate22 for details.
 
-::: {#tbl-budgetpdall22 layout-ncol=3}
-| Policing and Corrections | 961,282 |
-| -------------------------------- | -------------- |
-| Police                           | 586,124 |
-| Investigations and Forensics    | 25,113  |
-| Corrections and Rehabilitation   | 255,141 |
-| Communications and Other     | 76,404 |
-| Capital & Equipment | 18,000 |
-| Citizen Review Board             | 500     |
+::: {#tbl-budgetpdall22 layout-ncol="3"}
+| Policing and Corrections       | 961,282 |
+|--------------------------------|---------|
+| Police                         | 586,124 |
+| Investigations and Forensics   | 25,113  |
+| Corrections and Rehabilitation | 255,141 |
+| Communications and Other       | 76,404  |
+| Capital & Equipment            | 18,000  |
+| Citizen Review Board           | 500     |
 
 : Operations Budget for FY22 (in 1,000s) {#tbl-budgetpd22}
 
-| Police | 586,124 |
-| ------------- | -------------- |
-| Capital | 18,000 |
+| Police           | 586,124 |
+|------------------|---------|
+| Capital          | 18,000  |
 | Personnel FT Pay | 387,915 |
-| Pay - Other | 40,330 |
-| Fringe benefits | 88,163 |
-| Overtime | 51,716 |
+| Pay - Other      | 40,330  |
+| Fringe benefits  | 88,163  |
+| Overtime         | 51,716  |
 
 : Police Budget Detail (in 1,000s) {#tbl-pddetail22}
 
-| Police | 586,124 |
-| ------------- | -------------- |
-| Patrol Services | 256,219 |
-| Investigations | 136,373 |
-| Administrative Support | 24,043 |
-| Professional Development | 50,145 |
-| Internal Affairs | 9,308 |
-| Homeland Security | 52,505 |
-| Management | 57,531 |
+| Police                   | 586,124 |
+|--------------------------|---------|
+| Patrol Services          | 256,219 |
+| Investigations           | 136,373 |
+| Administrative Support   | 24,043  |
+| Professional Development | 50,145  |
+| Internal Affairs         | 9,308   |
+| Homeland Security        | 52,505  |
+| Management               | 57,531  |
 
 : Police Operations Allocations {#tbl-pdallocate22}
 
 Budget Overview FY22
 :::
 
+--->
 
-## FY21 Operations Budget
-@tbl-budgetpd outlines our budget for FY21 overall (in thousands) and @tbl-pddetail breaks out the details of the police budget by cost and @tbl-pdallocate breaks out the budget by operations. Our FY22 budget is currently in development.
+## FY22 Operations Budget
 
+@tbl-budgetpd outlines our budget for FY22 overall (in thousands) and @tbl-pddetail breaks out the details of the police budget by cost and @tbl-pdallocate breaks out the budget by operations. Our FY22 budget is currently in development.
 
-::: {#tbl-budgetpdall layout-ncol=3}
-| Policing and Corrections | 947,318 |
-| -------------------------------- | -------------- |
-| Police                           | 572,163 |
-| Investigations and Forensics    | 25,113  |
-| Corrections and Rehabilitation   | 255,141 |
-| Communications and Other     | 76,404 |
-| Capital & Equipment | 18,000 |
-| Citizen Review Board             | 500     |
+::: {#tbl-budgetpdall layout-ncol="3"}
+| Policing and Corrections       | 947,318 |
+|--------------------------------|---------|
+| Police                         | 572,163 |
+| Investigations and Forensics   | 25,113  |
+| Corrections and Rehabilitation | 255,141 |
+| Communications and Other       | 76,404  |
+| Capital & Equipment            | 18,000  |
+| Citizen Review Board           | 500     |
 
-: Operations Budget for FY21 (in 1,000s) {#tbl-budgetpd}
+: Operations Budget for FY22 (in 1,000s) {#tbl-budgetpd}
 
-| Police | 572,163 |
-| ------------- | -------------- |
-| Capital | 18,000 |
+| Police           | 572,163 |
+|------------------|---------|
+| Capital          | 18,000  |
 | Personnel FT Pay | 383,915 |
-| Pay - Other | 34,330 |
-| Fringe benefits | 86,663 |
-| Overtime | 49,252 |
+| Pay - Other      | 34,330  |
+| Fringe benefits  | 86,663  |
+| Overtime         | 49,252  |
 
 : Police Budget Detail (in 1,000s) {#tbl-pddetail}
 
-| Police | 572,163 |
-| ------------- | -------------- |
-| Patrol Services | 256,219 |
-| Investigations | 126,373 |
-| Administrative Support | 24,043 |
-| Professional Development | 46,185 |
-| Internal Affairs | 9,308 |
-| Homeland Security | 52,505 |
-| Management | 57,531 |
+| Police                   | 572,163 |
+|--------------------------|---------|
+| Patrol Services          | 256,219 |
+| Investigations           | 126,373 |
+| Administrative Support   | 24,043  |
+| Professional Development | 46,185  |
+| Internal Affairs         | 9,308   |
+| Homeland Security        | 52,505  |
+| Management               | 57,531  |
 
 : Police Operations Allocations {#tbl-pdallocate}
 
-Budget Overview FY21
+Budget Overview FY22
 :::

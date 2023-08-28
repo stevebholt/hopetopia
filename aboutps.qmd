@@ -2,25 +2,30 @@
 title: "Hopetopia Public Schools"
 ---
 
-## Mission Statement
-We aim to direct public resources responsibly to provide competitive salaries, extracurricular & community events, technology, equipment, supplies, textbooks, utilities, and student services to enhance the school experience for students, parents, teachers, and administrators.
+<!---# ## Mission Statement
 
+We aim to direct public resources responsibly to provide competitive salaries, extracurricular & community events, technology, equipment, supplies, textbooks, utilities, and student services to enhance the school experience for students, parents, teachers, and administrators.
+--->
 ## Recent News
-:::{.callout-note}
+<!---#
+::: callout-note
 **10/6/2022** In conjunction with city-wide efforts to improve services, Hopetopia Public Schools has identified three performance goals that it will begin tracking and reporting publicly. 1. Ensuring the teacher-student ratio across schools does not exceed 1:25. 2. Improving parity in the proportion of veteran teachers at schools across wards. 3. Improving the "on-time" graduation rates across the city.
 :::
 
-:::{.callout-note}
+::: callout-note
 **9/12/2022** The Hopetopia Public School district operates 112 public schools and pays per-student tuition to subsidize an additional 67 charter schools. The schools in the district vary widely in performance. As of late, the schools in the SW and NE quadrants have been struggling and coping with overcrowding. In addition to operating the public school system, you operate the community college in the city - a college that is looking to expand their offerings to include some four-year degrees.
 :::
+
+--->
 
 ## Operations
 
 ### Who We Are
+
 @tbl-psstaff summarizes the characteristics of our workforce by position and demographic characteristics.
 
 |                 | Assistant Principals | Teachers | Support Staff | Principals | Total |
-| --------------- | -------------------- | -------- | ------------- | ---------- | ----- |
+|------------|--------------|------------|------------|------------|------------|
 | White           | 53                   | 3255     | 368           | 59         | 3735  |
 | Non-white       | 13                   | 1184     | 184           | 53         | 1434  |
 | Male            | 105                  | 1217     | 79            | 79         | 1480  |
@@ -31,57 +36,61 @@ We aim to direct public resources responsibly to provide competitive salaries, e
 
 : Hopetopia Public Schools Staffing Descriptive Statistics (FTE) {#tbl-psstaff}
 
-### How We're Doing
+<!---# ### How We're Doing
+
 @tbl-psperf provides an overview of where we are on our goals in the current year. The data provides the average across schools in each ward of the city.
 
-|                                         | NW   | SW   | NE   | SE   |
-| --------------------------------------- | ---- | ---- | ---- | ---- |
-| Average teacher-student ratio           | 1:20 | 1:35 | 1:38 | 1:15 |
-| Percent of teachers >5 years experience | 73   | 46   | 42   | 88   |
-| Percent of students graduating on-time  | 93   | 72   | 64   | 98   |
+|                                          | NW   | SW   | NE   | SE   |
+|------------------------------------------|------|------|------|------|
+| Average teacher-student ratio            | 1:20 | 1:35 | 1:38 | 1:15 |
+| Percent of teachers \>5 years experience | 73   | 46   | 42   | 88   |
+| Percent of students graduating on-time   | 93   | 72   | 64   | 98   |
 
 : Hopetopia Public Schools Performance Indicators by Ward {#tbl-psperf}
 
 ## Current Operations Budget
-@tbl-psbudget22 summarizes the Hopetopia Public School District budget for FY22. After meeting with parents, leaders of the Hopetopia teacher's union, and surveying students in Hopetopia public schools, we have decided to use the 338,198,000 budgetary increase in the Mayor's proposed budget to increase school staffing with the aim of reducing class sizes throughout the district. We are also provided increases to teacher base pay and facilities and materials upgrades throughout the district to improve working conditions and continue to attract and retain talented teachers in our district. 
 
-::: {#tbl-psbudget22 layout-ncol=2}
-| Hopetopia Public Schools | 2,030,549 |
-| ------------------------ | --------- |
-| Salaries (teachers, admin, paras, tutors) | 784,640 |
-| Curriculum and staff development          | 120,413 |
-| Contracted Services                       | 18,988  |
-| Extracurricular & Community Events        | 104,670 |
-| Transportation                            | 10,844  |
-| Technology                                | 6,944   |
-| Equipment                                 | 5,874   |
-| Supplies                                  | 5,346   |
-| Textbooks                                 | 4,807   |
-| Utilities                                 | 3,987   |
-| Student Services                          | 20,558  |
-| Special Education Services                | 450,766 |
-| Students who are EL's                     | 487,714 |
+@tbl-psbudget22 summarizes the Hopetopia Public School District budget for FY22. After meeting with parents, leaders of the Hopetopia teacher's union, and surveying students in Hopetopia public schools, we have decided to use the 338,198,000 budgetary increase in the Mayor's proposed budget to increase school staffing with the aim of reducing class sizes throughout the district. We are also provided increases to teacher base pay and facilities and materials upgrades throughout the district to improve working conditions and continue to attract and retain talented teachers in our district.
+
+::: {#tbl-psbudget22 layout-ncol="2"}
+| Hopetopia Public Schools                  | 2,030,549 |
+|-------------------------------------------|-----------|
+| Salaries (teachers, admin, paras, tutors) | 784,640   |
+| Curriculum and staff development          | 120,413   |
+| Contracted Services                       | 18,988    |
+| Extracurricular & Community Events        | 104,670   |
+| Transportation                            | 10,844    |
+| Technology                                | 6,944     |
+| Equipment                                 | 5,874     |
+| Supplies                                  | 5,346     |
+| Textbooks                                 | 4,807     |
+| Utilities                                 | 3,987     |
+| Student Services                          | 20,558    |
+| Special Education Services                | 450,766   |
+| Students who are EL's                     | 487,714   |
 
 : Public Schools Operations (in 1,000s) {#tbl-psops22}
 
 | Hopetopia Public Schools | 2,030,549 |
-| ------------------------ | --------- |
-| Personnel FT Pay | 1,341,433 |
-| Pay - Other | 393,690 |
-| Fringe benefits | 289,648 |
-| Overtime | 5,778 |
+|--------------------------|-----------|
+| Personnel FT Pay         | 1,341,433 |
+| Pay - Other              | 393,690   |
+| Fringe benefits          | 289,648   |
+| Overtime                 | 5,778     |
 
 : Public Schools Expenditures (in 1,000s) {#tbl-psexp22}
 
 Budget Overview FY22
 :::
 
-## FY21 Operations Budget
-@tbl-psbudget provides an overview of the FY21 budget for Hopetopia Public Schools broken out by operations and the source of the expenditure.
+--->
+## FY22 Operations Budget
 
-::: {#tbl-psbudget layout-ncol=2}
+@tbl-psbudget provides an overview of the FY22 budget for Hopetopia Public Schools broken out by operations and the source of the expenditure.
+
+::: {#tbl-psbudget layout-ncol="2"}
 | Hopetopia Public Schools | 1,692,351 |
-| ------------------------ | --------- |
+|--------------------------|-----------|
 | Public schools           | 995,617   |
 | Charter payments         | 500,675   |
 | Transportation           | 104,959   |
@@ -90,13 +99,13 @@ Budget Overview FY22
 : Public Schools Operations (in 1,000s) {#tbl-psops}
 
 | Hopetopia Public Schools | 1,692,351 |
-| ------------------------ | --------- |
-| Personnel FT Pay | 1,041,433 |
-| Pay - Other | 393,690 |
-| Fringe benefits | 233,418 |
-| Overtime | 5,778 |
+|--------------------------|-----------|
+| Personnel FT Pay         | 1,041,433 |
+| Pay - Other              | 393,690   |
+| Fringe benefits          | 233,418   |
+| Overtime                 | 5,778     |
 
 : Public Schools Expenditures (in 1,000s) {#tbl-psexp}
 
-Budget Overview FY21
+Budget Overview FY22
 :::

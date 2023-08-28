@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.1.175">
+<meta name="generator" content="quarto-1.3.433">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,7 +17,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -55,7 +55,8 @@ ul.task-list li input[type="checkbox"] {
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 
@@ -74,42 +75,56 @@ ul.task-list li input[type="checkbox"] {
     <span class="navbar-title">Hopetopia</span>
     </a>
   </div>
+            <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html">Home</a>
+    <a class="nav-link" href="./index.html" rel="" target="">
+ <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./mayor.html">Mayor</a>
+    <a class="nav-link" href="./mayor.html" rel="" target="">
+ <span class="menu-text">Mayor</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./des.html" aria-current="page">Emergency Services</a>
+    <a class="nav-link active" href="./des.html" rel="" target="" aria-current="page">
+ <span class="menu-text">Emergency Services</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./dcd.html">Community Development</a>
+    <a class="nav-link" href="./dcd.html" rel="" target="">
+ <span class="menu-text">Community Development</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./dss.html">Social Services</a>
+    <a class="nav-link" href="./dss.html" rel="" target="">
+ <span class="menu-text">Social Services</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./dgs.html">General Services</a>
+    <a class="nav-link" href="./dgs.html" rel="" target="">
+ <span class="menu-text">General Services</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./ed.html">Education</a>
+    <a class="nav-link" href="./ed.html" rel="" target="">
+ <span class="menu-text">Education</span></a>
   </li>  
 </ul>
-              <div id="quarto-search" class="" title="Search"></div>
+            <div class="quarto-navbar-tools ms-auto">
+</div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
-  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-    <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">Fire Department</h1>
-      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
-        <i class="bi bi-chevron-right"></i>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./aboutfd.html">Fire Department</a></li></ol></nav>
+      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+      </a>
+      <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
       </button>
     </div>
   </nav>
@@ -117,47 +132,48 @@ ul.task-list li input[type="checkbox"] {
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation docked overflow-auto">
-      <div class="mt-2 flex-shrink-0 align-items-center">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation docked overflow-auto">
+        <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
         <div id="quarto-search" class="" title="Search"></div>
         </div>
-      </div>
+        </div>
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./des.html" class="sidebar-item-text sidebar-link">Department of Emergency Services</a>
+  <a href="./des.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Department of Emergency Services</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./aboutpd.html" class="sidebar-item-text sidebar-link">Police Department</a>
+  <a href="./aboutpd.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Police Department</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./aboutfd.html" class="sidebar-item-text sidebar-link active">Fire Department</a>
+  <a href="./aboutfd.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Fire Department</span></a>
   </div>
 </li>
     </ul>
     </div>
 </nav>
+<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#mission-statement" id="toc-mission-statement" class="nav-link active" data-scroll-target="#mission-statement">Mission Statement</a></li>
-  <li><a href="#recent-news" id="toc-recent-news" class="nav-link" data-scroll-target="#recent-news">Recent News</a></li>
+  <li><a href="#recent-news" id="toc-recent-news" class="nav-link active" data-scroll-target="#recent-news">Recent News</a></li>
   <li><a href="#operations" id="toc-operations" class="nav-link" data-scroll-target="#operations">Operations</a>
   <ul class="collapse">
   <li><a href="#who-we-are" id="toc-who-we-are" class="nav-link" data-scroll-target="#who-we-are">Who We Are</a></li>
-  <li><a href="#how-were-doing" id="toc-how-were-doing" class="nav-link" data-scroll-target="#how-were-doing">How We’re Doing</a></li>
   </ul></li>
-  <li><a href="#current-operations-budget" id="toc-current-operations-budget" class="nav-link" data-scroll-target="#current-operations-budget">Current Operations Budget</a></li>
-  <li><a href="#fy21-operations-budget" id="toc-fy21-operations-budget" class="nav-link" data-scroll-target="#fy21-operations-budget">FY21 Operations Budget</a></li>
+  <li><a href="#fy22-operations-budget" id="toc-fy22-operations-budget" class="nav-link" data-scroll-target="#fy22-operations-budget">FY22 Operations Budget</a></li>
   </ul>
 </nav>
     </div>
@@ -166,7 +182,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block">Fire Department</h1>
+<h1 class="title">Fire Department</h1>
 </div>
 
 
@@ -174,44 +190,29 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-title-meta">
 
     
+  
     
   </div>
   
 
 </header>
 
-<section id="mission-statement" class="level2">
-<h2 class="anchored" data-anchor-id="mission-statement">Mission Statement</h2>
-<p>Protecting the lives and property of Hopetopia citizens in a timely effective response to calls for services and enhancing the safety of our community through a collaborative public education and fire prevention program.</p>
-</section>
+<!---#
+## Mission Statement
+
+Protecting the lives and property of Hopetopia citizens in a timely effective response to calls for services and enhancing the safety of our community through a collaborative public education and fire prevention program.
+--->
 <section id="recent-news" class="level2">
 <h2 class="anchored" data-anchor-id="recent-news">Recent News</h2>
-<div class="callout-note callout callout-style-default callout-captioned">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-caption-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p><strong>10/6/2022</strong> In conjunction with city-wide efforts to improve services, the Fire Department has identified three performance goals that it will begin tracking and reporting publicly. 1. 90% of calls receive first response in under 7 mins. w/ at least 4 people and full force assembly within 11 mins. 2. Maintain effective minimum staffing of 5, 6 for identified high-volume areas, and 8 for dense urban areas. 3. 90% of calls processed within 60 seconds and 95% of calls processed within 106 seconds.</p>
-</div>
-</div>
-<div class="callout-note callout callout-style-default callout-captioned">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-caption-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p><strong>9/12/2022</strong> Under the long-standing fire chief, morale is generally high, though the number of fires due to faulty wiring has been increasing. The fire chief believes inspection efforts for fire safety are underfunded and should be a priority.</p>
-</div>
-</div>
+<!---#
+::: callout-note
+**10/6/2022** In conjunction with city-wide efforts to improve services, the Fire Department has identified three performance goals that it will begin tracking and reporting publicly. 1. 90% of calls receive first response in under 7 mins. w/ at least 4 people and full force assembly within 11 mins. 2. Maintain effective minimum staffing of 5, 6 for identified high-volume areas, and 8 for dense urban areas. 3. 90% of calls processed within 60 seconds and 95% of calls processed within 106 seconds.
+:::
+
+::: callout-note
+**9/12/2022** Under the long-standing fire chief, morale is generally high, though the number of fires due to faulty wiring has been increasing. The fire chief believes inspection efforts for fire safety are underfunded and should be a priority.
+:::
+--->
 </section>
 <section id="operations" class="level2">
 <h2 class="anchored" data-anchor-id="operations">Operations</h2>
@@ -222,13 +223,13 @@ Note
 <table class="table">
 <caption>Table&nbsp;1: Fire Department Staffing Descriptive Statistics (FTE)</caption>
 <colgroup>
-<col style="width: 18%">
-<col style="width: 12%">
-<col style="width: 16%">
-<col style="width: 17%">
 <col style="width: 14%">
 <col style="width: 14%">
-<col style="width: 6%">
+<col style="width: 14%">
+<col style="width: 14%">
+<col style="width: 14%">
+<col style="width: 14%">
+<col style="width: 14%">
 </colgroup>
 <thead>
 <tr class="header">
@@ -308,144 +309,61 @@ Note
 </tbody>
 </table>
 </div>
-</section>
-<section id="how-were-doing" class="level3">
-<h3 class="anchored" data-anchor-id="how-were-doing">How We’re Doing</h3>
-<p><a href="#tbl-fdperf">Table&nbsp;2</a> reports the average performance of stations in each Ward on our new performance indicators for the first half of 2022.</p>
-<div id="tbl-fdperf" class="anchored">
-<table class="table">
-<caption>Table&nbsp;2: Fire Department Performance Indicators by Ward</caption>
-<thead>
-<tr class="header">
-<th></th>
-<th>NW</th>
-<th>SW</th>
-<th>NE</th>
-<th>SE</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Percent of responses w/in 4 mins</td>
-<td>92</td>
-<td>73</td>
-<td>53</td>
-<td>98</td>
-</tr>
-<tr class="even">
-<td>Percent of full assembly w/in 8 mins</td>
-<td>67</td>
-<td>80</td>
-<td>62</td>
-<td>95</td>
-</tr>
-<tr class="odd">
-<td>Percent of responses w/ 5+ firefighters</td>
-<td>89</td>
-<td>54</td>
-<td>75</td>
-<td>92</td>
-</tr>
-<tr class="even">
-<td>Percent of calls processed in &lt;60 seconds</td>
-<td>98</td>
-<td>80</td>
-<td>77</td>
-<td>97</td>
-</tr>
-</tbody>
-</table>
-</div>
+<!---#
+### How We're Doing
+
+@tbl-fdperf reports the average performance of stations in each Ward on our new performance indicators for the first half of 2022.
+
+|                                            | NW  | SW  | NE  | SE  |
+|--------------------------------------------|-----|-----|-----|-----|
+| Percent of responses w/in 4 mins           | 92  | 73  | 53  | 98  |
+| Percent of full assembly w/in 8 mins       | 67  | 80  | 62  | 95  |
+| Percent of responses w/ 5+ firefighters    | 89  | 54  | 75  | 92  |
+| Percent of calls processed in \<60 seconds | 98  | 80  | 77  | 97  |
+
+: Fire Department Performance Indicators by Ward {#tbl-fdperf}
+
+## Current Operations Budget
+
+@tbl-budgetfdall22 provides an overview of the FY22 budget proposed by the mayor and passed by the city council. The mayor's proposed budget allocated a 23,959,600 budgetary increase to the Police and Fire departments. Although the Fire Department requested more resources, the mayor proposed a 10,000,000 increase in the operations budget. After a month of general public forums in each ward, we have identified timely inspections as a priority for the coming year. Accordingly, we have allocated an additional 8,000,000 to prevention and inspections and an additional 2,000,000 in professional development to hire and train additional fire safety inspectors throughout the city. @tbl-fdops22 summarizes out allocations for the coming year.
+
+::: {#tbl-budgetfdall22 layout-ncol="2"}
+| Fire                       | 292,037 |
+|----------------------------|---------|
+| Operations                 | 181,889 |
+| Administrative support     | 20,235  |
+| Support Services           | 25,296  |
+| Prevention and Inspections | 32,408  |
+| Professional Development   | 12,254  |
+| Management                 | 19,955  |
+
+: Operations Budget for FY22 (in 1,000s) {#tbl-fdops22}
+
+| Fire             | 292,037 |
+|------------------|---------|
+| Personnel FT Pay | 182,559 |
+| Pay - Other      | 963     |
+| Fringe benefits  | 40,900  |
+| Overtime         | 67,615  |
+
+: Operations Budget for FY22 (in 1,000s) {#tbl-fddetail22}
+
+Budget Overview
+:::
+--->
 </section>
 </section>
-<section id="current-operations-budget" class="level2">
-<h2 class="anchored" data-anchor-id="current-operations-budget">Current Operations Budget</h2>
-<p><a href="#tbl-budgetfdall22">Table&nbsp;3</a> provides an overview of the FY22 budget proposed by the mayor and passed by the city council. The mayor’s proposed budget allocated a 23,959,600 budgetary increase to the Police and Fire departments. Although the Fire Department requested more resources, the mayor proposed a 10,000,000 increase in the operations budget. After a month of general public forums in each ward, we have identified timely inspections as a priority for the coming year. Accordingly, we have allocated an additional 8,000,000 to prevention and inspections and an additional 2,000,000 in professional development to hire and train additional fire safety inspectors throughout the city. <a href="#tbl-fdops22">Table&nbsp;3 (a)</a> summarizes out allocations for the coming year.</p>
-<div id="tbl-budgetfdall22" class="tbl-parent quarto-layout-panel anchored">
-<div class="panel-caption table-caption">
-<p>Table&nbsp;3: Budget Overview</p>
-</div>
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div id="tbl-fdops22" class="quarto-layout-cell quarto-layout-cell-subref anchored" data-ref-parent="tbl-budgetfdall22" style="flex-basis: 50.0%;justify-content: center;">
-<table class="table">
-<caption>(a) Operations Budget for FY22 (in 1,000s)</caption>
-<thead>
-<tr class="header">
-<th style="text-align: left;">Fire</th>
-<th style="text-align: left;">292,037</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">Operations</td>
-<td style="text-align: left;">181,889</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Administrative support</td>
-<td style="text-align: left;">20,235</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Support Services</td>
-<td style="text-align: left;">25,296</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Prevention and Inspections</td>
-<td style="text-align: left;">32,408</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Professional Development</td>
-<td style="text-align: left;">12,254</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Management</td>
-<td style="text-align: left;">19,955</td>
-</tr>
-</tbody>
-</table>
-</div>
-<div id="tbl-fddetail22" class="quarto-layout-cell quarto-layout-cell-subref anchored" data-ref-parent="tbl-budgetfdall22" style="flex-basis: 50.0%;justify-content: center;">
-<table class="table">
-<caption>(b) Operations Budget for FY22 (in 1,000s)</caption>
-<thead>
-<tr class="header">
-<th style="text-align: left;">Fire</th>
-<th style="text-align: left;">292,037</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">Personnel FT Pay</td>
-<td style="text-align: left;">182,559</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Pay - Other</td>
-<td style="text-align: left;">963</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Fringe benefits</td>
-<td style="text-align: left;">40,900</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Overtime</td>
-<td style="text-align: left;">67,615</td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-</div>
-</section>
-<section id="fy21-operations-budget" class="level2">
-<h2 class="anchored" data-anchor-id="fy21-operations-budget">FY21 Operations Budget</h2>
-<p><a href="#tbl-budgetfdall">Table&nbsp;4</a> outlines our budget for FY21. <a href="#tbl-fdops">Table&nbsp;4 (a)</a> summarizes the budget by operations and <a href="#tbl-fddetail">Table&nbsp;4 (b)</a> summarizes the budget by type of expenditure. Our FY22 budget is current in development.</p>
+<section id="fy22-operations-budget" class="level2">
+<h2 class="anchored" data-anchor-id="fy22-operations-budget">FY22 Operations Budget</h2>
+<p><a href="#tbl-budgetfdall">Table&nbsp;2</a> outlines our budget for FY22. <a href="#tbl-fdops">Table&nbsp;2 (a)</a> summarizes the budget by operations and <a href="#tbl-fddetail">Table&nbsp;2 (b)</a> summarizes the budget by type of expenditure. Our FY23 budget is currently in development.</p>
 <div id="tbl-budgetfdall" class="tbl-parent quarto-layout-panel anchored">
 <div class="panel-caption table-caption">
-<p>Table&nbsp;4: Budget Overview</p>
+<p>Table&nbsp;2: Budget Overview</p>
 </div>
 <div class="quarto-layout-row quarto-layout-valign-top">
 <div id="tbl-fdops" class="quarto-layout-cell quarto-layout-cell-subref anchored" data-ref-parent="tbl-budgetfdall" style="flex-basis: 50.0%;justify-content: center;">
 <table class="table">
-<caption>(a) Operations Budget for FY21 (in 1,000s)</caption>
+<caption>(a) Operations Budget for FY22 (in 1,000s)</caption>
 <thead>
 <tr class="header">
 <th style="text-align: left;">Fire</th>
@@ -482,7 +400,7 @@ Note
 </div>
 <div id="tbl-fddetail" class="quarto-layout-cell quarto-layout-cell-subref anchored" data-ref-parent="tbl-budgetfdall" style="flex-basis: 50.0%;justify-content: center;">
 <table class="table">
-<caption>(b) Operations Budget for FY21 (in 1,000s)</caption>
+<caption>(b) Operations Budget for FY22 (in 1,000s)</caption>
 <thead>
 <tr class="header">
 <th style="text-align: left;">Fire</th>
@@ -543,9 +461,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -557,7 +489,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
     button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
     setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
       button.setAttribute("title", currentTitle);
       button.classList.remove('code-copy-button-checked');
     }, 1000);
@@ -593,24 +542,128 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
   var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
   for (var i=0; i<bibliorefs.length; i++) {
     const ref = bibliorefs[i];
-    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
-    tippyHover(ref, function() {
-      var popup = window.document.createElement('div');
-      cites.forEach(function(cite) {
-        var citeDiv = window.document.createElement('div');
-        citeDiv.classList.add('hanging-indent');
-        citeDiv.classList.add('csl-entry');
-        var biblioDiv = window.document.getElementById('ref-' + cite);
-        if (biblioDiv) {
-          citeDiv.innerHTML = biblioDiv.innerHTML;
-        }
-        popup.appendChild(citeDiv);
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
       });
-      return popup.innerHTML;
-    });
+    }
   }
 });
 </script>

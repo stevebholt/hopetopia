@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.1.175">
+<meta name="generator" content="quarto-1.3.433">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,7 +17,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -55,7 +55,8 @@ ul.task-list li input[type="checkbox"] {
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 
@@ -74,42 +75,56 @@ ul.task-list li input[type="checkbox"] {
     <span class="navbar-title">Hopetopia</span>
     </a>
   </div>
+            <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html">Home</a>
+    <a class="nav-link" href="./index.html" rel="" target="">
+ <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./mayor.html">Mayor</a>
+    <a class="nav-link" href="./mayor.html" rel="" target="">
+ <span class="menu-text">Mayor</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./des.html">Emergency Services</a>
+    <a class="nav-link" href="./des.html" rel="" target="">
+ <span class="menu-text">Emergency Services</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./dcd.html" aria-current="page">Community Development</a>
+    <a class="nav-link active" href="./dcd.html" rel="" target="" aria-current="page">
+ <span class="menu-text">Community Development</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./dss.html">Social Services</a>
+    <a class="nav-link" href="./dss.html" rel="" target="">
+ <span class="menu-text">Social Services</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./dgs.html">General Services</a>
+    <a class="nav-link" href="./dgs.html" rel="" target="">
+ <span class="menu-text">General Services</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./ed.html">Education</a>
+    <a class="nav-link" href="./ed.html" rel="" target="">
+ <span class="menu-text">Education</span></a>
   </li>  
 </ul>
-              <div id="quarto-search" class="" title="Search"></div>
+            <div class="quarto-navbar-tools ms-auto">
+</div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
-  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-    <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">Housing and Planning Agency</h1>
-      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
-        <i class="bi bi-chevron-right"></i>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./abouthp.html">Housing and Planning Agency</a></li></ol></nav>
+      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+      </a>
+      <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
       </button>
     </div>
   </nav>
@@ -117,47 +132,48 @@ ul.task-list li input[type="checkbox"] {
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation docked overflow-auto">
-      <div class="mt-2 flex-shrink-0 align-items-center">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation docked overflow-auto">
+        <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
         <div id="quarto-search" class="" title="Search"></div>
         </div>
-      </div>
+        </div>
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./dcd.html" class="sidebar-item-text sidebar-link">Department of Community Development</a>
+  <a href="./dcd.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Department of Community Development</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./abouthp.html" class="sidebar-item-text sidebar-link active">Housing and Planning Agency</a>
+  <a href="./abouthp.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Housing and Planning Agency</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./aboutbr.html" class="sidebar-item-text sidebar-link">Buildings and Regulations Agency</a>
+  <a href="./aboutbr.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Buildings and Regulations Agency</span></a>
   </div>
 </li>
     </ul>
     </div>
 </nav>
+<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#misson-statement" id="toc-misson-statement" class="nav-link active" data-scroll-target="#misson-statement">Misson Statement</a></li>
-  <li><a href="#recent-news" id="toc-recent-news" class="nav-link" data-scroll-target="#recent-news">Recent News</a></li>
+  <li><a href="#recent-news" id="toc-recent-news" class="nav-link active" data-scroll-target="#recent-news">Recent News</a></li>
   <li><a href="#operations" id="toc-operations" class="nav-link" data-scroll-target="#operations">Operations</a>
   <ul class="collapse">
   <li><a href="#who-we-are" id="toc-who-we-are" class="nav-link" data-scroll-target="#who-we-are">Who We Are</a></li>
-  <li><a href="#how-were-doing" id="toc-how-were-doing" class="nav-link" data-scroll-target="#how-were-doing">How We’re Doing</a></li>
   </ul></li>
-  <li><a href="#current-operations-budget" id="toc-current-operations-budget" class="nav-link" data-scroll-target="#current-operations-budget">Current Operations Budget</a></li>
-  <li><a href="#fy21-operations-budget" id="toc-fy21-operations-budget" class="nav-link" data-scroll-target="#fy21-operations-budget">FY21 Operations Budget</a></li>
+  <li><a href="#fy22-operations-budget" id="toc-fy22-operations-budget" class="nav-link" data-scroll-target="#fy22-operations-budget">FY22 Operations Budget</a></li>
   </ul>
 </nav>
     </div>
@@ -166,7 +182,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block">Housing and Planning Agency</h1>
+<h1 class="title">Housing and Planning Agency</h1>
 </div>
 
 
@@ -174,44 +190,29 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-title-meta">
 
     
+  
     
   </div>
   
 
 </header>
 
-<section id="misson-statement" class="level2">
-<h2 class="anchored" data-anchor-id="misson-statement">Misson Statement</h2>
-<p>The City of Hopetopia’s Housing and Planning Agency’s mission is to build back better by making our communities and housing more sustainable and affordable for all. Our vision will be to improve the lives of our residents by vowing to create more affordable, diverse and sustainable housing especially in the South Ward. For our stakeholders we promise a strong public engagement strategy which will include regularly scheduled meetings in which their input will be vital to our strategy and success. Overall, through our mission we promise to invest the surplus money budgeted to us for FY22 responsibly to deliver strong results for the community we serve.</p>
-</section>
+<!---#
+## Misson Statement
+
+The City of Hopetopia's Housing and Planning Agency's mission is to build back better by making our communities and housing more sustainable and affordable for all. Our vision will be to improve the lives of our residents by vowing to create more affordable, diverse and sustainable housing especially in the South Ward. For our stakeholders we promise a strong public engagement strategy which will include regularly scheduled meetings in which their input will be vital to our strategy and success. Overall, through our mission we promise to invest the surplus money budgeted to us for FY22 responsibly to deliver strong results for the community we serve.
+--->
 <section id="recent-news" class="level2">
 <h2 class="anchored" data-anchor-id="recent-news">Recent News</h2>
-<div class="callout-note callout callout-style-default callout-captioned">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-caption-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p><strong>10/6/2022</strong> In conjunction with city-wide efforts to improve services, the Housing and Planning Agency has identified three performance goals that it will begin tracking and reporting publicly. 1. A reduction in the number of grants that take longer than 3 months to process. 2. A reduction in the share of maintenance complaints that take longer than 2 weeks to process. 3. An increase in the ratio of eligible residents to available units that are affordable.</p>
-</div>
-</div>
-<div class="callout-note callout callout-style-default callout-captioned">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-caption-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p><strong>9/12/2022</strong> The head of the HPA has been prioritizing acquiring and rehabilitating abandoned properties in the NW quadrant for the last two years. The program prioritizes residential units and after rehabilitation, manages the units directly and offers both market rate and subsidized units. Recently, the market rate units have been experiencing vacancy rates as many other services and businesses are not convenient to the SW quadrant. Real Estate partners have also noted that the home ownership development programs are often insufficiently funded for SW residents given their economic need. As a result, most of the program helps first time home buyers in the SE and NW quadrants.</p>
-</div>
-</div>
+<!---#
+::: callout-note
+**10/6/2022** In conjunction with city-wide efforts to improve services, the Housing and Planning Agency has identified three performance goals that it will begin tracking and reporting publicly. 1. A reduction in the number of grants that take longer than 3 months to process. 2. A reduction in the share of maintenance complaints that take longer than 2 weeks to process. 3. An increase in the ratio of eligible residents to available units that are affordable.
+:::
+
+::: callout-note
+**9/12/2022** The head of the HPA has been prioritizing acquiring and rehabilitating abandoned properties in the NW quadrant for the last two years. The program prioritizes residential units and after rehabilitation, manages the units directly and offers both market rate and subsidized units. Recently, the market rate units have been experiencing vacancy rates as many other services and businesses are not convenient to the SW quadrant. Real Estate partners have also noted that the home ownership development programs are often insufficiently funded for SW residents given their economic need. As a result, most of the program helps first time home buyers in the SE and NW quadrants.
+:::
+--->
 </section>
 <section id="operations" class="level2">
 <h2 class="anchored" data-anchor-id="operations">Operations</h2>
@@ -222,12 +223,12 @@ Note
 <table class="table">
 <caption>Table&nbsp;1: Housing and Planning Agency Staffing Descriptive Statistics (FTE)</caption>
 <colgroup>
-<col style="width: 23%">
-<col style="width: 15%">
-<col style="width: 21%">
+<col style="width: 22%">
+<col style="width: 16%">
+<col style="width: 20%">
 <col style="width: 12%">
 <col style="width: 18%">
-<col style="width: 7%">
+<col style="width: 9%">
 </colgroup>
 <thead>
 <tr class="header">
@@ -299,151 +300,58 @@ Note
 </tbody>
 </table>
 </div>
-</section>
-<section id="how-were-doing" class="level3">
-<h3 class="anchored" data-anchor-id="how-were-doing">How We’re Doing</h3>
-<p><a href="#tbl-hpperf">Table&nbsp;2</a> summarizes our preliminary performance assessment on our newly adopted performance metrics separately by ward. City-wide, we process 1,200 grants per year and 2,000 code enforcement calls per year.</p>
-<div id="tbl-hpperf" class="anchored">
-<table class="table">
-<caption>Table&nbsp;2: Housing and Planning Agency Performance Indicators by Ward</caption>
-<colgroup>
-<col style="width: 71%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-</colgroup>
-<thead>
-<tr class="header">
-<th></th>
-<th>NW</th>
-<th>SW</th>
-<th>NE</th>
-<th>SE</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Eligible resident:Affordable unit ratio</td>
-<td>80:1</td>
-<td>25:1</td>
-<td>35:1</td>
-<td>60:1</td>
-</tr>
-<tr class="even">
-<td>Number of grants &lt; 3 month delay</td>
-<td>150</td>
-<td>375</td>
-<td>120</td>
-<td>235</td>
-</tr>
-<tr class="odd">
-<td>Maintenance calls &lt; 2 week response</td>
-<td>120</td>
-<td>300</td>
-<td>250</td>
-<td>20</td>
-</tr>
-</tbody>
-</table>
-</div>
+<!---# ### How We're Doing
+
+@tbl-hpperf summarizes our preliminary performance assessment on our newly adopted performance metrics separately by ward. City-wide, we process 1,200 grants per year and 2,000 code enforcement calls per year.
+
+|                                         | NW   | SW   | NE   | SE   |
+|-----------------------------------------|------|------|------|------|
+| Eligible resident:Affordable unit ratio | 80:1 | 25:1 | 35:1 | 60:1 |
+| Number of grants \< 3 month delay       | 150  | 375  | 120  | 235  |
+| Maintenance calls \< 2 week response    | 120  | 300  | 250  | 20   |
+
+: Housing and Planning Agency Performance Indicators by Ward {#tbl-hpperf}
+
+## Current Operations Budget
+
+@tbl-hpbudget presents our operating budget for FY22. The mayor proposed and council passed a 67,562,000 increase in our operations budget. After meeting with housing and tenant advocates in the Southwest, Northeast, and Northwest quadrants, we have drafted a set of investments that will improve homeownership and subsidized housing throughout the city. This fiscal year will focus on housing stock in NW and homeowner opportunities in SW.
+
+::: {#tbl-hpbudget22 layout-ncol="2"}
+| Housing and Planning Agency    | 208,705 |
+|--------------------------------|---------|
+| Planning                       | 20,000  |
+| Housing subsidies              | 12,000  |
+| Rehabilitation and Maintenance | 6,276   |
+| Homeless services              | 5,721   |
+| Vouchers                       | 81,500  |
+| Supportive Housing             | 28,001  |
+| Affordable Housing Families    | 25,564  |
+| Affordable Housing Indiv.      | 7,630   |
+| Rental Assistance              | 22,013  |
+
+: Housing and Planning Operations (in 1,000s) {#tbl-hpops22}
+
+| Housing and Planning Agency | 208,705 |
+|-----------------------------|---------|
+| Personnel FT Pay            | 116,856 |
+| Pay - Other                 | 2,482   |
+| Fringe benefits             | 49,467  |
+| Overtime                    | 39,900  |
+
+: Housing and Planning Expenditures (in 1,000s) {#tbl-hpdetail22}
+
+Budget Overview FY22
+:::
+
+--->
 </section>
 </section>
-<section id="current-operations-budget" class="level2">
-<h2 class="anchored" data-anchor-id="current-operations-budget">Current Operations Budget</h2>
-<p><a href="#tbl-hpbudget">Table&nbsp;4</a> presents our operating budget for FY22. The mayor proposed and council passed a 67,562,000 increase in our operations budget. After meeting with housing and tenant advocates in the Southwest, Northeast, and Northwest quadrants, we have drafted a set of investments that will improve homeownership and subsidized housing throughout the city. This fiscal year will focus on housing stock in NW and homeowner opportunities in SW.</p>
-<div id="tbl-hpbudget22" class="tbl-parent quarto-layout-panel anchored">
-<div class="panel-caption table-caption">
-<p>Table&nbsp;3: Budget Overview FY22</p>
-</div>
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div id="tbl-hpops22" class="quarto-layout-cell quarto-layout-cell-subref anchored" data-ref-parent="tbl-hpbudget22" style="flex-basis: 50.0%;justify-content: center;">
-<table class="table">
-<caption>(a) Housing and Planning Operations (in 1,000s)</caption>
-<thead>
-<tr class="header">
-<th style="text-align: left;">Housing and Planning Agency</th>
-<th style="text-align: left;">208,705</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">Planning</td>
-<td style="text-align: left;">20,000</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Housing subsidies</td>
-<td style="text-align: left;">12,000</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Rehabilitation and Maintenance</td>
-<td style="text-align: left;">6,276</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Homeless services</td>
-<td style="text-align: left;">5,721</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Vouchers</td>
-<td style="text-align: left;">81,500</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Supportive Housing</td>
-<td style="text-align: left;">28,001</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Affordable Housing Families</td>
-<td style="text-align: left;">25,564</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Affordable Housing Indiv.</td>
-<td style="text-align: left;">7,630</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Rental Assistance</td>
-<td style="text-align: left;">22,013</td>
-</tr>
-</tbody>
-</table>
-</div>
-<div id="tbl-hpdetail22" class="quarto-layout-cell quarto-layout-cell-subref anchored" data-ref-parent="tbl-hpbudget22" style="flex-basis: 50.0%;justify-content: center;">
-<table class="table">
-<caption>(b) Housing and Planning Expenditures (in 1,000s)</caption>
-<thead>
-<tr class="header">
-<th style="text-align: left;">Housing and Planning Agency</th>
-<th style="text-align: left;">208,705</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">Personnel FT Pay</td>
-<td style="text-align: left;">116,856</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Pay - Other</td>
-<td style="text-align: left;">2,482</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Fringe benefits</td>
-<td style="text-align: left;">49,467</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Overtime</td>
-<td style="text-align: left;">39,900</td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-</div>
-</section>
-<section id="fy21-operations-budget" class="level2">
-<h2 class="anchored" data-anchor-id="fy21-operations-budget">FY21 Operations Budget</h2>
-<p><a href="#tbl-hpbudget">Table&nbsp;4</a> provides an overview of the FY21 budget for Housing and Planning broken out by operations and the source of the expenditure.</p>
+<section id="fy22-operations-budget" class="level2">
+<h2 class="anchored" data-anchor-id="fy22-operations-budget">FY22 Operations Budget</h2>
+<p><a href="#tbl-hpbudget">Table&nbsp;2</a> provides an overview of the FY22 budget for Housing and Planning broken out by operations and the source of the expenditure.</p>
 <div id="tbl-hpbudget" class="tbl-parent quarto-layout-panel anchored">
 <div class="panel-caption table-caption">
-<p>Table&nbsp;4: Budget Overview FY21</p>
+<p>Table&nbsp;2: Budget Overview FY22</p>
 </div>
 <div class="quarto-layout-row quarto-layout-valign-top">
 <div id="tbl-hpops" class="quarto-layout-cell quarto-layout-cell-subref anchored" data-ref-parent="tbl-hpbudget" style="flex-basis: 50.0%;justify-content: center;">
@@ -558,9 +466,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -572,7 +494,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
     button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
     setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
       button.setAttribute("title", currentTitle);
       button.classList.remove('code-copy-button-checked');
     }, 1000);
@@ -608,24 +547,128 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
   var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
   for (var i=0; i<bibliorefs.length; i++) {
     const ref = bibliorefs[i];
-    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
-    tippyHover(ref, function() {
-      var popup = window.document.createElement('div');
-      cites.forEach(function(cite) {
-        var citeDiv = window.document.createElement('div');
-        citeDiv.classList.add('hanging-indent');
-        citeDiv.classList.add('csl-entry');
-        var biblioDiv = window.document.getElementById('ref-' + cite);
-        if (biblioDiv) {
-          citeDiv.innerHTML = biblioDiv.innerHTML;
-        }
-        popup.appendChild(citeDiv);
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
       });
-      return popup.innerHTML;
-    });
+    }
   }
 });
 </script>

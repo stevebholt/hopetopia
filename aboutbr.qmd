@@ -2,25 +2,28 @@
 title: "Buildings and Regulations Agency"
 ---
 
-## Mission Statement
-Our Mission is to safeguard public health in Hopetopia by ensuring that the buildings that serve our community spaces meet the highest standards of quality and safety. We strive to review new development proposals, conduct building safety inspections, and enforce code standards in an effective and efficient manner. 
+<!---# ## Mission Statement
+
+Our Mission is to safeguard public health in Hopetopia by ensuring that the buildings that serve our community spaces meet the highest standards of quality and safety. We strive to review new development proposals, conduct building safety inspections, and enforce code standards in an effective and efficient manner.--->
 
 ## Recent News
-:::{.callout-note}
+<!---#
+::: callout-note
 **10/6/2022** In conjunction with city-wide efforts to improve services, Buildings and Regulations has identified three performance goals that it will begin tracking and reporting publicly. 1. Improve the time it takes to review site plan and existing structures for code compliance. 2. Improve the promptness of responses to public input. 3. Reduce the average time to approval for proposed new housing projects.
 :::
 
-:::{.callout-note}
+::: callout-note
 **9/12/2022** The BRA chief notes she does not have the staff necessary to address these concerns in a timely manner. Similarly, developers have noted that delays in plan approvals from the BRA have driven up the cost of building throughout the city.
 :::
-
+--->
 ## Operations
 
 ### Who We Are
-@tbl-brstaff provides an overview of our current workforce by position and by select characteristics. 
+
+@tbl-brstaff provides an overview of our current workforce by position and by select characteristics.
 
 |                 | Managers | Inspectors | Central Office | Review Board | Total |
-| --------------- | -------- | ---------- | -------------- | ------------ | ----- |
+|-----------------|----------|------------|----------------|--------------|-------|
 | White           | 12       | 23         | 17             | 7            | 59    |
 | Non-white       | 3        | 20         | 12             | 6            | 41    |
 | Male            | 6        | 19         | 20             | 4            | 49    |
@@ -31,61 +34,65 @@ Our Mission is to safeguard public health in Hopetopia by ensuring that the buil
 
 : Buildings and Regulations Agency taffing Descriptive Statistics (FTE) {#tbl-brstaff}
 
+<!---
 ### How We're Doing
+
 @tbl-brperf captures our agency's current performance toward our newly adopted goals separately by ward.
 
-|                                                         | NW | SW | NE | SE |
-| ------------------------------------------------------- | -- | -- | -- | -- |
-| Average time before complete code assessment (in weeks) | 6  | 14 | 8  | 1  |
-| Average time for response to public contact (in weeks)  | 2  | 4  | 3  | 1  |
-| Average time for project approval (in months)           | 16 | 10 | 13 | 18 |
+|                                                         | NW  | SW  | NE  | SE  |
+|------------------------------------------------|------|------|------|------|
+| Average time before complete code assessment (in weeks) | 6   | 14  | 8   | 1   |
+| Average time for response to public contact (in weeks)  | 2   | 4   | 3   | 1   |
+| Average time for project approval (in months)           | 16  | 10  | 13  | 18  |
 
 : Buildings and Regulations Agency Performance Indicators by Ward {#tbl-brperf}
 
 ## Current Operations Budget
-@tbl-brbudget22 lays our our FY22 operations budget. The mayor proposed a 4,317,000 increase in our budget. After meeting with property owners through several homeowner's associations and rotary club meetings, we have prioritized code enforcement in our allocation of the new funds. We have also increased our staffing for proposal review after consultation with local developers and construction companies. 
 
-::: {#tbl-brbudget22 layout-ncol=2}
+@tbl-brbudget22 lays our our FY22 operations budget. The mayor proposed a 4,317,000 increase in our budget. After meeting with property owners through several homeowner's associations and rotary club meetings, we have prioritized code enforcement in our allocation of the new funds. We have also increased our staffing for proposal review after consultation with local developers and construction companies.
+
+::: {#tbl-brbudget22 layout-ncol="2"}
 | Buildings and Regulations Agency | 8,517 |
-| ---------------- | --------- |
-| Safety Inspections | 2,000 |
-| Code Enforcement | 5,000 |
-| Proposal Review | 1,517 |
+|----------------------------------|-------|
+| Safety Inspections               | 2,000 |
+| Code Enforcement                 | 5,000 |
+| Proposal Review                  | 1,517 |
 
 : Buildings and Regulations Operations (in 1,000s) {#tbl-brops22}
 
 | Buildings and Regulations Agency | 8,517 |
-| -------------------- | -------------- |
-| Personnel FT Pay | 5,585 |
-| Pay - Other | 1,494 |
-| Fringe benefits | 1,579 |
-| Overtime | 14 |
+|----------------------------------|-------|
+| Personnel FT Pay                 | 5,585 |
+| Pay - Other                      | 1,494 |
+| Fringe benefits                  | 1,579 |
+| Overtime                         | 14    |
 
 : Buildings and Regulations Expenditures (in 1,000s) {#tbl-hpdetail22}
 
 Budget Overview FY22
 :::
+--->
+## FY22 Operations Budget
 
-## FY21 Operations Budget
-@tbl-brbudget provides an overview of the FY21 budget for Buildings and Regulations broken out by operations and the source of the expenditure. 
+@tbl-brbudget provides an overview of the FY22 budget for Buildings and Regulations broken out by operations and the source of the expenditure.
 
-::: {#tbl-brbudget layout-ncol=2}
+::: {#tbl-brbudget layout-ncol="2"}
 | Buildings and Regulations Agency | 4,200 |
-| ---------------- | --------- |
-| Safety Inspections | 1,000 |
-| Code Enforcement | 3,000 |
-| Proposal Review | 200 |
+|----------------------------------|-------|
+| Safety Inspections               | 1,000 |
+| Code Enforcement                 | 3,000 |
+| Proposal Review                  | 200   |
 
 : Buildings and Regulations Operations (in 1,000s) {#tbl-brops}
 
 | Buildings and Regulations Agency | 4,200 |
-| -------------------- | -------------- |
-| Personnel FT Pay | 2,585 |
-| Pay - Other | 977 |
-| Fringe benefits | 579 |
-| Overtime | 14 |
+|----------------------------------|-------|
+| Personnel FT Pay                 | 2,585 |
+| Pay - Other                      | 977   |
+| Fringe benefits                  | 579   |
+| Overtime                         | 14    |
 
 : Buildings and Regulations Expenditures (in 1,000s) {#tbl-hpdetail}
 
-Budget Overview FY21
+Budget Overview FY22
 :::

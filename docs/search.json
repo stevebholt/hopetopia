@@ -123,7 +123,7 @@
     "href": "mayor.html#the-mayors-budget",
     "title": "Mayor’s Office",
     "section": "The Mayor’s Budget",
-    "text": "The Mayor’s Budget\nTable 1 summarizes the city’s budget.\n\n\nTable 1: Budget Appropriations\n\n\n\n\n\n\n\n\nFY21\nFY22\n\n\n\n\nRevenues\n$ 4,791,914,000.00\n$ 5,031,510,000.00\n\n\nDepartment of Emergency Services\n$ 1,229,355,000.00\n$ 1,253,314,600\n\n\nDepartment of Community Development\n$ 145,343,000.00\n$ 217,221,800\n\n\nDepartment of Social Services\n$ 560,706,000.00\n$ 608,625,200\n\n\nDepartment of General Services\n$ 878,672,000.00\n$ 921,799,280\n\n\nDepartment of Education\n$ 1,977,838,000.000\n$ 2,030,549,120"
+    "text": "The Mayor’s Budget\nTable 1 summarizes the city’s budget.\n\n\nTable 1: Budget Appropriations\n\n\n\n\n\n\n\n\nFY22\nFY23\n\n\n\n\nRevenues\n$ 4,791,914,000.00\n$ 5,031,509,700.00\n\n\nDepartment of Emergency Services\n$ 1,229,355,000.00\n$ 1,229,355,000.00\n\n\nDepartment of Community Development\n$ 145,343,000.00\n$ 241,181,280.00\n\n\nDepartment of Social Services\n$ 560,706,000.00\n$ 608,625,140.00\n\n\nDepartment of General Services\n$ 878,672,000.00\n$ 974,510,280.00\n\n\nDepartment of Education\n$ 1,977,838,000.00\n$ 1,977,838,000.00"
   },
   {
     "objectID": "abouthp.html",
@@ -488,5 +488,12 @@
     "title": "General Services",
     "section": "FY22 Operating Budget",
     "text": "FY22 Operating Budget\nTable 2 provides an overview of the FY22 budget for General Services broken out by operations and the source of the expenditure.\n\n\nTable 2: Budget Overview FY22\n\n\n\n\n(a) General Services Operations (in 1,000s)\n\n\nGeneral Services\n314,339\n\n\n\n\nSnow removal\n8,200\n\n\nFleet management\n35,268\n\n\nParking enforcement\n35,411\n\n\nWaste Management\n91,597\n\n\nManagement\n50,185\n\n\nEnvironmental regulations (water and air)\n51,578\n\n\nParks and recreation\n42,100\n\n\n\n\n\n\n(b) General Services Expenditures (in 1,000s)\n\n\nGeneral Services\n314,339\n\n\n\n\nPersonnel FT Pay\n193,437\n\n\nPay - Other\n73,124\n\n\nFringe benefits\n43,355\n\n\nOvertime\n1,073"
+  },
+  {
+    "objectID": "mayor.html#about-the-mayor",
+    "href": "mayor.html#about-the-mayor",
+    "title": "Mayor’s Office",
+    "section": "",
+    "text": "The mayor was elected three years ago on a platform of increasing economic equity in the city and providing more robust aid to the poorer areas of the city. Your primary campaign focus was increasing housing affordability and attracting businesses back to the Southwest ward. In a narrow primary win, the mayor assembled a coalition of support from the Southwest and Northeast quadrants, while a slim advantage in the Northwest ward made the difference."
   }
 ]

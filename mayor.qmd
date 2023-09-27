@@ -12,11 +12,11 @@ The mayor was elected three years ago on a platform of increasing economic equit
 
 |                                     | FY22                 | FY23                |
 |-----------------------------------|------------------|------------------|
-| Revenues                            | \$ 4,791,914,000.00  | \$  |
-| Department of Emergency Services    | \$ 1,229,355,000.00  | \$     |
-| Department of Community Development | \$ 145,343,000.00    | \$       |
-| Department of Social Services       | \$ 560,706,000.00    | \$       |
-| Department of General Services      | \$ 878,672,000.00    | \$       |
-| Department of Education             | \$ 1,977,838,000.000 | \$     |
+| Revenues                            | \$ 4,791,914,000.00  | \$ 5,031,509,700.00 |
+| Department of Emergency Services    | \$ 1,229,355,000.00  | \$ 1,229,355,000.00    |
+| Department of Community Development | \$ 145,343,000.00    | \$ 241,181,280.00      |
+| Department of Social Services       | \$ 560,706,000.00    | \$ 608,625,140.00      |
+| Department of General Services      | \$ 878,672,000.00    | \$ 974,510,280.00      |
+| Department of Education             | \$ 1,977,838,000.00 | \$ 1,977,838,000.00    |
 
 : Budget Appropriations {#tbl-budgetall}

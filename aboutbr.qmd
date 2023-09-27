@@ -53,7 +53,7 @@ Our Mission is to safeguard public health in Hopetopia by ensuring that the buil
 
 ## Current Operations Budget
 
-@tbl-brbudget23 lays our our FY23 operations budget. The mayor proposed a 3,981,000 increase in our budget. After meeting with low-income property owners and renters in subsidized housing in the Southwest quadrant, we have prioritized code enforcement in our allocation of the new funds to better enable the recovery or demolition of abandoned structures. We have also increased our staffing for proposal review after consultation with local developers and construction companies.
+@tbl-brbudget23 lays our our FY23 operations budget. The mayor proposed a 3,981,000 increase in our budget. After meeting with low-income property owners and renters in subsidized housing in the Southwest quadrant, we have prioritized code enforcement in our allocation of the new funds to better enable the recovery or demolition of abandoned structures. We have also increased our staffing for proposal review after consultation with local developers and construction companies. We address these needs by expanding our overtime budget by 1,500,000 and adding 2,000,000 in Pay-Other for hiring external consultants.
 
 ::: {#tbl-brbudget23 layout-ncol="2"}
 | Buildings and Regulations Agency | 12,498 |

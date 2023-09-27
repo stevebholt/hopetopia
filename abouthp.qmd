@@ -14,11 +14,12 @@ The City of Hopetopia's Housing and Planning Agency's mission is to build back b
 ::: callout-note
 **10/6/2022** In conjunction with city-wide efforts to improve services, the Housing and Planning Agency has identified three performance goals that it will begin tracking and reporting publicly. 1. A reduction in the number of grants that take longer than 3 months to process. 2. A reduction in the share of maintenance complaints that take longer than 2 weeks to process. 3. An increase in the ratio of eligible residents to available units that are affordable.
 :::
+--->
 
 ::: callout-note
-**9/12/2022** The head of the HPA has been prioritizing acquiring and rehabilitating abandoned properties in the NW quadrant for the last two years. The program prioritizes residential units and after rehabilitation, manages the units directly and offers both market rate and subsidized units. Recently, the market rate units have been experiencing vacancy rates as many other services and businesses are not convenient to the SW quadrant. Real Estate partners have also noted that the home ownership development programs are often insufficiently funded for SW residents given their economic need. As a result, most of the program helps first time home buyers in the SE and NW quadrants.
+**9/27/2023** The head of the HPA has been prioritizing acquiring and rehabilitating abandoned properties in the NW quadrant for the last two years. The program prioritizes residential units and after rehabilitation, manages the units directly and offers both market rate and subsidized units. Recently, the market rate units have been experiencing vacancy rates as many other services and businesses are not convenient to the SW quadrant. Real Estate partners have also noted that the home ownership development programs are often insufficiently funded for SW residents given their economic need. As a result, most of the program helps first time home buyers in the SE and NW quadrants.
 :::
---->
+
 
 ## Operations
 
@@ -50,38 +51,39 @@ The City of Hopetopia's Housing and Planning Agency's mission is to build back b
 
 : Housing and Planning Agency Performance Indicators by Ward {#tbl-hpperf}
 
+--->
+
 ## Current Operations Budget
 
-@tbl-hpbudget presents our operating budget for FY22. The mayor proposed and council passed a 67,562,000 increase in our operations budget. After meeting with housing and tenant advocates in the Southwest, Northeast, and Northwest quadrants, we have drafted a set of investments that will improve homeownership and subsidized housing throughout the city. This fiscal year will focus on housing stock in NW and homeowner opportunities in SW.
+@tbl-hpbudget presents our operating budget for FY23. The mayor proposed and council passed a 91,857,000 increase in our operations budget. After meeting with housing and tenant advocates in the Southwest, Northeast, and Northwest quadrants, County officials, and real estate developers, we have drafted a set of investments that will improve housing stock quality and access to subsidized housing throughout the city. This fiscal year will focus on housing stock in the Southwest Ward.
 
-::: {#tbl-hpbudget22 layout-ncol="2"}
-| Housing and Planning Agency    | 208,705 |
+::: {#tbl-hpbudget23 layout-ncol="2"}
+| Housing and Planning Agency    | 233,000 |
 |--------------------------------|---------|
-| Planning                       | 20,000  |
-| Housing subsidies              | 12,000  |
-| Rehabilitation and Maintenance | 6,276   |
-| Homeless services              | 5,721   |
-| Vouchers                       | 81,500  |
-| Supportive Housing             | 28,001  |
-| Affordable Housing Families    | 25,564  |
-| Affordable Housing Indiv.      | 7,630   |
-| Rental Assistance              | 22,013  |
+| Planning                       | 22,000  |
+| Housing subsidies              | 16,000  |
+| Rehabilitation and Maintenance | 11,000   |
+| Homeless services              | 9,000   |
+| Vouchers                       | 79,000  |
+| Supportive Housing             | 40,000  |
+| Affordable Housing Families    | 33,000  |
+| Affordable Housing Indiv.      | 10,000   |
+| Rental Assistance              | 13,000  |
 
-: Housing and Planning Operations (in 1,000s) {#tbl-hpops22}
+: Housing and Planning Operations (in 1,000s) {#tbl-hpops23}
 
 | Housing and Planning Agency | 208,705 |
 |-----------------------------|---------|
-| Personnel FT Pay            | 116,856 |
-| Pay - Other                 | 2,482   |
-| Fringe benefits             | 49,467  |
-| Overtime                    | 39,900  |
+| Personnel FT Pay            | 130,480 |
+| Pay - Other                 | 2,770   |
+| Fringe benefits             | 55,226  |
+| Overtime                    | 44,524  |
 
-: Housing and Planning Expenditures (in 1,000s) {#tbl-hpdetail22}
+: Housing and Planning Expenditures (in 1,000s) {#tbl-hpdetail23}
 
-Budget Overview FY22
+Budget Overview FY23
 :::
 
---->
 ## FY22 Operations Budget
 
 @tbl-hpbudget provides an overview of the FY22 budget for Housing and Planning broken out by operations and the source of the expenditure.

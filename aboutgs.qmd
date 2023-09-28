@@ -12,10 +12,12 @@ The Department of General Services aims to provide reliable and efficient servic
 **10/6/2022** In conjunction with city-wide efforts to improve services, General Services has identified three performance goals that it will begin tracking and reporting publicly. 1. Reduce the number of pick-up delays. 2. Ensure traffic lights are functioning city-wide. 3. Increase park visits at city parks.
 :::
 
-::: callout-note
-**9/12/2022** General Services provides a variety of basic infrastructural services, such as waste management (e.g., garbage and recycling collection and sorting), construction and maintenance of parks, enforcement of environmental regulations, and maintenance of government property (e.g., streets, sidewalks, streetlights, traffic lights and signs). Garbage collection workers have reported difficulty recruiting and retaining enough workers, leading to pickup delays in all four quadrants.
-:::
 --->
+
+::: callout-note
+**9/27/2023** General Services provides a variety of basic infrastructural services, such as waste management (e.g., garbage and recycling collection and sorting), construction and maintenance of parks, enforcement of environmental regulations, and maintenance of government property (e.g., streets, sidewalks, streetlights, traffic lights and signs). Garbage collection workers have reported difficulty recruiting and retaining enough workers, leading to pickup delays in all four quadrants.
+:::
+
 ## Operations
 
 ### Who We Are
@@ -47,37 +49,39 @@ The Department of General Services aims to provide reliable and efficient servic
 
 : General Services Performance Indicators by Ward {#tbl-gsperf}
 
+--->
+
 ## Current Operations Budget
 
-@tbl-gsbudget22 lays out our budget for the coming fiscal year. The Mayor proposed a 13,316,000 increase in our budget. After holding a public meeting in each of the wards, we have decided to focus our efforts on expanding the number of parks in the city - particularly in the less dense Southwest Ward - and improvements to the streetlights and traffic lights throughout the city.
+@tbl-gsbudget23 lays out our budget for the coming fiscal year. The Mayor proposed a 70,286,000 increase in our budget. After holding a public meeting in each of the wards, we have decided to focus our efforts on expanding the number of parks in the city - particularly in the less dense Southwest Ward - and improvements to the streetlights and traffic lights throughout the city.
 
-::: {#tbl-gsbudget22 layout-ncol="2"}
-| General Services                          | 327,655 |
+::: {#tbl-gsbudget23 layout-ncol="2"}
+| General Services                          | 384,625 |
 |-------------------------------------------|---------|
-| Snow removal                              | 8,364   |
-| Fleet management                          | 35,973  |
-| Parking enforcement                       | 36,119  |
-| Waste Management                          | 93,429  |
-| Management                                | 51,189  |
-| Environmental regulations (water and air) | 52,610  |
-| Parks and recreation                      | 42,942  |
-| Additional Park Land Investment           | 4,729   |
-| Street Light Safety Plan                  | 2,300   |
+| Snow removal                              | 9,129   |
+| Fleet management                          | 40,649  |
+| Parking enforcement                       | 40,814  |
+| Waste Management                          | 105,574  |
+| Management                                | 57,843  |
+| Environmental regulations (water and air) | 59,449  |
+| Parks and recreation                      | 48,524  |
+| Additional Park Land Investment           | 15,343   |
+| Street Light Safety Plan                  | 7,300   |
 
-: General Services Operations (in 1,000s) {#tbl-gsops22}
+: General Services Operations (in 1,000s) {#tbl-gsops23}
 
-| General Services | 327,655 |
+| General Services | 384,625 |
 |------------------|---------|
-| Personnel FT Pay | 197,437 |
-| Pay - Other      | 77,124  |
-| Fringe benefits  | 47,355  |
-| Overtime         | 2,389   |
+| Personnel FT Pay | 230,078 |
+| Pay - Other      | 87,921  |
+| Fringe benefits  | 54,203  |
+| Overtime         | 12,723   |
 
-: General Services Expenditures (in 1,000s) {#tbl-gsexp22}
+: General Services Expenditures (in 1,000s) {#tbl-gsexp23}
 
-Budget Overview FY22
+Budget Overview FY23
 :::
---->
+
 ## FY22 Operating Budget
 
 @tbl-gsbudget provides an overview of the FY22 budget for General Services broken out by operations and the source of the expenditure.

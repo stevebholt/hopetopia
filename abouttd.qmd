@@ -13,11 +13,11 @@ Our mission is to maintain and expand a network of bus routes, and roads so all 
 **10/6/2022** In conjunction with city-wide efforts to improve services, the Transportation Department has identified three performance goals that it will begin tracking and reporting publicly. 1. Ensuring an on-time bus system throughout the city. 2. Minimizing pot holes or closures. 3. Safer streets for all modes through traffic calming designs and streetlight improvements.
 :::
 
-::: callout-note
-**9/12/2022** The Transportation Department operates an extensive city-wide bus system as well as maintaining the roads and approving the design and construction of new roads and bridges. In recent years, cuts have made operating the bus system difficult. Two years ago, you had to reduce the number of busses on routes in the NW and SE quadrants. The service reductions have led to complaints of wait times as high as 60 minutes in those quadrants and you have seen a decline 10% decline in ridership city wide. The biggest ridership declines have come from the NE quadrant, though the reason is unclear. You've also been receiving a variety of complaints about road quality and streetlight outages in the NW quadrant.
-:::
-
 --->
+
+::: callout-note
+**9/27/2023** The Transportation Department operates an extensive city-wide bus system as well as maintaining the roads and approving the design and construction of new roads and bridges. In recent years, cuts have made operating the bus system difficult. Two years ago, you had to reduce the number of busses on routes in the NW and SE quadrants. The service reductions have led to complaints of wait times as high as 60 minutes in those quadrants and you have seen a decline 10% decline in ridership city wide. The biggest ridership declines have come from the NE quadrant, though the reason is unclear. You've also been receiving a variety of complaints about road quality and streetlight outages in the NW quadrant.
+:::
 
 ## Operations
 
@@ -49,35 +49,36 @@ Our mission is to maintain and expand a network of bus routes, and roads so all 
 
 : Transportation Department Performance Indicators by Ward {#tbl-tdperf}
 
+--->
+
 ## Current Operations Budget
 
-@tbl-tdbudget22 summarizes our FY22 operations budget. After our initial informational town hall and meetings with leaders from the local union chapters representing bus drivers, we have decided to prioritize expanding bus service and increasing the frequency of service on existing routes in the Southwest ward in the coming year.
+@tbl-tdbudget23 summarizes our FY23 operations budget. After our initial informational town hall and meetings with leaders from the Neighborhood Associations, college representatives from local colleges, and the Hopetopia Chamber of Commerce, we have decided to prioritize expanding bus service and increasing the frequency of service on existing routes of HOPBUS services in the coming year and invest more in bridge and road repair.
 
-::: {#tbl-tdbudget22 layout-ncol="2"}
-| Transportation Department      | 594,144 |
+::: {#tbl-tdbudget23 layout-ncol="2"}
+| Transportation Department      | 625,885 |
 |--------------------------------|---------|
-| Traffic engineering and design | 75,292  |
-| Route construction             | 167,398 |
-| Fleet                          | 53,165  |
-| Bus operations                 | 152,760 |
-| Management                     | 56,519  |
-| Maintenance                    | 77,760  |
+| Traffic engineering and design | 87,645  |
+| Route construction             | 189,535 |
+| Fleet                          | 55,901  |
+| Bus operations                 | 150,000 |
+| Management                     | 59,622  |
+| Maintenance                    | 83,180  |
 
-: Transportation Department Operations (in 1,000s) {#tbl-tdops22}
+: Transportation Department Operations (in 1,000s) {#tbl-tdops23}
 
 | Transportation Department | 594,144 |
 |---------------------------|---------|
-| Personnel FT Pay          | 371,038 |
-| Pay - Other               | 144,040 |
-| Fringe benefits           | 90,594  |
-| Overtime                  | 5,498   |
+| Personnel FT Pay          | 373,748 |
+| Pay - Other               | 151,242 |
+| Fringe benefits           | 95,123  |
+| Overtime                  | 5,772   |
 
-: Transportation Department Expenditures (in 1,000s) {#tbl-tdexp22}
+: Transportation Department Expenditures (in 1,000s) {#tbl-tdexp23}
 
-Budget Overview FY22
+Budget Overview FY23
 :::
 
---->
 
 ## FY22 Operations Budget
 

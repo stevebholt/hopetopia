@@ -48,35 +48,37 @@ Hopetopia's Youth Social Services Department promotes the safety, security, well
 
 : Youth Social Services Performance Indicators by Ward {#tbl-ysperf}
 
+--->
+
 ## Current Operating Budget
 
-@tbl-ysbudget22 provides an overview of our FY22 budget. The Mayor proposed an increase of 15,514,000. After meeting with the PTA, Hopetopia chapter of the Boys & Girls Club, and surveying the youth of Hopetopia, we have proposed an increased focus on summer jobs programs and child protection services. We've also provided a modest increase in funding for early education.
+@tbl-ysbudget23 provides an overview of our FY23 budget. The Mayor proposed an increase of 15,481,000. After meeting with the Parent Teacher Association (PTA), Hopetopia chapter of the Boys & Girls Club, and surveying the youth of Hopetopia's public schools, we have proposed an increased focus on summer jobs programs and child protection services. We've also provided a modest increase in funding for early education.
 
 ::: {#tbl-ysbudget22 layout-ncol="2"}
-| Youth Social Services                        | 197,227 |
+| Youth Social Services                        | 197,194 |
 |----------------------------------------------|---------|
-| Child protective services                    | 29,819  |
-| Adoption and guardianship                    | 32,875  |
-| Sports, recreation, and summer jobs programs | 1,907   |
-| Child placement                              | 50,754  |
-| Management                                   | 43,385  |
-| Early education subsidy                      | 37,973  |
+| Child protective services                    | 29,353  |
+| Adoption and guardianship                    | 32,432  |
+| Sports, recreation, and summer jobs programs | 2,069   |
+| Child placement                              | 50,068  |
+| Management                                   | 44,072  |
+| Early education subsidy                      | 39,200  |
 
 : Youth Social Services Operations (in 1,000s) {#tbl-ysops22}
 
-| Youth Social Services | 197,227 |
+| Youth Social Services | 197,194 |
 |-----------------------|---------|
 | Personnel FT Pay      | 116,822 |
 | Pay - Other           | 47,272  |
 | Fringe benefits       | 30,063  |
-| Overtime              | 1,135   |
+| Overtime              | 1,102   |
 
 : Youth Social Services Expenditures (in 1,000s) {#tbl-ysexp22}
 
 Budget Overview FY22
 :::
 
---->
+
 
 ## FY22 Operating Budget
 

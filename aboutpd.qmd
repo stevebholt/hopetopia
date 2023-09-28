@@ -15,11 +15,13 @@ The Mission of the Hopetopia Police Department is to serve our community through
 **10/6/2022** In conjunction with city-wide efforts to improve services, the Police Department has identified three performance goals that it will begin tracking and reporting publicly. 1. Minimizing the number of officer shifts missed throughout the year (excluding approved leave). 2. Minimizing the ratio of complaints to arrests. 3. Maximizing job satisfaction among officers internally.
 :::
 
+--->
+
 ::: callout-note
-**9/12/2022** The police chief has been focused on community policing efforts, using assigned and steady patrols who operate on a predicted schedule in pairs and have the same assigned beat for 6-month cycles. Recently, the investigations units unresolved crimes rate has increased by 30%, driven largely by poor clearance rates in the Southwest quadrant. Morale is generally low among your officers as some patrols feel their assigned beats are disproportionately more difficult than others. The department has also been struggling with community relations in the Southwest quadrant where multiple reports of officer misconduct have been verified by the Citizen Review Board.
+**9/27/2023** The police chief has been focused on community policing efforts, using assigned and steady patrols who operate on a predicted schedule in pairs and have the same assigned beat for 6-month cycles. Recently, the investigations units unresolved crimes rate has increased by 30%, driven largely by poor clearance rates in the Southwest quadrant. Morale is generally low among your officers as some patrols feel their assigned beats are disproportionately more difficult than others. The department has also been struggling with community relations in the Southwest quadrant where multiple reports of officer misconduct have been verified by the Citizen Review Board.
 :::
 
---->
+
 
 ## Operations
 
@@ -51,33 +53,35 @@ The Mission of the Hopetopia Police Department is to serve our community through
 
 : Police Department Performance Indicators by Ward {#tbl-pdperf}
 
+--->
+
 ## Current Operations Budget
 
-@tbl-budgetpdall22 provides an overview of the FY22 budget proposed by the mayor and passed by the city council. The mayor's proposed budget allocated a 23,959,600 budgetary increase to the Police and Fire departments. Although the Police Department requested additional resources, the mayor's office approved 13,959,600 in new spending. After meeting with neighborhood associations, the CRB, and attending council hearings, we have allocated the additional resources primarily to professional development - focused on community policing training consistent with the mayor's goals - and investigations. Th bulk of the money will be allocated to hiring new personnel and procuring a contractor for conducting community policing professional development courses. See @tbl-pdallocate22 for details.
+@tbl-budgetpdall23 provides an overview of the FY23 budget proposed by the mayor and passed by the city council. The mayor's proposed budget maintains the FY22 allocation to the Department of Emergency Services in FY23. After weighing the proposed budgets, the Executive Director of the Department of Emergency Services granted the Police Chief's request for an additional 500,000 to double the budget for the Citizen Review Board. After meeting with neighborhood associations, business and non-profit leaders in Hopetopia, and attending City Council hearings, we have allocated the additional resources primarily to communications - focused on community policing training consistent with the mayor's goals. The bulk of the money will be allocated to hiring new personnel and procuring a contractor for conducting community policing professional development courses. See @tbl-pdallocate23 for details.
 
-::: {#tbl-budgetpdall22 layout-ncol="3"}
-| Policing and Corrections       | 961,282 |
+::: {#tbl-budgetpdall23 layout-ncol="3"}
+| Policing and Corrections       | 961,782 |
 |--------------------------------|---------|
-| Police                         | 586,124 |
+| Police                         | 585,874 |
 | Investigations and Forensics   | 25,113  |
 | Corrections and Rehabilitation | 255,141 |
-| Communications and Other       | 76,404  |
+| Communications and Other       | 76,654  |
 | Capital & Equipment            | 18,000  |
-| Citizen Review Board           | 500     |
+| Citizen Review Board           | 1,000     |
 
-: Operations Budget for FY22 (in 1,000s) {#tbl-budgetpd22}
+: Operations Budget for FY23 (in 1,000s) {#tbl-budgetpd23}
 
-| Police           | 586,124 |
+| Police           | 585,874 |
 |------------------|---------|
-| Capital          | 18,000  |
+| Capital          | 17,750  |
 | Personnel FT Pay | 387,915 |
 | Pay - Other      | 40,330  |
 | Fringe benefits  | 88,163  |
 | Overtime         | 51,716  |
 
-: Police Budget Detail (in 1,000s) {#tbl-pddetail22}
+: Police Budget Detail (in 1,000s) {#tbl-pddetail23}
 
-| Police                   | 586,124 |
+| Police                   | 585,874 |
 |--------------------------|---------|
 | Patrol Services          | 256,219 |
 | Investigations           | 136,373 |
@@ -85,14 +89,14 @@ The Mission of the Hopetopia Police Department is to serve our community through
 | Professional Development | 50,145  |
 | Internal Affairs         | 9,308   |
 | Homeland Security        | 52,505  |
-| Management               | 57,531  |
+| Management               | 57,281  |
 
-: Police Operations Allocations {#tbl-pdallocate22}
+: Police Operations Allocations {#tbl-pdallocate23}
 
-Budget Overview FY22
+Budget Overview FY23
 :::
 
---->
+
 
 ## FY22 Operations Budget
 

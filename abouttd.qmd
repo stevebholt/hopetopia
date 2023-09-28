@@ -6,6 +6,7 @@ title: "Transportation Department"
 
 Our mission is to maintain and expand a network of bus routes, and roads so all residents and employees have access to all that our city has to offer. Regardless of how you plan to travel, we want to ensure that every ward of our city can enjoy peace of mind when planning their trips by committing to the upkeep of our city roads and on-time running of a network of reliable buses. As recipients of taxpayer revenue, we embrace our responsibility to ensure that all residents of our city have a voice in defining our success and use data-driven solutions and outside the box thinking to deliver it to the people that call Hopetopia home.
 --->
+
 ## Recent Events
 
 <!---#
@@ -26,7 +27,7 @@ Our mission is to maintain and expand a network of bus routes, and roads so all 
 @tbl-tdstaff summarizes the demographic characteristics of our employees overall and by position.
 
 |                 | Central Office | Drivers | Construction and Maintenance | Field Office | Total |
-|-----------|:---------:|:---------:|:---------------:|:---------:|:---------:|
+|------------|:----------:|:----------:|:----------:|:----------:|:----------:|
 | White           |      464       |   928   |             696              |     290      | 2,377 |
 | Non-white       |      116       |   812   |             464              |     232      | 1,623 |
 | Male            |      232       |   754   |             812              |     174      | 1,971 |
@@ -67,7 +68,7 @@ Our mission is to maintain and expand a network of bus routes, and roads so all 
 
 : Transportation Department Operations (in 1,000s) {#tbl-tdops23}
 
-| Transportation Department | 594,144 |
+| Transportation Department | 625,885 |
 |---------------------------|---------|
 | Personnel FT Pay          | 373,748 |
 | Pay - Other               | 151,242 |
@@ -78,7 +79,6 @@ Our mission is to maintain and expand a network of bus routes, and roads so all 
 
 Budget Overview FY23
 :::
-
 
 ## FY22 Operations Budget
 

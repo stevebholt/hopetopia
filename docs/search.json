@@ -144,7 +144,7 @@
     "href": "aboutbr.html",
     "title": "Buildings and Regulations Agency",
     "section": "",
-    "text": "Note\n\n\n\n9/27/2023 The BRA chief notes she does not have the staff necessary to address these concerns in a timely manner. Similarly, developers have noted that delays in plan approvals from the BRA have driven up the cost of building throughout the city."
+    "text": "::: callout-note\n**10/3/2023** In conjunction with city-wide efforts to improve services, Buildings and Regulations has identified three performance goals that it will begin tracking and reporting publicly. 1. Increase the number of permits issued (average number of submitted proposals is 30 per month in each ward). 2. Improve the proportion of permits approved after first review. 3. Increase the percentage of plans approved in the first review.\n:::\n\n\n\n\n\n\nNote\n\n\n\n9/27/2023 The BRA chief notes she does not have the staff necessary to address these concerns in a timely manner. Similarly, developers have noted that delays in plan approvals from the BRA have driven up the cost of building throughout the city."
   },
   {
     "objectID": "aboutbr.html#current-operations-budget",
@@ -459,7 +459,7 @@
     "href": "aboutbr.html#operations",
     "title": "Buildings and Regulations Agency",
     "section": "Operations",
-    "text": "Operations\n\nWho We Are\nTable 1 provides an overview of our current workforce by position and by select characteristics.\n\n\nTable 1: Buildings and Regulations Agency taffing Descriptive Statistics (FTE)\n\n\n\n\n\n\n\n\n\n\n\nManagers\nInspectors\nCentral Office\nReview Board\nTotal\n\n\n\n\nWhite\n12\n23\n17\n7\n59\n\n\nNon-white\n3\n20\n12\n6\n41\n\n\nMale\n6\n19\n20\n4\n49\n\n\nFemale\n9\n25\n6\n9\n48\n\n\nNon-resident\n4\n17\n20\n0\n42\n\n\nCollege degree+\n14\n36\n26\n13\n90\n\n\nTotal\n14\n43\n29\n13\n100"
+    "text": "Operations\n\nWho We Are\nTable 1 provides an overview of our current workforce by position and by select characteristics.\n\n\nTable 1: Buildings and Regulations Agency taffing Descriptive Statistics (FTE)\n\n\n\n\n\n\n\n\n\n\n\nManagers\nInspectors\nCentral Office\nReview Board\nTotal\n\n\n\n\nWhite\n12\n23\n17\n7\n59\n\n\nNon-white\n3\n20\n12\n6\n41\n\n\nMale\n6\n19\n20\n4\n49\n\n\nFemale\n9\n25\n6\n9\n48\n\n\nNon-resident\n4\n17\n20\n0\n42\n\n\nCollege degree+\n14\n36\n26\n13\n90\n\n\nTotal\n14\n43\n29\n13\n100\n\n\n\n\n### How We're Doing\n\n@tbl-brperf captures our agency's current performance toward our newly adopted goals separately by ward.\n\n|                                                         | NW  | SW  | NE  | SE  |\n|------------------------------------------------|------|------|------|------|\n| Number of permits issued (per month) | 3  | 14  | 18   | 20   |\n| Percentage of Plans Approved in First Review  | 10   | 88   | 56   | 75   |\n| Total Number of Safety Inspections (per month)  | 10  | 25  | 80  | 55  |\n\n: Buildings and Regulations Agency Performance Indicators by Ward {#tbl-brperf}"
   },
   {
     "objectID": "aboutas.html#fy22-operations-budget",

@@ -2,18 +2,16 @@
 title: "Buildings and Regulations Agency"
 ---
 
-```{=html}
 ## Mission Statement
 
 The Building and Regulations Department of Hopetopia’s mission intends to enhance the lives of community members by efficiently and effectively reviewing building proposals, ensuring structures are adhering to municipal codes, and fostering citizen engagement to better refine department practices.
-```
+
 ## Recent News
 
-```{=html}
 ::: callout-note
 **10/3/2023** In conjunction with city-wide efforts to improve services, Buildings and Regulations has identified three performance goals that it will begin tracking and reporting publicly. 1. Increase the number of permits issued (average number of submitted proposals is 30 per month in each ward). 2. Improve the proportion of permits approved after first review. 3. Increase the percentage of plans approved in the first review.
 :::
-```
+
 ::: callout-note
 **9/27/2023** The BRA chief notes she does not have the staff necessary to address these concerns in a timely manner. Similarly, developers have noted that delays in plan approvals from the BRA have driven up the cost of building throughout the city.
 :::
@@ -36,7 +34,6 @@ The Building and Regulations Department of Hopetopia’s mission intends to enha
 
 : Buildings and Regulations Agency taffing Descriptive Statistics (FTE) {#tbl-brstaff}
 
-```{=html}
 ### How We're Doing
 
 @tbl-brperf captures our agency's current performance toward our newly adopted goals separately by ward.
@@ -48,7 +45,7 @@ The Building and Regulations Department of Hopetopia’s mission intends to enha
 | Total Number of Safety Inspections (per month)  | 10  | 25  | 80  | 55  |
 
 : Buildings and Regulations Agency Performance Indicators by Ward {#tbl-brperf}
-```
+
 ## Current Operations Budget
 
 @tbl-brbudget23 lays our our FY23 operations budget. The mayor proposed a 3,981,000 increase in our budget. After meeting with low-income property owners and renters in subsidized housing in the Southwest quadrant, we have prioritized code enforcement in our allocation of the new funds to better enable the recovery or demolition of abandoned structures. We have also increased our staffing for proposal review after consultation with local developers and construction companies. We address these needs by expanding our overtime budget by 1,500,000 and adding 2,000,000 in Pay-Other for hiring external consultants.

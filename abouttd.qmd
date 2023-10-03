@@ -2,19 +2,16 @@
 title: "Transportation Department"
 ---
 
-<!---# ## Mission Statement
+## Mission Statement
 
-Our mission is to maintain and expand a network of bus routes, and roads so all residents and employees have access to all that our city has to offer. Regardless of how you plan to travel, we want to ensure that every ward of our city can enjoy peace of mind when planning their trips by committing to the upkeep of our city roads and on-time running of a network of reliable buses. As recipients of taxpayer revenue, we embrace our responsibility to ensure that all residents of our city have a voice in defining our success and use data-driven solutions and outside the box thinking to deliver it to the people that call Hopetopia home.
---->
+The Mission of the Hopetopia Transportation
+Department is to ensure our citizens and goods have the safest way of transportation. We also want to establish that all of our citizens are going to their place of work, school, etc. in a timely and efficient manner. The Transportation Department is committed to expanding our public transportation use to lessen the waste that Hopetopia contributes into the atmosphere. We would also want to make sure that the transportation for all citizens in Hopetopia has roads, bridges, and sidewalks that are up to safety regulations. Overall we would like for their transportation experience to make them feel safe both inside the public vehicle and with the vehicle itself.
 
 ## Recent Events
 
-<!---#
 ::: callout-note
-**10/6/2022** In conjunction with city-wide efforts to improve services, the Transportation Department has identified three performance goals that it will begin tracking and reporting publicly. 1. Ensuring an on-time bus system throughout the city. 2. Minimizing pot holes or closures. 3. Safer streets for all modes through traffic calming designs and streetlight improvements.
+**10/3/2023** In conjunction with city-wide efforts to improve services, the Transportation Department has identified three performance goals that it will begin tracking and reporting publicly. 1. Ensuring an on-time bus system throughout the city. 2. Piloting a free-bus program and studying growth in ridership (current Friday ridership averages 19,000). 3. Safer streets for all modes through faster pothole repair (currently, the 60 potholes per month reported in each ward are fixed on average 3 weeks after the first report).
 :::
-
---->
 
 ::: callout-note
 **9/27/2023** The Transportation Department operates an extensive city-wide bus system as well as maintaining the roads and approving the design and construction of new roads and bridges. In recent years, cuts have made operating the bus system difficult. Two years ago, you had to reduce the number of busses on routes in the NW and SE quadrants. The service reductions have led to complaints of wait times as high as 60 minutes in those quadrants and you have seen a decline 10% decline in ridership city wide. The biggest ridership declines have come from the NE quadrant, though the reason is unclear. You've also been receiving a variety of complaints about road quality and streetlight outages in the NW quadrant.
@@ -38,19 +35,18 @@ Our mission is to maintain and expand a network of bus routes, and roads so all 
 
 : : Transportation Department Staffing Descriptive Statistics (FTE) {#tbl-tdstaff}
 
-<!---# ### How We're Doing
+### How We're Doing
 
 @tbl-tdperf provides an overview of our performance indicators for each of our goals for the year by ward. We operate 1,200 bus routes throughout the city and each ward sees between 6,000 and 10,000 trips along 300-400 routes per day.
 
 |                                                    | NW    | SW  | NE  | SE    |
 |----------------------------------------------------|-------|-----|-----|-------|
-| Number of trips w/ 1+ delay \> 4 mins per day      | 2,250 | 836 | 236 | 1,504 |
-| Percent of reported potholes fixed within 72 hours | 63    | 30  | 54  | 89    |
-| Nighttime fatal auto accidents                     | 6     | 12  | 8   | 3     |
+| Number of buses > 5 mins late on route  (per month)   | 2,250 | 836 | 236 | 1,504 |
+| Number of Friday Trips (per month) | 600    | 7,500  | 11,000  | 580    |
+| Number of potholes patched within 1 week of first report | 6     | 12  | 8   | 3     |
 
 : Transportation Department Performance Indicators by Ward {#tbl-tdperf}
 
---->
 
 ## Current Operations Budget
 

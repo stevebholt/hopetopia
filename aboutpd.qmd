@@ -2,26 +2,21 @@
 title: "Police Department"
 ---
 
-<!---# ## Mission Statement
+## Mission Statement
 
-The Mission of the Hopetopia Police Department is to serve our community through crime prevention and law enforcement. The Hopetopia Police Department aims to protect the city and build trust with the community. Our department aims to reduce crime in a manner that facilitates the social growth of Hopetopia, while also stimulating professional growth within our department.
-
---->
+The mission of the Hopetopia Police Department is to protect the life and property of our
+residents with an equal application of the law, to effectively enhance the safety of the public, and
+to foster a positive relationship with the community.
 
 ## Recent News
 
-<!---#
 ::: callout-note
-**10/6/2022** In conjunction with city-wide efforts to improve services, the Police Department has identified three performance goals that it will begin tracking and reporting publicly. 1. Minimizing the number of officer shifts missed throughout the year (excluding approved leave). 2. Minimizing the ratio of complaints to arrests. 3. Maximizing job satisfaction among officers internally.
+**10/3/2023** In conjunction with city-wide efforts to improve services, the Police Department has identified three performance goals that it will begin tracking and reporting publicly. 1. Shifting community policing from a unit-specific certification to a department-wide practice with full certification for all officers. 2. Tracking and increasing non-enforcement contact with public (with a goal of 5 interactions per officer per week). 3. Collecting 100 guns per month through the new gun buyback program.
 :::
-
---->
 
 ::: callout-note
 **9/27/2023** The police chief has been focused on community policing efforts, using assigned and steady patrols who operate on a predicted schedule in pairs and have the same assigned beat for 6-month cycles. Recently, the investigations units unresolved crimes rate has increased by 30%, driven largely by poor clearance rates in the Southwest quadrant. Morale is generally low among your officers as some patrols feel their assigned beats are disproportionately more difficult than others. The department has also been struggling with community relations in the Southwest quadrant where multiple reports of officer misconduct have been verified by the Citizen Review Board.
 :::
-
-
 
 ## Operations
 
@@ -41,19 +36,17 @@ The Mission of the Hopetopia Police Department is to serve our community through
 
 : Police Department Staffing Descriptive Statistics (FTE) {#tbl-pdstaff}
 
-<!---# ### How We're Doing
+### How We're Doing
 
 @tbl-pdperf provides the average performance on our tracked indicators for officers in each ward. The indicators are measured at the officer-level and then averaged by ward.
 
 |                          | NW   | SW  | NE  | SE   |
 |--------------------------|------|-----|-----|------|
-| Complaint:Arrest ratio   | 1:20 | 1:6 | 1:9 | 1:15 |
-| Number of Missed Shifts  | 30   | 120 | 156 | 10   |
-| Job satisfaction (0-100) | 80   | 30  | 55  | 41   |
+| Percent of officers CP certified  | 25 | 10 | 15 | 20 |
+| Avg. Number of Contacts (per week)  | 2   | 3.5 | .5 | 6.9   |
+| Guns recovered through buyback (per month) | 15   | 25  | 65  | 23   |
 
 : Police Department Performance Indicators by Ward {#tbl-pdperf}
-
---->
 
 ## Current Operations Budget
 
@@ -67,7 +60,7 @@ The Mission of the Hopetopia Police Department is to serve our community through
 | Corrections and Rehabilitation | 255,141 |
 | Communications and Other       | 76,654  |
 | Capital & Equipment            | 18,000  |
-| Citizen Review Board           | 1,000     |
+| Citizen Review Board           | 1,000   |
 
 : Operations Budget for FY23 (in 1,000s) {#tbl-budgetpd23}
 
@@ -95,8 +88,6 @@ The Mission of the Hopetopia Police Department is to serve our community through
 
 Budget Overview FY23
 :::
-
-
 
 ## FY22 Operations Budget
 

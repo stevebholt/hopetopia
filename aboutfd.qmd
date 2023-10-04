@@ -1,18 +1,15 @@
 ---
 title: "Fire Department"
 ---
-<!---#
+
 ## Mission Statement
 
-Protecting the lives and property of Hopetopia citizens in a timely effective response to calls for services and enhancing the safety of our community through a collaborative public education and fire prevention program.
---->
-## Recent News
-<!---#
-::: callout-note
-**10/6/2022** In conjunction with city-wide efforts to improve services, the Fire Department has identified three performance goals that it will begin tracking and reporting publicly. 1. 90% of calls receive first response in under 7 mins. w/ at least 4 people and full force assembly within 11 mins. 2. Maintain effective minimum staffing of 5, 6 for identified high-volume areas, and 8 for dense urban areas. 3. 90% of calls processed within 60 seconds and 95% of calls processed within 106 seconds.
-:::
+The Hopetopia Fire Department aims to save lives, protect property, provide rescue services, educate citizens, empower volunteers, and promote community safety. Through our state of the art range of equipment, training exercises, emphasis on communication, high standards of excellence, and culture centered around safety and disaster response, we will be able to prevent, diminish, and/or extinguish fires, hazardous spills, and dangerous situations warranting fire department personnel. Additionally, the Hopetopia Fire Department will foster a well-trained, dedicated group of first-responders that excel in bravery, compassion, honor, perseverance, and diligence to help succeed in this mission and serve as role models for our community.
 
---->
+## Recent News
+::: callout-note
+**10/3/2023** In conjunction with city-wide efforts to improve services, the Fire Department has identified three performance goals that it will begin tracking and reporting publicly. 1. 90% of calls receive first response in under 7.5 mins. w/ at least 4 people. 2. Survey report satisfaction with monthly fire safety events. 3. Improve community satisfaction with all services in biannual community feedback survey.
+:::
 
 ::: callout-note
 **9/27/2023** Under the long-standing fire chief, morale is generally high, though the number of fires due to faulty wiring has been increasing. The fire chief believes inspection efforts for fire safety are underfunded and should be a priority.
@@ -36,21 +33,17 @@ Protecting the lives and property of Hopetopia citizens in a timely effective re
 
 : Fire Department Staffing Descriptive Statistics (FTE) {#tbl-fdstaff}
 
-<!---#
 ### How We're Doing
 
 @tbl-fdperf reports the average performance of stations in each Ward on our new performance indicators for the first half of 2022.
 
 |                                            | NW  | SW  | NE  | SE  |
 |--------------------------------------------|-----|-----|-----|-----|
-| Percent of responses w/in 4 mins           | 92  | 73  | 53  | 98  |
-| Percent of full assembly w/in 8 mins       | 67  | 80  | 62  | 95  |
-| Percent of responses w/ 5+ firefighters    | 89  | 54  | 75  | 92  |
-| Percent of calls processed in \<60 seconds | 98  | 80  | 77  | 97  |
+| Percent of responses w/in 7.5 mins           | 92  | 73  | 53  | 98  |
+| Attendance at monthly fire safety events    | 15  | 20  | 8  | 12  |
+| Community survey rating (5 point scale) | 4.3  | 2.15  | 1.2  | 4.6  |
 
 : Fire Department Performance Indicators by Ward {#tbl-fdperf}
-
---->
 
 ## Current Operations Budget
 

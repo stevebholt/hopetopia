@@ -2,23 +2,19 @@
 title: "Adult Human Services"
 ---
 
-<!---#
- ## Mission Statement
---->
+## Mission Statement
+The mission of Adult Human Services is to serve the adults in our community by empowering them to achieve and maintain self-sufficiency, while reducing all economic and social barriers to success. We hope by providing access to mental health services, workforce development training, and substance abuse treatment services we’re giving our
+community members the tools they need to thrive.
 
 ## Recent News
 
-<!---#
 ::: callout-note
-**10/6/2022** In conjunction with city-wide efforts to improve services, Adult Human Services has identified three performance goals that it will begin tracking and reporting publicly. 1. Improving the proportion of our job training programs that place participants in jobs. 2. Decreasing the time spent in transitional housing among our homeless population. 3. Increasing the proportion of SNAP-eligible residents participating in the program.
+**10/3/2023** In conjunction with city-wide efforts to improve services, Adult Human Services has identified three performance goals that it will begin tracking and reporting publicly. 1. Lifting the proportion of eligible residents using our mental health services (currently at 15% city-wide). 2. Reaching 65% of workforce development participants placed in a job. 3. Reverse the ratio of patients served by our substance addiction treatment services to ER reported instances of substance-related health issues (currently 1:15 citywide).
 :::
-
---->
 
 ::: callout-note
 **9/27/2023** The Adult Human Services includes mental health programs that provide a mix of subsidies (through a mental health insurance supplement for low-income, employed residents) and direct service provision (through the operation of a mental health clinic in each quadrant for low-income, unemployed residents). Adult Human Services also operate workforce development programs (basic job training for entry level jobs and job placement assistance for entry-level jobs with a focus on long-term unemployed and formerly incarcerated residents). Finally, Adult Human Services operate three substance abuse treatment clinics to help provide treatment and support for those struggling with drug or alcohol addictions.
 :::
-
 
 ### Who We Are
 
@@ -36,20 +32,17 @@ title: "Adult Human Services"
 
 : Adult Human Services Staffing Descriptive Statistics (FTE) {#tbl-asstaff}
 
-<!---# 
 ### How We're Doing
 
 @tbl-asperf describes our current performance on indicators aligned with our newly adopted goals separately by ward.
 
 |                                                              | NW  | SW  | NE  | SE  |
 |------------------------------------------------|------|------|------|------|
-| Percent of job training participants employed 6 months later | 72  | 39  | 67  | 85  |
-| Average time spent in temporary shelters (in weeks)          | 36  | 12  | 16  | 38  |
-| Percent SNAP eligible receiving SNAP                         | 35  | 88  | 65  | 42  |
+| Percent eligible in receipt of mental health service (per month) | 35  | 8  | 3  | 12  |
+| Percent of development participant placed in job (per month)    | 50  | 13  | 28  | 75  |
+| Ratio of substance service users to ER-reported substance crises (per week)   | 1:2  | 1:19  | 1:23  | 1:15  |
 
 : Adult Human Services Performance Indicators by Ward {#tbl-asperf}
-
---->
 
 ## Current Operations Budget
 
@@ -60,10 +53,10 @@ title: "Adult Human Services"
 |----------------------------|---------|
 | Cash assistance            | 96,997  |
 | Job training               | 33,686  |
-| SNAP                       | 11,593   |
+| SNAP                       | 11,593  |
 | Case management            | 20,979  |
 | Eligibility determination  | 75,189  |
-| Disability                 | 3,345  |
+| Disability                 | 3,345   |
 | Domestic violence shelters | 3,024   |
 | Homelessness prevention    | 11,114  |
 | Mental health services     | 71,339  |
@@ -83,7 +76,6 @@ title: "Adult Human Services"
 
 Budget Overview FY23
 :::
-
 
 ## FY22 Operations Budget
 

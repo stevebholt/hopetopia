@@ -168,9 +168,11 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#recent-news" id="toc-recent-news" class="nav-link active" data-scroll-target="#recent-news">Recent News</a>
+  <li><a href="#mission-statement" id="toc-mission-statement" class="nav-link active" data-scroll-target="#mission-statement">Mission Statement</a></li>
+  <li><a href="#recent-news" id="toc-recent-news" class="nav-link" data-scroll-target="#recent-news">Recent News</a>
   <ul class="collapse">
   <li><a href="#who-we-are" id="toc-who-we-are" class="nav-link" data-scroll-target="#who-we-are">Who We Are</a></li>
+  <li><a href="#how-were-doing" id="toc-how-were-doing" class="nav-link" data-scroll-target="#how-were-doing">How We’re Doing</a></li>
   </ul></li>
   <li><a href="#current-operations-budget" id="toc-current-operations-budget" class="nav-link" data-scroll-target="#current-operations-budget">Current Operations Budget</a></li>
   <li><a href="#fy22-operations-budget" id="toc-fy22-operations-budget" class="nav-link" data-scroll-target="#fy22-operations-budget">FY22 Operations Budget</a></li>
@@ -197,17 +199,25 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<!---#
- ## Mission Statement
---->
+<section id="mission-statement" class="level2">
+<h2 class="anchored" data-anchor-id="mission-statement">Mission Statement</h2>
+<p>The mission of Adult Human Services is to serve the adults in our community by empowering them to achieve and maintain self-sufficiency, while reducing all economic and social barriers to success. We hope by providing access to mental health services, workforce development training, and substance abuse treatment services we’re giving our community members the tools they need to thrive.</p>
+</section>
 <section id="recent-news" class="level2">
 <h2 class="anchored" data-anchor-id="recent-news">Recent News</h2>
-<!---#
-::: callout-note
-**10/6/2022** In conjunction with city-wide efforts to improve services, Adult Human Services has identified three performance goals that it will begin tracking and reporting publicly. 1. Improving the proportion of our job training programs that place participants in jobs. 2. Decreasing the time spent in transitional housing among our homeless population. 3. Increasing the proportion of SNAP-eligible residents participating in the program.
-:::
-
---->
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>10/3/2023</strong> In conjunction with city-wide efforts to improve services, Adult Human Services has identified three performance goals that it will begin tracking and reporting publicly. 1. Lifting the proportion of eligible residents using our mental health services (currently at 15% city-wide). 2. Reaching 65% of workforce development participants placed in a job. 3. Reverse the ratio of patients served by our substance addiction treatment services to ER reported instances of substance-related health issues (currently 1:15 citywide).</p>
+</div>
+</div>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -305,20 +315,54 @@ Note
 </tbody>
 </table>
 </div>
-<!---# 
-### How We're Doing
-
-@tbl-asperf describes our current performance on indicators aligned with our newly adopted goals separately by ward.
-
-|                                                              | NW  | SW  | NE  | SE  |
-|------------------------------------------------|------|------|------|------|
-| Percent of job training participants employed 6 months later | 72  | 39  | 67  | 85  |
-| Average time spent in temporary shelters (in weeks)          | 36  | 12  | 16  | 38  |
-| Percent SNAP eligible receiving SNAP                         | 35  | 88  | 65  | 42  |
-
-: Adult Human Services Performance Indicators by Ward {#tbl-asperf}
-
---->
+</section>
+<section id="how-were-doing" class="level3">
+<h3 class="anchored" data-anchor-id="how-were-doing">How We’re Doing</h3>
+<p><a href="#tbl-asperf">Table&nbsp;2</a> describes our current performance on indicators aligned with our newly adopted goals separately by ward.</p>
+<div id="tbl-asperf" class="anchored">
+<table class="table">
+<caption>Table&nbsp;2: Adult Human Services Performance Indicators by Ward</caption>
+<colgroup>
+<col style="width: 66%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 8%">
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th>NW</th>
+<th>SW</th>
+<th>NE</th>
+<th>SE</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Percent eligible in receipt of mental health service (per month)</td>
+<td>35</td>
+<td>8</td>
+<td>3</td>
+<td>12</td>
+</tr>
+<tr class="even">
+<td>Percent of development participant placed in job (per month)</td>
+<td>50</td>
+<td>13</td>
+<td>28</td>
+<td>75</td>
+</tr>
+<tr class="odd">
+<td>Ratio of substance service users to ER-reported substance crises (per week)</td>
+<td>1:2</td>
+<td>1:19</td>
+<td>1:23</td>
+<td>1:15</td>
+</tr>
+</tbody>
+</table>
+</div>
 </section>
 </section>
 <section id="current-operations-budget" class="level2">
@@ -326,7 +370,7 @@ Note
 <p><strong>?@tbl-asbudget23</strong> provides an overview of Adult Human Service’s FY23 Operations Budget. The Mayor’s proposed budget provided our request for a 32,437,000 increase for FY23. After meeting with the Association of Hopetopia Supermarkets, the Hopetopia Community Development Foundation, and specific outreach to non-profits providing housing and aid to homeless Hopetopians, in the coming year, we are prioritizing an increase in SNAP funding to supplement federal and state dollars and provide more generous food subsidies; an increase in mental health support services; and an increase in efforts to prevent homelessness by focusing on housing placement and improved emergency rent subsidies.</p>
 <div id="tbl-asbudget22" class="tbl-parent quarto-layout-panel anchored">
 <div class="panel-caption table-caption">
-<p>Table&nbsp;2: Budget Overview FY23</p>
+<p>Table&nbsp;3: Budget Overview FY23</p>
 </div>
 <div class="quarto-layout-row quarto-layout-valign-top">
 <div id="tbl-asops23" class="quarto-layout-cell quarto-layout-cell-subref anchored" data-ref-parent="tbl-asbudget22" style="flex-basis: 50.0%;justify-content: center;">
@@ -420,10 +464,10 @@ Note
 </section>
 <section id="fy22-operations-budget" class="level2">
 <h2 class="anchored" data-anchor-id="fy22-operations-budget">FY22 Operations Budget</h2>
-<p><a href="#tbl-asbudget">Table&nbsp;3</a> provides an overview of the FY22 budget for Adult Human Services broken out by operations and the source of the expenditure.</p>
+<p><a href="#tbl-asbudget">Table&nbsp;4</a> provides an overview of the FY22 budget for Adult Human Services broken out by operations and the source of the expenditure.</p>
 <div id="tbl-asbudget" class="tbl-parent quarto-layout-panel anchored">
 <div class="panel-caption table-caption">
-<p>Table&nbsp;3: Budget Overview FY22</p>
+<p>Table&nbsp;4: Budget Overview FY22</p>
 </div>
 <div class="quarto-layout-row quarto-layout-valign-top">
 <div id="tbl-asops" class="quarto-layout-cell quarto-layout-cell-subref anchored" data-ref-parent="tbl-asbudget" style="flex-basis: 50.0%;justify-content: center;">

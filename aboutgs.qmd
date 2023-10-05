@@ -1,18 +1,20 @@
 ---
 title: "General Services"
 ---
-<!---#
+
 ## Mission Statement
 
-The Department of General Services aims to provide reliable and efficient services to Hopetopia residents. The Department of General Services will be committed to improving and delivering high quality, safe, and accessible services to all its residents. We will aid in the economic stimulation of Hopetopia by ensuring increased access and services across the city for all by investing in the city's infrastructure. We will strive to ensure open and continuous communication with the public.
---->
-## Recent News
-<!---#
-::: callout-note
-**10/6/2022** In conjunction with city-wide efforts to improve services, General Services has identified three performance goals that it will begin tracking and reporting publicly. 1. Reduce the number of pick-up delays. 2. Ensure traffic lights are functioning city-wide. 3. Increase park visits at city parks.
-:::
+Hopetopia General Services will provide infrastructure and services to
+enhance quality of life for all citizens in all wards of Hopetopia. On safely maintained roads,
+bridges, and sidewalks, and through efficient infrastructure, we will foster community
+development, enhance essential services and amenities, and ensure safe transportation throughout
+the city.
 
---->
+## Recent News
+
+::: callout-note
+**10/3/2023** In conjunction with city-wide efforts to improve services, General Services has identified three performance goals that it will begin tracking and reporting publicly. 1. Reduce the number of pick-up delays. 2. Ensure traffic lights are functioning city-wide. 3. Increase park visits at city parks.
+:::
 
 ::: callout-note
 **9/27/2023** General Services provides a variety of basic infrastructural services, such as waste management (e.g., garbage and recycling collection and sorting), construction and maintenance of parks, enforcement of environmental regulations, and maintenance of government property (e.g., streets, sidewalks, streetlights, traffic lights and signs). Garbage collection workers have reported difficulty recruiting and retaining enough workers, leading to pickup delays in all four quadrants.
@@ -36,7 +38,6 @@ The Department of General Services aims to provide reliable and efficient servic
 
 : General Services Staffing Descriptive Statistics (FTE) {#tbl-gsstaff}
 
-<!---#
 ### How We're Doing
 
 @tbl-gsperf summarizes our preliminary report of our performance on our newly adopted goals by ward. Respondents refers to respondents to our citizen survey fielded every six months.
@@ -48,8 +49,6 @@ The Department of General Services aims to provide reliable and efficient servic
 | Percent of respondents who visit parks weekly       | 87  | 32  | 25  | 98  |
 
 : General Services Performance Indicators by Ward {#tbl-gsperf}
-
---->
 
 ## Current Operations Budget
 

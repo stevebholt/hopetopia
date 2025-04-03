@@ -81,7 +81,11 @@
     "href": "aboutpd.html",
     "title": "Police Department",
     "section": "",
-    "text": "The mission of the Hopetopia Police Department is to protect the life and property of our residents with an equal application of the law, to effectively enhance the safety of the public, and to foster a positive relationship with the community."
+    "text": "The mission of the Hopetopia Police Department is to protect the life and property of our residents with an equal application of the law, to effectively enhance the safety of the public, and to foster a positive relationship with the community.",
+    "crumbs": [
+      "Emergency Services",
+      "Police Department"
+    ]
   },
   {
     "objectID": "budgetpd.html",
@@ -106,7 +110,11 @@
     "href": "aboutpd.html#current-operations-budget",
     "title": "Police Department",
     "section": "Current Operations Budget",
-    "text": "Current Operations Budget\nTable 3 provides an overview of the FY23 budget proposed by the mayor and passed by the city council. The mayor’s proposed budget maintains the FY22 allocation to the Department of Emergency Services in FY23. After weighing the proposed budgets, the Executive Director of the Department of Emergency Services granted the Police Chief’s request for an additional 500,000 to double the budget for the Citizen Review Board. After meeting with neighborhood associations, business and non-profit leaders in Hopetopia, and attending City Council hearings, we have allocated the additional resources primarily to communications - focused on community policing training consistent with the mayor’s goals. The bulk of the money will be allocated to hiring new personnel and procuring a contractor for conducting community policing professional development courses. See Table 3 (c) for details.\n\n\nTable 3: Budget Overview FY23\n\n\n\n\n(a) Operations Budget for FY23 (in 1,000s)\n\n\nPolicing and Corrections\n961,782\n\n\n\n\nPolice\n585,874\n\n\nInvestigations and Forensics\n25,113\n\n\nCorrections and Rehabilitation\n255,141\n\n\nCommunications and Other\n76,654\n\n\nCapital & Equipment\n18,000\n\n\nCitizen Review Board\n1,000\n\n\n\n\n\n\n(b) Police Budget Detail (in 1,000s)\n\n\nPolice\n585,874\n\n\n\n\nCapital\n17,750\n\n\nPersonnel FT Pay\n387,915\n\n\nPay - Other\n40,330\n\n\nFringe benefits\n88,163\n\n\nOvertime\n51,716\n\n\n\n\n\n\n(c) Police Operations Allocations\n\n\nPolice\n585,874\n\n\n\n\nPatrol Services\n256,219\n\n\nInvestigations\n136,373\n\n\nAdministrative Support\n24,043\n\n\nProfessional Development\n50,145\n\n\nInternal Affairs\n9,308\n\n\nHomeland Security\n52,505\n\n\nManagement\n57,281"
+    "text": "Current Operations Budget\nTable 3 provides an overview of the FY25 budget proposed by the mayor and passed by the city council.\n\n\n\nTable 3: Budget Overview FY25\n\n\n\n\n\n\n\n(a) Operations Budget for FY25 (in 1,000s)\n\n\n\n\n\nPolicing and Corrections\n961,782\n\n\n\n\nPolice\n585,874\n\n\nInvestigations and Forensics\n25,113\n\n\nCorrections and Rehabilitation\n255,141\n\n\nCommunications and Other\n76,654\n\n\nCapital & Equipment\n18,000\n\n\nCitizen Review Board\n1,000\n\n\n\n\n\n\n\n\n\n\n\n(b) Police Budget Detail (in 1,000s)\n\n\n\n\n\nPolice\n585,874\n\n\n\n\nCapital\n17,750\n\n\nPersonnel FT Pay\n387,915\n\n\nPay - Other\n40,330\n\n\nFringe benefits\n88,163\n\n\nOvertime\n51,716\n\n\n\n\n\n\n\n\n\n\n\n(c) Police Operations Allocations\n\n\n\n\n\nPolice\n585,874\n\n\n\n\nPatrol Services\n256,219\n\n\nInvestigations\n136,373\n\n\nAdministrative Support\n24,043\n\n\nProfessional Development\n50,145\n\n\nInternal Affairs\n9,308\n\n\nHomeland Security\n52,505\n\n\nManagement\n57,281",
+    "crumbs": [
+      "Emergency Services",
+      "Police Department"
+    ]
   },
   {
     "objectID": "budgetfd.html",
@@ -404,7 +412,11 @@
     "href": "aboutpd.html#operations",
     "title": "Police Department",
     "section": "Operations",
-    "text": "Operations\n\nWho We Are\nTable 1 summarizes Police Department staffing by position and demographic characteristics of interest to the public.\n\n\nTable 1: Police Department Staffing Descriptive Statistics (FTE)\n\n\n\n\n\n\n\n\n\n\n\n\nDetectives\nSergeants\nOfficers\nCaptains\nCRB\nTotal\n\n\n\n\nWhite\n141\n705\n2,073\n41\n33\n2,993\n\n\nNon-white\n25\n124\n829\n0\n29\n1,007\n\n\nMale\n145\n746\n1,865\n33\n25\n2,815\n\n\nFemale\n21\n83\n1,036\n8\n37\n1,185\n\n\nNon-resident\n158\n663\n2,280\n17\n0\n3,117\n\n\nCollege degree+\n166\n622\n1,036\n41\n12\n1,878\n\n\nTotal\n166\n829\n2,902\n41\n62\n4,000\n\n\n\n\n\n\nHow We’re Doing\nTable 2 provides the average performance on our tracked indicators for officers in each ward. The indicators are measured at the officer-level and then averaged by ward.\n\n\nTable 2: Police Department Performance Indicators by Ward\n\n\n\nNW\nSW\nNE\nSE\n\n\n\n\nPercent of officers CP certified\n25\n10\n15\n20\n\n\nAvg. Number of Contacts (per week)\n2\n3.5\n.5\n6.9\n\n\nGuns recovered through buyback (per month)\n15\n25\n65\n23"
+    "text": "Operations\n\nWho We Are\nTable 1 summarizes Police Department staffing by position and demographic characteristics of interest to the public.\n\n\n\nTable 1: Police Department Staffing Descriptive Statistics (FTE)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDetectives\nSergeants\nOfficers\nCaptains\nCRB\nTotal\n\n\n\n\nWhite\n141\n705\n2,073\n41\n33\n2,993\n\n\nNon-white\n25\n124\n829\n0\n29\n1,007\n\n\nMale\n145\n746\n1,865\n33\n25\n2,815\n\n\nFemale\n21\n83\n1,036\n8\n37\n1,185\n\n\nNon-resident\n158\n663\n2,280\n17\n0\n3,117\n\n\nCollege degree+\n166\n622\n1,036\n41\n12\n1,878\n\n\nTotal\n166\n829\n2,902\n41\n62\n4,000\n\n\n\n\n\n\n\n\nHow We’re Doing\nTable 2 provides the average performance on our tracked indicators for officers in each ward. The indicators are measured at the officer-level and then averaged by ward.\n\n\n\nTable 2: Police Department Performance Indicators by Ward\n\n\n\n\n\n\nNW\nSW\nNE\nSE\n\n\n\n\nPercent of officers CP certified\n25\n10\n15\n20\n\n\nAvg. Number of Contacts (per week)\n2\n3.5\n.5\n6.9\n\n\nGuns recovered through buyback (per month)\n15\n25\n65\n23",
+    "crumbs": [
+      "Emergency Services",
+      "Police Department"
+    ]
   },
   {
     "objectID": "abouthp.html#recent-news",
@@ -688,6 +700,28 @@
     "crumbs": [
       "Community Development",
       "Housing and Planning Agency"
+    ]
+  },
+  {
+    "objectID": "aboutpd.html#mission-statement",
+    "href": "aboutpd.html#mission-statement",
+    "title": "Police Department",
+    "section": "",
+    "text": "The mission of the Hopetopia Police Department is to protect the life and property of our residents with an equal application of the law, to effectively enhance the safety of the public, and to foster a positive relationship with the community.",
+    "crumbs": [
+      "Emergency Services",
+      "Police Department"
+    ]
+  },
+  {
+    "objectID": "aboutpd.html#fy24-operations-budget",
+    "href": "aboutpd.html#fy24-operations-budget",
+    "title": "Police Department",
+    "section": "FY24 Operations Budget",
+    "text": "FY24 Operations Budget\nTable 4 (a) outlines our budget for FY24 overall (in thousands) and Table 4 (b) breaks out the details of the police budget by cost and Table 4 (c) breaks out the budget by operations.\n\n\n\nTable 4: Budget Overview FY24\n\n\n\n\n\n\n\n(a) Operations Budget for FY24 (in 1,000s)\n\n\n\n\n\nPolicing and Corrections\n947,318\n\n\n\n\nPolice\n572,163\n\n\nInvestigations and Forensics\n25,113\n\n\nCorrections and Rehabilitation\n255,141\n\n\nCommunications and Other\n76,404\n\n\nCapital & Equipment\n18,000\n\n\nCitizen Review Board\n500\n\n\n\n\n\n\n\n\n\n\n\n(b) Police Budget Detail (in 1,000s)\n\n\n\n\n\nPolice\n572,163\n\n\n\n\nCapital\n18,000\n\n\nPersonnel FT Pay\n383,915\n\n\nPay - Other\n34,330\n\n\nFringe benefits\n86,663\n\n\nOvertime\n49,252\n\n\n\n\n\n\n\n\n\n\n\n(c) Police Operations Allocations\n\n\n\n\n\nPolice\n572,163\n\n\n\n\nPatrol Services\n256,219\n\n\nInvestigations\n126,373\n\n\nAdministrative Support\n24,043\n\n\nProfessional Development\n46,185\n\n\nInternal Affairs\n9,308\n\n\nHomeland Security\n52,505\n\n\nManagement\n57,531",
+    "crumbs": [
+      "Emergency Services",
+      "Police Department"
     ]
   }
 ]

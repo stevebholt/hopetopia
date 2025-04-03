@@ -4,19 +4,7 @@ title: "Police Department"
 
 ## Mission Statement
 
-The mission of the Hopetopia Police Department is to protect the life and property of our
-residents with an equal application of the law, to effectively enhance the safety of the public, and
-to foster a positive relationship with the community.
-
-## Recent News
-
-::: callout-note
-**10/3/2023** In conjunction with city-wide efforts to improve services, the Police Department has identified three performance goals that it will begin tracking and reporting publicly. 1. Shifting community policing from a unit-specific certification to a department-wide practice with full certification for all officers. 2. Tracking and increasing non-enforcement contact with public (with a goal of 5 interactions per officer per week). 3. Collecting 100 guns per month through the new gun buyback program.
-:::
-
-::: callout-note
-**9/27/2023** The police chief has been focused on community policing efforts, using assigned and steady patrols who operate on a predicted schedule in pairs and have the same assigned beat for 6-month cycles. Recently, the investigations units unresolved crimes rate has increased by 30%, driven largely by poor clearance rates in the Southwest quadrant. Morale is generally low among your officers as some patrols feel their assigned beats are disproportionately more difficult than others. The department has also been struggling with community relations in the Southwest quadrant where multiple reports of officer misconduct have been verified by the Citizen Review Board.
-:::
+The mission of the Hopetopia Police Department is to protect the life and property of our residents with an equal application of the law, to effectively enhance the safety of the public, and to foster a positive relationship with the community.
 
 ## Operations
 
@@ -50,9 +38,9 @@ to foster a positive relationship with the community.
 
 ## Current Operations Budget
 
-@tbl-budgetpdall23 provides an overview of the FY23 budget proposed by the mayor and passed by the city council. The mayor's proposed budget maintains the FY22 allocation to the Department of Emergency Services in FY23. After weighing the proposed budgets, the Executive Director of the Department of Emergency Services granted the Police Chief's request for an additional 500,000 to double the budget for the Citizen Review Board. After meeting with neighborhood associations, business and non-profit leaders in Hopetopia, and attending City Council hearings, we have allocated the additional resources primarily to communications - focused on community policing training consistent with the mayor's goals. The bulk of the money will be allocated to hiring new personnel and procuring a contractor for conducting community policing professional development courses. See @tbl-pdallocate23 for details.
+@tbl-budgetpdall25 provides an overview of the FY25 budget proposed by the mayor and passed by the city council.
 
-::: {#tbl-budgetpdall23 layout-ncol="3"}
+::: {#tbl-budgetpdall25 layout-ncol="3"}
 | Policing and Corrections       | 961,782 |
 |--------------------------------|---------|
 | Police                         | 585,874 |
@@ -62,7 +50,7 @@ to foster a positive relationship with the community.
 | Capital & Equipment            | 18,000  |
 | Citizen Review Board           | 1,000   |
 
-: Operations Budget for FY23 (in 1,000s) {#tbl-budgetpd23}
+: Operations Budget for FY25 (in 1,000s) {#tbl-budgetpd25}
 
 | Police           | 585,874 |
 |------------------|---------|
@@ -72,7 +60,7 @@ to foster a positive relationship with the community.
 | Fringe benefits  | 88,163  |
 | Overtime         | 51,716  |
 
-: Police Budget Detail (in 1,000s) {#tbl-pddetail23}
+: Police Budget Detail (in 1,000s) {#tbl-pddetail25}
 
 | Police                   | 585,874 |
 |--------------------------|---------|
@@ -84,14 +72,14 @@ to foster a positive relationship with the community.
 | Homeland Security        | 52,505  |
 | Management               | 57,281  |
 
-: Police Operations Allocations {#tbl-pdallocate23}
+: Police Operations Allocations {#tbl-pdallocate25}
 
-Budget Overview FY23
+Budget Overview FY25
 :::
 
-## FY22 Operations Budget
+## FY24 Operations Budget
 
-@tbl-budgetpd outlines our budget for FY22 overall (in thousands) and @tbl-pddetail breaks out the details of the police budget by cost and @tbl-pdallocate breaks out the budget by operations. Our FY22 budget is currently in development.
+@tbl-budgetpd outlines our budget for FY24 overall (in thousands) and @tbl-pddetail breaks out the details of the police budget by cost and @tbl-pdallocate breaks out the budget by operations.
 
 ::: {#tbl-budgetpdall layout-ncol="3"}
 | Policing and Corrections       | 947,318 |
@@ -103,7 +91,7 @@ Budget Overview FY23
 | Capital & Equipment            | 18,000  |
 | Citizen Review Board           | 500     |
 
-: Operations Budget for FY22 (in 1,000s) {#tbl-budgetpd}
+: Operations Budget for FY24 (in 1,000s) {#tbl-budgetpd}
 
 | Police           | 572,163 |
 |------------------|---------|
@@ -127,5 +115,5 @@ Budget Overview FY23
 
 : Police Operations Allocations {#tbl-pdallocate}
 
-Budget Overview FY22
+Budget Overview FY24
 :::

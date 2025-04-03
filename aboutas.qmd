@@ -3,18 +3,7 @@ title: "Adult Human Services"
 ---
 
 ## Mission Statement
-The mission of Adult Human Services is to serve the adults in our community by empowering them to achieve and maintain self-sufficiency, while reducing all economic and social barriers to success. We hope by providing access to mental health services, workforce development training, and substance abuse treatment services we’re giving our
-community members the tools they need to thrive.
-
-## Recent News
-
-::: callout-note
-**10/3/2023** In conjunction with city-wide efforts to improve services, Adult Human Services has identified three performance goals that it will begin tracking and reporting publicly. 1. Lifting the proportion of eligible residents using our mental health services (currently at 15% city-wide). 2. Reaching 65% of workforce development participants placed in a job. 3. Reverse the ratio of patients served by our substance addiction treatment services to ER reported instances of substance-related health issues (currently 1:15 citywide).
-:::
-
-::: callout-note
-**9/27/2023** The Adult Human Services includes mental health programs that provide a mix of subsidies (through a mental health insurance supplement for low-income, employed residents) and direct service provision (through the operation of a mental health clinic in each quadrant for low-income, unemployed residents). Adult Human Services also operate workforce development programs (basic job training for entry level jobs and job placement assistance for entry-level jobs with a focus on long-term unemployed and formerly incarcerated residents). Finally, Adult Human Services operate three substance abuse treatment clinics to help provide treatment and support for those struggling with drug or alcohol addictions.
-:::
+The mission of Adult Human Services is to serve the adults in our community by empowering them to achieve and maintain self-sufficiency, while reducing all economic and social barriers to success. We hope by providing access to mental health services, workforce development training, and substance abuse treatment services we’re giving our community members the tools they need to thrive.
 
 ### Who We Are
 
@@ -39,16 +28,16 @@ community members the tools they need to thrive.
 |                                                              | NW  | SW  | NE  | SE  |
 |------------------------------------------------|------|------|------|------|
 | Percent eligible in receipt of mental health service (per month) | 35  | 8  | 3  | 12  |
-| Percent of development participant placed in job (per month)    | 50  | 13  | 28  | 75  |
+| Percent of development participants placed in job (per month)    | 50  | 13  | 28  | 75  |
 | Ratio of substance service users to ER-reported substance crises (per week)   | 1:2  | 1:19  | 1:23  | 1:15  |
 
 : Adult Human Services Performance Indicators by Ward {#tbl-asperf}
 
 ## Current Operations Budget
 
-@tbl-asbudget23 provides an overview of Adult Human Service's FY23 Operations Budget. The Mayor's proposed budget provided our request for a 32,437,000 increase for FY23. After meeting with the Association of Hopetopia Supermarkets, the Hopetopia Community Development Foundation, and specific outreach to non-profits providing housing and aid to homeless Hopetopians, in the coming year, we are prioritizing an increase in SNAP funding to supplement federal and state dollars and provide more generous food subsidies; an increase in mental health support services; and an increase in efforts to prevent homelessness by focusing on housing placement and improved emergency rent subsidies.
+@tbl-asbudget25 provides an overview of Adult Human Service's FY25 Operations Budget. 
 
-::: {#tbl-asbudget22 layout-ncol="2"}
+::: {#tbl-asbudget25 layout-ncol="2"}
 | Adult Human Services       | 411,431 |
 |----------------------------|---------|
 | Cash assistance            | 96,997  |
@@ -63,7 +52,7 @@ community members the tools they need to thrive.
 | Substance abuse services   | 45,061  |
 | Management                 | 39,104  |
 
-: Adult Human Services Operations (in 1,000s) {#tbl-asops23}
+: Adult Human Services Operations (in 1,000s) {#tbl-asops25}
 
 | Adult Human Services | 411,431 |
 |----------------------|---------|
@@ -72,12 +61,12 @@ community members the tools they need to thrive.
 | Fringe benefits      | 60,277  |
 | Overtime             | 1,699   |
 
-: Adult Human Services Expenditures (in 1,000s) {#tbl-asexp23}
+: Adult Human Services Expenditures (in 1,000s) {#tbl-asexp25}
 
-Budget Overview FY23
+Budget Overview FY25
 :::
 
-## FY22 Operations Budget
+## FY24 Operations Budget
 
 @tbl-asbudget provides an overview of the FY22 budget for Adult Human Services broken out by operations and the source of the expenditure.
 
@@ -107,5 +96,5 @@ Budget Overview FY23
 
 : Adult Human Services Expenditures (in 1,000s) {#tbl-asexp}
 
-Budget Overview FY22
+Budget Overview FY24
 :::

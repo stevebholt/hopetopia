@@ -6,16 +6,6 @@ title: "Youth Social Services"
 
 The Youth Social Services Department is devoted to ensuring the health, safety, and future success of Hopetopia’s at-risk and underserved youth. Through support services, educational programs, recreational activities, and job development initiatives, we work to promote the wellbeing of children and teens across the community and provide them the skills and resources needed to succeed as adults. The Department aims to enhance the livelihoods of Hopetopia’s youth through increased investment and manpower. Our programs not only improve the health and safety of our youth, but give them the skills and experience necessary to feel competent and confident in their future.
 
-## Recent News
-
-::: callout-note
-**10/3/2023** In conjunction with city-wide efforts to improve services, Youth Social Services has identified three performance goals that it will begin tracking and reporting publicly. 1. Increase retention in our youth Recreational Sports Program by 10% (currently only 53% of eligible, participating youth return between seasons). 2. Reach 100% of Child Safety Unit calls within 24 hrs. 3. Increase participation in Future Readiness Program internships - which serves teens in foster care - by 10% (currently only 38% of eligible teens participate).
-:::
-
-::: callout-note
-**9/27/2023** Youth Social Services provides foster care services and responds to and investigates reports of abuse (child protection services below). In addition, the youth services side of the department operates summer learning programs and early childhood education programs in coordination with the school district, an internship and jobs program for teens in the city, and recreational sport programs for low- and middle-income youth.
-:::
-
 ## Operations
 
 ### Who We Are
@@ -48,9 +38,9 @@ The Youth Social Services Department is devoted to ensuring the health, safety, 
 
 ## Current Operating Budget
 
-@tbl-ysbudget23 provides an overview of our FY23 budget. The Mayor proposed an increase of 15,481,000. After meeting with the Parent Teacher Association (PTA), Hopetopia chapter of the Boys & Girls Club, and surveying the youth of Hopetopia's public schools, we have proposed an increased focus on summer jobs programs and child protection services. We've also provided a modest increase in funding for early education.
+@tbl-ysbudget25 provides an overview of our FY25 budget.
 
-::: {#tbl-ysbudget22 layout-ncol="2"}
+::: {#tbl-ysbudget25 layout-ncol="2"}
 | Youth Social Services                        | 197,194 |
 |----------------------------------------------|---------|
 | Child protective services                    | 29,353  |
@@ -60,7 +50,7 @@ The Youth Social Services Department is devoted to ensuring the health, safety, 
 | Management                                   | 44,072  |
 | Early education subsidy                      | 39,200  |
 
-: Youth Social Services Operations (in 1,000s) {#tbl-ysops22}
+: Youth Social Services Operations (in 1,000s) {#tbl-ysops25}
 
 | Youth Social Services | 197,194 |
 |-----------------------|---------|
@@ -69,14 +59,14 @@ The Youth Social Services Department is devoted to ensuring the health, safety, 
 | Fringe benefits       | 30,063  |
 | Overtime              | 1,102   |
 
-: Youth Social Services Expenditures (in 1,000s) {#tbl-ysexp22}
+: Youth Social Services Expenditures (in 1,000s) {#tbl-ysexp25}
 
-Budget Overview FY22
+Budget Overview FY25
 :::
 
-## FY22 Operating Budget
+## FY24 Operating Budget
 
-@tbl-ysbudget provides an overview of the FY22 budget for Youth Social Services broken out by operations and the source of the expenditure.
+@tbl-ysbudget provides an overview of the FY24 budget for Youth Social Services broken out by operations and the source of the expenditure.
 
 ::: {#tbl-ysbudget layout-ncol="2"}
 | Youth Social Services                        | 181,713 |
@@ -99,5 +89,5 @@ Budget Overview FY22
 
 : Youth Social Services Expenditures (in 1,000s) {#tbl-ysexp}
 
-Budget Overview FY22
+Budget Overview FY24
 :::

@@ -224,7 +224,10 @@
     "href": "aboutgs.html",
     "title": "General Services",
     "section": "",
-    "text": "Hopetopia General Services will provide infrastructure and services to enhance quality of life for all citizens in all wards of Hopetopia. On safely maintained roads, bridges, and sidewalks, and through efficient infrastructure, we will foster community development, enhance essential services and amenities, and ensure safe transportation throughout the city."
+    "text": "Hopetopia General Services will provide infrastructure and services to enhance quality of life for all citizens in all wards of Hopetopia. On safely maintained roads, bridges, and sidewalks, and through efficient infrastructure, we will foster community development, enhance essential services and amenities, and ensure safe transportation throughout the city.",
+    "crumbs": [
+      "General Services"
+    ]
   },
   {
     "objectID": "aboutgs.html#current-operating-budget",
@@ -330,7 +333,10 @@
     "href": "aboutgs.html#current-operations-budget",
     "title": "General Services",
     "section": "Current Operations Budget",
-    "text": "Current Operations Budget\nTable 3 lays out our budget for the coming fiscal year. The Mayor proposed a 70,286,000 increase in our budget. After holding a public meeting in each of the wards, we have decided to focus our efforts on expanding the number of parks in the city - particularly in the less dense Southwest Ward - and improvements to the streetlights and traffic lights throughout the city.\n\n\nTable 3: Budget Overview FY23\n\n\n\n\n(a) General Services Operations (in 1,000s)\n\n\nGeneral Services\n384,625\n\n\n\n\nSnow removal\n9,129\n\n\nFleet management\n40,649\n\n\nParking enforcement\n40,814\n\n\nWaste Management\n105,574\n\n\nManagement\n57,843\n\n\nEnvironmental regulations (water and air)\n59,449\n\n\nParks and recreation\n48,524\n\n\nAdditional Park Land Investment\n15,343\n\n\nStreet Light Safety Plan\n7,300\n\n\n\n\n\n\n(b) General Services Expenditures (in 1,000s)\n\n\nGeneral Services\n384,625\n\n\n\n\nPersonnel FT Pay\n230,078\n\n\nPay - Other\n87,921\n\n\nFringe benefits\n54,203\n\n\nOvertime\n12,723"
+    "text": "Current Operations Budget\nTable 3 lays out our budget for the coming fiscal year.\n\n\n\nTable 3: Budget Overview FY25\n\n\n\n\n\n\n\n(a) General Services Operations (in 1,000s)\n\n\n\n\n\nGeneral Services\n384,625\n\n\n\n\nSnow removal\n9,129\n\n\nFleet management\n40,649\n\n\nParking enforcement\n40,814\n\n\nWaste Management\n105,574\n\n\nManagement\n57,843\n\n\nEnvironmental regulations (water and air)\n59,449\n\n\nParks and recreation\n48,524\n\n\nAdditional Park Land Investment\n15,343\n\n\nStreet Light Safety Plan\n7,300\n\n\n\n\n\n\n\n\n\n\n\n(b) General Services Expenditures (in 1,000s)\n\n\n\n\n\nGeneral Services\n384,625\n\n\n\n\nPersonnel FT Pay\n230,078\n\n\nPay - Other\n87,921\n\n\nFringe benefits\n54,203\n\n\nOvertime\n12,723",
+    "crumbs": [
+      "General Services"
+    ]
   },
   {
     "objectID": "abouttd.html#fy21-operations-budget",
@@ -450,7 +456,10 @@
     "href": "aboutgs.html#operations",
     "title": "General Services",
     "section": "Operations",
-    "text": "Operations\n\nWho We Are\nTable 1 provides an overview of our workforce by position and by demographic characteristics.\n\n\nTable 1: General Services Staffing Descriptive Statistics (FTE)\n\n\n\n\n\n\n\n\n\n\n\nRegulators\nWaste Collection\nMaintenance\nManagement\nTotal\n\n\n\n\nWhite\n109\n273\n164\n68\n560\n\n\nNon-white\n27\n137\n109\n55\n382\n\n\nMale\n82\n382\n218\n82\n464\n\n\nFemale\n55\n27\n55\n41\n451\n\n\nNon-resident\n41\n191\n218\n68\n396\n\n\nCollege degree+\n137\n41\n55\n123\n846\n\n\nTotal\n137\n410\n273\n123\n942\n\n\n\n\n\n\nHow We’re Doing\nTable 2 summarizes our preliminary report of our performance on our newly adopted goals by ward. Respondents refers to respondents to our citizen survey fielded every six months.\n\n\nTable 2: General Services Performance Indicators by Ward\n\n\n\n\n\n\n\n\n\n\nNW\nSW\nNE\nSE\n\n\n\n\nNumber of pick-up delay complaints\n56\n854\n642\n112\n\n\nPercent of traffic light outages fixed w/in 4 hours\n94\n42\n81\n96\n\n\nPercent of respondents who visit parks weekly\n87\n32\n25\n98"
+    "text": "Operations\n\nWho We Are\nTable 1 provides an overview of our workforce by position and by demographic characteristics.\n\n\n\nTable 1: General Services Staffing Descriptive Statistics (FTE)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRegulators\nWaste Collection\nMaintenance\nManagement\nTotal\n\n\n\n\nWhite\n109\n273\n164\n68\n560\n\n\nNon-white\n27\n137\n109\n55\n382\n\n\nMale\n82\n382\n218\n82\n464\n\n\nFemale\n55\n27\n55\n41\n451\n\n\nNon-resident\n41\n191\n218\n68\n396\n\n\nCollege degree+\n137\n41\n55\n123\n846\n\n\nTotal\n137\n410\n273\n123\n942\n\n\n\n\n\n\n\n\nHow We’re Doing\nTable 2 summarizes our preliminary report of our performance on our newly adopted goals by ward. Respondents refers to respondents to our citizen survey fielded every six months.\n\n\n\nTable 2: General Services Performance Indicators by Ward\n\n\n\n\n\n\n\n\n\n\n\n\n\nNW\nSW\nNE\nSE\n\n\n\n\nNumber of pick-up delay complaints\n56\n854\n642\n112\n\n\nPercent of traffic light outages fixed w/in 4 hours\n94\n42\n81\n96\n\n\nPercent of respondents who visit parks weekly\n87\n32\n25\n98",
+    "crumbs": [
+      "General Services"
+    ]
   },
   {
     "objectID": "aboutps.html#recent-news",
@@ -531,7 +540,10 @@
     "href": "aboutgs.html#fy22-operating-budget",
     "title": "General Services",
     "section": "FY22 Operating Budget",
-    "text": "FY22 Operating Budget\nTable 4 provides an overview of the FY22 budget for General Services broken out by operations and the source of the expenditure.\n\n\nTable 4: Budget Overview FY22\n\n\n\n\n(a) General Services Operations (in 1,000s)\n\n\nGeneral Services\n314,339\n\n\n\n\nSnow removal\n8,200\n\n\nFleet management\n35,268\n\n\nParking enforcement\n35,411\n\n\nWaste Management\n91,597\n\n\nManagement\n50,185\n\n\nEnvironmental regulations (water and air)\n51,578\n\n\nParks and recreation\n42,100\n\n\n\n\n\n\n(b) General Services Expenditures (in 1,000s)\n\n\nGeneral Services\n314,339\n\n\n\n\nPersonnel FT Pay\n193,437\n\n\nPay - Other\n73,124\n\n\nFringe benefits\n43,355\n\n\nOvertime\n1,073"
+    "text": "FY22 Operating Budget\nTable 4 provides an overview of the FY24 budget for General Services broken out by operations and the source of the expenditure.\n\n\n\nTable 4: Budget Overview FY24\n\n\n\n\n\n\n\n(a) General Services Operations (in 1,000s)\n\n\n\n\n\nGeneral Services\n314,339\n\n\n\n\nSnow removal\n8,200\n\n\nFleet management\n35,268\n\n\nParking enforcement\n35,411\n\n\nWaste Management\n91,597\n\n\nManagement\n50,185\n\n\nEnvironmental regulations (water and air)\n51,578\n\n\nParks and recreation\n42,100\n\n\n\n\n\n\n\n\n\n\n\n(b) General Services Expenditures (in 1,000s)\n\n\n\n\n\nGeneral Services\n314,339\n\n\n\n\nPersonnel FT Pay\n193,437\n\n\nPay - Other\n73,124\n\n\nFringe benefits\n43,355\n\n\nOvertime\n1,073",
+    "crumbs": [
+      "General Services"
+    ]
   },
   {
     "objectID": "mayor.html#about-the-mayor",
@@ -602,7 +614,10 @@
     "href": "aboutgs.html#mission-statement",
     "title": "General Services",
     "section": "",
-    "text": "Hopetopia General Services will provide infrastructure and services to enhance quality of life for all citizens in all wards of Hopetopia. On safely maintained roads, bridges, and sidewalks, and through efficient infrastructure, we will foster community development, enhance essential services and amenities, and ensure safe transportation throughout the city."
+    "text": "Hopetopia General Services will provide infrastructure and services to enhance quality of life for all citizens in all wards of Hopetopia. On safely maintained roads, bridges, and sidewalks, and through efficient infrastructure, we will foster community development, enhance essential services and amenities, and ensure safe transportation throughout the city.",
+    "crumbs": [
+      "General Services"
+    ]
   },
   {
     "objectID": "aboutas.html#fy24-operations-budget",

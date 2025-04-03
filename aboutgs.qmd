@@ -4,21 +4,7 @@ title: "General Services"
 
 ## Mission Statement
 
-Hopetopia General Services will provide infrastructure and services to
-enhance quality of life for all citizens in all wards of Hopetopia. On safely maintained roads,
-bridges, and sidewalks, and through efficient infrastructure, we will foster community
-development, enhance essential services and amenities, and ensure safe transportation throughout
-the city.
-
-## Recent News
-
-::: callout-note
-**10/3/2023** In conjunction with city-wide efforts to improve services, General Services has identified three performance goals that it will begin tracking and reporting publicly. 1. Reduce the number of pick-up delays. 2. Ensure traffic lights are functioning city-wide. 3. Increase park visits at city parks.
-:::
-
-::: callout-note
-**9/27/2023** General Services provides a variety of basic infrastructural services, such as waste management (e.g., garbage and recycling collection and sorting), construction and maintenance of parks, enforcement of environmental regulations, and maintenance of government property (e.g., streets, sidewalks, streetlights, traffic lights and signs). Garbage collection workers have reported difficulty recruiting and retaining enough workers, leading to pickup delays in all four quadrants.
-:::
+Hopetopia General Services will provide infrastructure and services to enhance quality of life for all citizens in all wards of Hopetopia. On safely maintained roads, bridges, and sidewalks, and through efficient infrastructure, we will foster community development, enhance essential services and amenities, and ensure safe transportation throughout the city.
 
 ## Operations
 
@@ -52,9 +38,9 @@ the city.
 
 ## Current Operations Budget
 
-@tbl-gsbudget23 lays out our budget for the coming fiscal year. The Mayor proposed a 70,286,000 increase in our budget. After holding a public meeting in each of the wards, we have decided to focus our efforts on expanding the number of parks in the city - particularly in the less dense Southwest Ward - and improvements to the streetlights and traffic lights throughout the city.
+@tbl-gsbudget25 lays out our budget for the coming fiscal year.
 
-::: {#tbl-gsbudget23 layout-ncol="2"}
+::: {#tbl-gsbudget25 layout-ncol="2"}
 | General Services                          | 384,625 |
 |-------------------------------------------|---------|
 | Snow removal                              | 9,129   |
@@ -67,7 +53,7 @@ the city.
 | Additional Park Land Investment           | 15,343   |
 | Street Light Safety Plan                  | 7,300   |
 
-: General Services Operations (in 1,000s) {#tbl-gsops23}
+: General Services Operations (in 1,000s) {#tbl-gsops25}
 
 | General Services | 384,625 |
 |------------------|---------|
@@ -76,14 +62,14 @@ the city.
 | Fringe benefits  | 54,203  |
 | Overtime         | 12,723   |
 
-: General Services Expenditures (in 1,000s) {#tbl-gsexp23}
+: General Services Expenditures (in 1,000s) {#tbl-gsexp25}
 
-Budget Overview FY23
+Budget Overview FY25
 :::
 
 ## FY22 Operating Budget
 
-@tbl-gsbudget provides an overview of the FY22 budget for General Services broken out by operations and the source of the expenditure.
+@tbl-gsbudget provides an overview of the FY24 budget for General Services broken out by operations and the source of the expenditure.
 
 ::: {#tbl-gsbudget layout-ncol="2"}
 | General Services                          | 314,339 |
@@ -107,5 +93,5 @@ Budget Overview FY23
 
 : General Services Expenditures (in 1,000s) {#tbl-gsexp}
 
-Budget Overview FY22
+Budget Overview FY24
 :::

@@ -2,22 +2,6 @@
 title: "Hopetopia Public Schools"
 ---
 
-<!---# ## Mission Statement
-
-We aim to direct public resources responsibly to provide competitive salaries, extracurricular & community events, technology, equipment, supplies, textbooks, utilities, and student services to enhance the school experience for students, parents, teachers, and administrators.
---->
-## Recent News
-<!---#
-::: callout-note
-**10/6/2022** In conjunction with city-wide efforts to improve services, Hopetopia Public Schools has identified three performance goals that it will begin tracking and reporting publicly. 1. Ensuring the teacher-student ratio across schools does not exceed 1:25. 2. Improving parity in the proportion of veteran teachers at schools across wards. 3. Improving the "on-time" graduation rates across the city.
-:::
-
-::: callout-note
-**9/12/2022** The Hopetopia Public School district operates 112 public schools and pays per-student tuition to subsidize an additional 67 charter schools. The schools in the district vary widely in performance. As of late, the schools in the SW and NE quadrants have been struggling and coping with overcrowding. In addition to operating the public school system, you operate the community college in the city - a college that is looking to expand their offerings to include some four-year degrees.
-:::
-
---->
-
 ## Operations
 
 ### Who We Are
@@ -36,7 +20,7 @@ We aim to direct public resources responsibly to provide competitive salaries, e
 
 : Hopetopia Public Schools Staffing Descriptive Statistics (FTE) {#tbl-psstaff}
 
-<!---# ### How We're Doing
+### How We're Doing
 
 @tbl-psperf provides an overview of where we are on our goals in the current year. The data provides the average across schools in each ward of the city.
 
@@ -50,9 +34,9 @@ We aim to direct public resources responsibly to provide competitive salaries, e
 
 ## Current Operations Budget
 
-@tbl-psbudget22 summarizes the Hopetopia Public School District budget for FY22. After meeting with parents, leaders of the Hopetopia teacher's union, and surveying students in Hopetopia public schools, we have decided to use the 338,198,000 budgetary increase in the Mayor's proposed budget to increase school staffing with the aim of reducing class sizes throughout the district. We are also provided increases to teacher base pay and facilities and materials upgrades throughout the district to improve working conditions and continue to attract and retain talented teachers in our district.
+@tbl-psbudget25 summarizes the Hopetopia Public School District budget for FY25.
 
-::: {#tbl-psbudget22 layout-ncol="2"}
+::: {#tbl-psbudget25 layout-ncol="2"}
 | Hopetopia Public Schools                  | 2,030,549 |
 |-------------------------------------------|-----------|
 | Salaries (teachers, admin, paras, tutors) | 784,640   |
@@ -69,7 +53,7 @@ We aim to direct public resources responsibly to provide competitive salaries, e
 | Special Education Services                | 450,766   |
 | Students who are EL's                     | 487,714   |
 
-: Public Schools Operations (in 1,000s) {#tbl-psops22}
+: Public Schools Operations (in 1,000s) {#tbl-psops25}
 
 | Hopetopia Public Schools | 2,030,549 |
 |--------------------------|-----------|
@@ -78,15 +62,15 @@ We aim to direct public resources responsibly to provide competitive salaries, e
 | Fringe benefits          | 289,648   |
 | Overtime                 | 5,778     |
 
-: Public Schools Expenditures (in 1,000s) {#tbl-psexp22}
+: Public Schools Expenditures (in 1,000s) {#tbl-psexp25}
 
-Budget Overview FY22
+Budget Overview FY25
 :::
 
 --->
-## FY22 Operations Budget
+## FY24 Operations Budget
 
-@tbl-psbudget provides an overview of the FY22 budget for Hopetopia Public Schools broken out by operations and the source of the expenditure.
+@tbl-psbudget provides an overview of the FY24 budget for Hopetopia Public Schools broken out by operations and the source of the expenditure.
 
 ::: {#tbl-psbudget layout-ncol="2"}
 | Hopetopia Public Schools | 1,692,351 |
@@ -107,5 +91,5 @@ Budget Overview FY22
 
 : Public Schools Expenditures (in 1,000s) {#tbl-psexp}
 
-Budget Overview FY22
+Budget Overview FY24
 :::

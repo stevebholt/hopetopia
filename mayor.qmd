@@ -10,7 +10,7 @@ The mayor was elected three years ago on a platform of increasing economic equit
 
 @tbl-budgetall summarizes the city's budget.
 
-|                                     | FY22                 | FY23                |
+|                                     | FY24                 | FY25                |
 |-----------------------------------|------------------|------------------|
 | Revenues                            | \$ 4,791,914,000.00  | \$ 5,031,509,700.00 |
 | Department of Emergency Services    | \$ 1,229,355,000.00  | \$ 1,229,355,000.00    |

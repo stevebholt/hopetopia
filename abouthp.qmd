@@ -6,16 +6,6 @@ title: "Housing and Planning Agency"
 
 Our goal is to provide the highest standard of quality of life for the residents of our community by ensuring issues of health; safety, and property preservation are distributed fairly and equitably as a means of building inclusive and vibrant neighborhoods. Our department continually strives to develop strategies that enhance the economic well-being and growth of our community.
 
-## Recent News
-
-::: callout-note
-**10/3/2023** In conjunction with city-wide efforts to improve services, the Housing and Planning Agency has identified three performance goals that it will begin tracking and reporting publicly. 1. A reduction in the number of grants that take longer than 3 months to process. 2. A reduction in the share of maintenance complaints that take longer than 2 weeks to process. 3. An increase in the ratio of eligible residents to available units that are affordable.
-:::
-
-::: callout-note
-**9/27/2023** The head of the HPA has been prioritizing acquiring and rehabilitating abandoned properties in the NW quadrant for the last two years. The program prioritizes residential units and after rehabilitation, manages the units directly and offers both market rate and subsidized units. Recently, the market rate units have been experiencing vacancy rates as many other services and businesses are not convenient to the SW quadrant. Real Estate partners have also noted that the home ownership development programs are often insufficiently funded for SW residents given their economic need. As a result, most of the program helps first time home buyers in the SE and NW quadrants.
-:::
-
 ## Operations
 
 ### Who We Are
@@ -48,9 +38,9 @@ Our goal is to provide the highest standard of quality of life for the residents
 
 ## Current Operations Budget
 
-@tbl-hpbudget presents our operating budget for FY23. The mayor proposed and council passed a 91,857,000 increase in our operations budget. After meeting with housing and tenant advocates in the Southwest, Northeast, and Northwest quadrants, County officials, and real estate developers, we have drafted a set of investments that will improve housing stock quality and access to subsidized housing throughout the city. This fiscal year will focus on housing stock in the Southwest Ward.
+@tbl-hpbudget presents our operating budget for FY25.
 
-::: {#tbl-hpbudget23 layout-ncol="2"}
+::: {#tbl-hpbudget25 layout-ncol="2"}
 | Housing and Planning Agency    | 233,000 |
 |--------------------------------|---------|
 | Planning                       | 22,000  |
@@ -63,7 +53,7 @@ Our goal is to provide the highest standard of quality of life for the residents
 | Affordable Housing Indiv.      | 10,000  |
 | Rental Assistance              | 13,000  |
 
-: Housing and Planning Operations (in 1,000s) {#tbl-hpops23}
+: Housing and Planning Operations (in 1,000s) {#tbl-hpops25}
 
 | Housing and Planning Agency | 208,705 |
 |-----------------------------|---------|
@@ -72,14 +62,14 @@ Our goal is to provide the highest standard of quality of life for the residents
 | Fringe benefits             | 55,226  |
 | Overtime                    | 44,524  |
 
-: Housing and Planning Expenditures (in 1,000s) {#tbl-hpdetail23}
+: Housing and Planning Expenditures (in 1,000s) {#tbl-hpdetail25}
 
-Budget Overview FY23
+Budget Overview FY25
 :::
 
-## FY22 Operations Budget
+## FY24 Operations Budget
 
-@tbl-hpbudget provides an overview of the FY22 budget for Housing and Planning broken out by operations and the source of the expenditure.
+@tbl-hpbudget provides an overview of the FY24 budget for Housing and Planning broken out by operations and the source of the expenditure.
 
 ::: {#tbl-hpbudget layout-ncol="2"}
 | Housing and Planning Agency    | 141,143 |
@@ -105,5 +95,5 @@ Budget Overview FY23
 
 : Housing and Planning Expenditures (in 1,000s) {#tbl-hpdetail}
 
-Budget Overview FY22
+Budget Overview FY24
 :::

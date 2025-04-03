@@ -20,6 +20,8 @@ website:
         file: dgs.qmd
       - text: "Education"
         file: ed.qmd
+      - text: "City News"
+        file: news.qmd
       
     background: success
   
@@ -66,6 +68,10 @@ website:
         - href: ed.qmd
         - href: aboutps.qmd
         - href: aboutev.qmd
+    
+    - title: "City News"
+      contents:
+        - href: news.qmd
         
 
 format:

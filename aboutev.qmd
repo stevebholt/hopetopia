@@ -6,16 +6,7 @@ title: "Evalution and Administration"
 
 The Department of Education Evaluation (DOEE) aims to ensure that quality and equitable education is provided to all students of Hopetopia. The DOEE provides high-quality evaluations of educators (administrators, teachers, and counselors) to ensure quality management, operations, counseling, and instruction. The DOEE uses a standard method of evaluation to provide evaluations that are fair and unbiased. The DOEE also provides resources to educators including support to improve management and classroom instruction, and access to up-to-date student data.
 --->
-## Recent News
-<!---#
-::: callout-note
-**10/6/2022** In conjunction with city-wide efforts to improve services, the Evaluation and Administration Department of HPS has identified three performance goals that it will begin tracking and reporting publicly. 1. Improving the allocation of support resources to schools across the district. 2. Improving the timeliness of teacher evaluations. 3. In light of parents increasingly withholding their child's participation on test days and schools selectively excluding students on test days, we will focus on improving the share of students who take standardized assessments.
-:::
 
-::: callout-note
-**9/12/2022** Evaluation and Administration handles the legally mandated evaluation and assessment of student achievement and leads program and staff evaluation efforts. The Evaluation and Administration department is currently dealing with a wave of scandals related to recent investigative reporting from the local paper - Hopetopian Times - that revealed a subset of teachers may have manipulated student tests to improve assessment scores. Internal investigations have also recently revealed that a large charter school operator has been misleading auditors on the expenditures of funds with the president of the operator taking an outsized share of public payments as salary and utilizing under-qualified teachers. The mayor is taking increasing notice of the series of scandals and expects remedies.
-:::
---->
 ## Operations
 
 ### Who We Are
@@ -34,7 +25,6 @@ The Department of Education Evaluation (DOEE) aims to ensure that quality and eq
 
 : Evaluation and Administration of Hopetopia Public Schools Staffing Descriptive Statistics (FTE) {#tbl-evstaff}
 
-<!---#
 ### How We're Doing
 
 @tbl-evperf summarizes our performance on our newly adopted performance indicators over the previous academic calendar to provide our baseline performance.
@@ -46,10 +36,10 @@ The Department of Education Evaluation (DOEE) aims to ensure that quality and eq
 | Percent of students taking assessment              | 96  | 65  | 48  | 78  |
 
 : HPS Evaluation and Administration Performance Indicators by Ward {#tbl-evperf}
---->
+
 ## Current Operations Budget
 
-@tbl-evbudget provides an overview of the FY22 budget for Evaluation and Administration broken out by operations and the source of the expenditure.
+@tbl-evbudget provides an overview of the FY25 budget for Evaluation and Administration broken out by operations and the source of the expenditure.
 
 ::: {#tbl-evbudget layout-ncol="2"}
 | Evaluation and Administration | 285,487 |
@@ -73,5 +63,5 @@ The Department of Education Evaluation (DOEE) aims to ensure that quality and eq
 
 : Evaluation and Administration Expenditures (in 1,000s) {#tbl-evexp}
 
-Budget Overview FY22
+Budget Overview FY25
 :::

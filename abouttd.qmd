@@ -7,16 +7,6 @@ title: "Transportation Department"
 The Mission of the Hopetopia Transportation
 Department is to ensure our citizens and goods have the safest way of transportation. We also want to establish that all of our citizens are going to their place of work, school, etc. in a timely and efficient manner. The Transportation Department is committed to expanding our public transportation use to lessen the waste that Hopetopia contributes into the atmosphere. We would also want to make sure that the transportation for all citizens in Hopetopia has roads, bridges, and sidewalks that are up to safety regulations. Overall we would like for their transportation experience to make them feel safe both inside the public vehicle and with the vehicle itself.
 
-## Recent Events
-
-::: callout-note
-**10/3/2023** In conjunction with city-wide efforts to improve services, the Transportation Department has identified three performance goals that it will begin tracking and reporting publicly. 1. Ensuring an on-time bus system throughout the city. 2. Piloting a free-bus program and studying growth in ridership (current Friday ridership averages 19,000). 3. Safer streets for all modes through faster pothole repair (currently, the 60 potholes per month reported in each ward are fixed on average 3 weeks after the first report).
-:::
-
-::: callout-note
-**9/27/2023** The Transportation Department operates an extensive city-wide bus system as well as maintaining the roads and approving the design and construction of new roads and bridges. In recent years, cuts have made operating the bus system difficult. Two years ago, you had to reduce the number of busses on routes in the NW and SE quadrants. The service reductions have led to complaints of wait times as high as 60 minutes in those quadrants and you have seen a decline 10% decline in ridership city wide. The biggest ridership declines have come from the NE quadrant, though the reason is unclear. You've also been receiving a variety of complaints about road quality and streetlight outages in the NW quadrant.
-:::
-
 ## Operations
 
 ### Who We Are
@@ -50,9 +40,9 @@ Department is to ensure our citizens and goods have the safest way of transporta
 
 ## Current Operations Budget
 
-@tbl-tdbudget23 summarizes our FY23 operations budget. After our initial informational town hall and meetings with leaders from the Neighborhood Associations, college representatives from local colleges, and the Hopetopia Chamber of Commerce, we have decided to prioritize expanding bus service and increasing the frequency of service on existing routes of HOPBUS services in the coming year and invest more in bridge and road repair.
+@tbl-tdbudget25 summarizes our FY25 operations budget.
 
-::: {#tbl-tdbudget23 layout-ncol="2"}
+::: {#tbl-tdbudget25 layout-ncol="2"}
 | Transportation Department      | 625,885 |
 |--------------------------------|---------|
 | Traffic engineering and design | 87,645  |
@@ -62,7 +52,7 @@ Department is to ensure our citizens and goods have the safest way of transporta
 | Management                     | 59,622  |
 | Maintenance                    | 83,180  |
 
-: Transportation Department Operations (in 1,000s) {#tbl-tdops23}
+: Transportation Department Operations (in 1,000s) {#tbl-tdops25}
 
 | Transportation Department | 625,885 |
 |---------------------------|---------|
@@ -71,14 +61,14 @@ Department is to ensure our citizens and goods have the safest way of transporta
 | Fringe benefits           | 95,123  |
 | Overtime                  | 5,772   |
 
-: Transportation Department Expenditures (in 1,000s) {#tbl-tdexp23}
+: Transportation Department Expenditures (in 1,000s) {#tbl-tdexp25}
 
-Budget Overview FY23
+Budget Overview FY25
 :::
 
-## FY22 Operations Budget
+## FY24 Operations Budget
 
-@tbl-tdbudget provides an overview of the FY22 budget for the Transportation Department broken out by operations and the source of the expenditure.
+@tbl-tdbudget provides an overview of the FY24 budget for the Transportation Department broken out by operations and the source of the expenditure.
 
 ::: {#tbl-tdbudget layout-ncol="2"}
 | Transportation Department      | 564,333 |
@@ -101,5 +91,5 @@ Budget Overview FY23
 
 : Transportation Department Expenditures (in 1,000s) {tbl-tdexp}
 
-Budget Overview FY22
+Budget Overview FY24
 :::

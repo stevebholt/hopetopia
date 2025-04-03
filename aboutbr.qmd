@@ -6,16 +6,6 @@ title: "Buildings and Regulations Agency"
 
 The Building and Regulations Department of Hopetopia’s mission intends to enhance the lives of community members by efficiently and effectively reviewing building proposals, ensuring structures are adhering to municipal codes, and fostering citizen engagement to better refine department practices.
 
-## Recent News
-
-::: callout-note
-**10/3/2023** In conjunction with city-wide efforts to improve services, Buildings and Regulations has identified three performance goals that it will begin tracking and reporting publicly. 1. Increase the number of permits issued (average number of submitted proposals is 30 per month in each ward). 2. Improve the proportion of permits approved after first review. 3. Increase the percentage of plans approved in the first review.
-:::
-
-::: callout-note
-**9/27/2023** The BRA chief notes she does not have the staff necessary to address these concerns in a timely manner. Similarly, developers have noted that delays in plan approvals from the BRA have driven up the cost of building throughout the city.
-:::
-
 ## Operations
 
 ### Who We Are
@@ -32,7 +22,7 @@ The Building and Regulations Department of Hopetopia’s mission intends to enha
 | College degree+ | 14       | 36         | 26             | 13           | 90    |
 | Total           | 14       | 43         | 29             | 13           | 100   |
 
-: Buildings and Regulations Agency taffing Descriptive Statistics (FTE) {#tbl-brstaff}
+: Buildings and Regulations Agency staffing Descriptive Statistics (FTE) {#tbl-brstaff}
 
 ### How We're Doing
 
@@ -48,16 +38,16 @@ The Building and Regulations Department of Hopetopia’s mission intends to enha
 
 ## Current Operations Budget
 
-@tbl-brbudget23 lays our our FY23 operations budget. The mayor proposed a 3,981,000 increase in our budget. After meeting with low-income property owners and renters in subsidized housing in the Southwest quadrant, we have prioritized code enforcement in our allocation of the new funds to better enable the recovery or demolition of abandoned structures. We have also increased our staffing for proposal review after consultation with local developers and construction companies. We address these needs by expanding our overtime budget by 1,500,000 and adding 2,000,000 in Pay-Other for hiring external consultants.
+@tbl-brbudget25 lays our our FY25 operations budget. 
 
-::: {#tbl-brbudget23 layout-ncol="2"}
+::: {#tbl-brbudget25 layout-ncol="2"}
 | Buildings and Regulations Agency | 12,498 |
 |----------------------------------|--------|
 | Safety Inspections               | 2,940  |
 | Code Enforcement                 | 7,350  |
 | Proposal Review                  | 2,208  |
 
-: Buildings and Regulations Operations (in 1,000s) {#tbl-brops23}
+: Buildings and Regulations Operations (in 1,000s) {#tbl-brops25}
 
 | Buildings and Regulations Agency | 12,498 |
 |----------------------------------|--------|
@@ -66,14 +56,14 @@ The Building and Regulations Department of Hopetopia’s mission intends to enha
 | Fringe benefits                  | 1,579  |
 | Overtime                         | 2,000  |
 
-: Buildings and Regulations Expenditures (in 1,000s) {#tbl-hpdetail23}
+: Buildings and Regulations Expenditures (in 1,000s) {#tbl-hpdetail25}
 
-Budget Overview FY23
+Budget Overview FY25
 :::
 
-## FY22 Operations Budget
+## FY24 Operations Budget
 
-@tbl-brbudget provides an overview of the FY22 budget for Buildings and Regulations broken out by operations and the source of the expenditure.
+@tbl-brbudget provides an overview of the FY24 budget for Buildings and Regulations broken out by operations and the source of the expenditure.
 
 ::: {#tbl-brbudget layout-ncol="2"}
 | Buildings and Regulations Agency | 4,200 |
@@ -93,5 +83,5 @@ Budget Overview FY23
 
 : Buildings and Regulations Expenditures (in 1,000s) {#tbl-hpdetail}
 
-Budget Overview FY22
+Budget Overview FY24
 :::

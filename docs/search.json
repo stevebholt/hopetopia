@@ -144,14 +144,22 @@
     "href": "aboutbr.html",
     "title": "Buildings and Regulations Agency",
     "section": "",
-    "text": "The Building and Regulations Department of Hopetopia’s mission intends to enhance the lives of community members by efficiently and effectively reviewing building proposals, ensuring structures are adhering to municipal codes, and fostering citizen engagement to better refine department practices."
+    "text": "The Building and Regulations Department of Hopetopia’s mission intends to enhance the lives of community members by efficiently and effectively reviewing building proposals, ensuring structures are adhering to municipal codes, and fostering citizen engagement to better refine department practices.",
+    "crumbs": [
+      "Community Development",
+      "Buildings and Regulations Agency"
+    ]
   },
   {
     "objectID": "aboutbr.html#current-operations-budget",
     "href": "aboutbr.html#current-operations-budget",
     "title": "Buildings and Regulations Agency",
     "section": "Current Operations Budget",
-    "text": "Current Operations Budget\nTable 3 lays our our FY23 operations budget. The mayor proposed a 3,981,000 increase in our budget. After meeting with low-income property owners and renters in subsidized housing in the Southwest quadrant, we have prioritized code enforcement in our allocation of the new funds to better enable the recovery or demolition of abandoned structures. We have also increased our staffing for proposal review after consultation with local developers and construction companies. We address these needs by expanding our overtime budget by 1,500,000 and adding 2,000,000 in Pay-Other for hiring external consultants.\n\n\nTable 3: Budget Overview FY23\n\n\n\n\n(a) Buildings and Regulations Operations (in 1,000s)\n\n\nBuildings and Regulations Agency\n12,498\n\n\n\n\nSafety Inspections\n2,940\n\n\nCode Enforcement\n7,350\n\n\nProposal Review\n2,208\n\n\n\n\n\n\n(b) Buildings and Regulations Expenditures (in 1,000s)\n\n\nBuildings and Regulations Agency\n12,498\n\n\n\n\nPersonnel FT Pay\n5,585\n\n\nPay - Other\n3,334\n\n\nFringe benefits\n1,579\n\n\nOvertime\n2,000"
+    "text": "Current Operations Budget\nTable 3 lays our our FY25 operations budget.\n\n\n\nTable 3: Budget Overview FY25\n\n\n\n\n\n\n\n(a) Buildings and Regulations Operations (in 1,000s)\n\n\n\n\n\nBuildings and Regulations Agency\n12,498\n\n\n\n\nSafety Inspections\n2,940\n\n\nCode Enforcement\n7,350\n\n\nProposal Review\n2,208\n\n\n\n\n\n\n\n\n\n\n\n(b) Buildings and Regulations Expenditures (in 1,000s)\n\n\n\n\n\nBuildings and Regulations Agency\n12,498\n\n\n\n\nPersonnel FT Pay\n5,585\n\n\nPay - Other\n3,334\n\n\nFringe benefits\n1,579\n\n\nOvertime\n2,000",
+    "crumbs": [
+      "Community Development",
+      "Buildings and Regulations Agency"
+    ]
   },
   {
     "objectID": "aboutas.html#current-operations-budget",
@@ -467,7 +475,11 @@
     "href": "aboutbr.html#operations",
     "title": "Buildings and Regulations Agency",
     "section": "Operations",
-    "text": "Operations\n\nWho We Are\nTable 1 provides an overview of our current workforce by position and by select characteristics.\n\n\nTable 1: Buildings and Regulations Agency taffing Descriptive Statistics (FTE)\n\n\n\n\n\n\n\n\n\n\n\nManagers\nInspectors\nCentral Office\nReview Board\nTotal\n\n\n\n\nWhite\n12\n23\n17\n7\n59\n\n\nNon-white\n3\n20\n12\n6\n41\n\n\nMale\n6\n19\n20\n4\n49\n\n\nFemale\n9\n25\n6\n9\n48\n\n\nNon-resident\n4\n17\n20\n0\n42\n\n\nCollege degree+\n14\n36\n26\n13\n90\n\n\nTotal\n14\n43\n29\n13\n100\n\n\n\n\n\n\nHow We’re Doing\nTable 2 captures our agency’s current performance toward our newly adopted goals separately by ward.\n\n\nTable 2: Buildings and Regulations Agency Performance Indicators by Ward\n\n\n\n\n\n\n\n\n\n\nNW\nSW\nNE\nSE\n\n\n\n\nNumber of permits issued (per month)\n3\n14\n18\n20\n\n\nPercentage of Plans Approved in First Review\n10\n88\n56\n75\n\n\nTotal Number of Safety Inspections (per month)\n10\n25\n80\n55"
+    "text": "Operations\n\nWho We Are\nTable 1 provides an overview of our current workforce by position and by select characteristics.\n\n\n\nTable 1: Buildings and Regulations Agency staffing Descriptive Statistics (FTE)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nManagers\nInspectors\nCentral Office\nReview Board\nTotal\n\n\n\n\nWhite\n12\n23\n17\n7\n59\n\n\nNon-white\n3\n20\n12\n6\n41\n\n\nMale\n6\n19\n20\n4\n49\n\n\nFemale\n9\n25\n6\n9\n48\n\n\nNon-resident\n4\n17\n20\n0\n42\n\n\nCollege degree+\n14\n36\n26\n13\n90\n\n\nTotal\n14\n43\n29\n13\n100\n\n\n\n\n\n\n\n\nHow We’re Doing\nTable 2 captures our agency’s current performance toward our newly adopted goals separately by ward.\n\n\n\nTable 2: Buildings and Regulations Agency Performance Indicators by Ward\n\n\n\n\n\n\n\n\n\n\n\n\n\nNW\nSW\nNE\nSE\n\n\n\n\nNumber of permits issued (per month)\n3\n14\n18\n20\n\n\nPercentage of Plans Approved in First Review\n10\n88\n56\n75\n\n\nTotal Number of Safety Inspections (per month)\n10\n25\n80\n55",
+    "crumbs": [
+      "Community Development",
+      "Buildings and Regulations Agency"
+    ]
   },
   {
     "objectID": "aboutas.html#fy22-operations-budget",
@@ -573,6 +585,28 @@
     "crumbs": [
       "Social Services",
       "Adult Human Services"
+    ]
+  },
+  {
+    "objectID": "aboutbr.html#mission-statement",
+    "href": "aboutbr.html#mission-statement",
+    "title": "Buildings and Regulations Agency",
+    "section": "",
+    "text": "The Building and Regulations Department of Hopetopia’s mission intends to enhance the lives of community members by efficiently and effectively reviewing building proposals, ensuring structures are adhering to municipal codes, and fostering citizen engagement to better refine department practices.",
+    "crumbs": [
+      "Community Development",
+      "Buildings and Regulations Agency"
+    ]
+  },
+  {
+    "objectID": "aboutbr.html#fy24-operations-budget",
+    "href": "aboutbr.html#fy24-operations-budget",
+    "title": "Buildings and Regulations Agency",
+    "section": "FY24 Operations Budget",
+    "text": "FY24 Operations Budget\nTable 4 provides an overview of the FY24 budget for Buildings and Regulations broken out by operations and the source of the expenditure.\n\n\n\nTable 4: Budget Overview FY24\n\n\n\n\n\n\n\n(a) Buildings and Regulations Operations (in 1,000s)\n\n\n\n\n\nBuildings and Regulations Agency\n4,200\n\n\n\n\nSafety Inspections\n1,000\n\n\nCode Enforcement\n3,000\n\n\nProposal Review\n200\n\n\n\n\n\n\n\n\n\n\n\n(b) Buildings and Regulations Expenditures (in 1,000s)\n\n\n\n\n\nBuildings and Regulations Agency\n4,200\n\n\n\n\nPersonnel FT Pay\n2,585\n\n\nPay - Other\n977\n\n\nFringe benefits\n579\n\n\nOvertime\n14",
+    "crumbs": [
+      "Community Development",
+      "Buildings and Regulations Agency"
     ]
   }
 ]

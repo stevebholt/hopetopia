@@ -6,15 +6,6 @@ title: "Fire Department"
 
 The Hopetopia Fire Department aims to save lives, protect property, provide rescue services, educate citizens, empower volunteers, and promote community safety. Through our state of the art range of equipment, training exercises, emphasis on communication, high standards of excellence, and culture centered around safety and disaster response, we will be able to prevent, diminish, and/or extinguish fires, hazardous spills, and dangerous situations warranting fire department personnel. Additionally, the Hopetopia Fire Department will foster a well-trained, dedicated group of first-responders that excel in bravery, compassion, honor, perseverance, and diligence to help succeed in this mission and serve as role models for our community.
 
-## Recent News
-::: callout-note
-**10/3/2023** In conjunction with city-wide efforts to improve services, the Fire Department has identified three performance goals that it will begin tracking and reporting publicly. 1. 90% of calls receive first response in under 7.5 mins. w/ at least 4 people. 2. Survey report satisfaction with monthly fire safety events. 3. Improve community satisfaction with all services in biannual community feedback survey.
-:::
-
-::: callout-note
-**9/27/2023** Under the long-standing fire chief, morale is generally high, though the number of fires due to faulty wiring has been increasing. The fire chief believes inspection efforts for fire safety are underfunded and should be a priority.
-:::
-
 ## Operations
 
 ### Who We Are
@@ -35,7 +26,7 @@ The Hopetopia Fire Department aims to save lives, protect property, provide resc
 
 ### How We're Doing
 
-@tbl-fdperf reports the average performance of stations in each Ward on our new performance indicators for the first half of 2022.
+@tbl-fdperf reports the average performance of stations in each Ward on our new performance indicators for the first half of 2025.
 
 |                                            | NW  | SW  | NE  | SE  |
 |--------------------------------------------|-----|-----|-----|-----|
@@ -47,9 +38,9 @@ The Hopetopia Fire Department aims to save lives, protect property, provide resc
 
 ## Current Operations Budget
 
-@tbl-budgetfdall23 provides an overview of the FY23 budget proposed by the mayor and passed by the city council. The mayor's proposed budget allocated steady funding to the Department of Emergency Services. Although the Fire Department requested more resources, the mayor and Executive Director of the Department of Emergency Services reduced the Fire Department budget by 500,000. After a month of meeting with fire apparatus technicians, families young children in the community, and residents in rural parts of our service area, we have decided to maintain efforts on maintaining our fleet of fire engines for longevity and our current inspection levels. We have absorbed the cut in our operations budget by scaling back available overtime.
+@tbl-budgetfdall25 provides an overview of the FY25 budget proposed by the mayor and passed by the city council. 
 
-::: {#tbl-budgetfdall23 layout-ncol="2"}
+::: {#tbl-budgetfdall25 layout-ncol="2"}
 | Fire                       | 281,537 |
 |----------------------------|---------|
 | Operations                 | 181,389 |
@@ -59,7 +50,7 @@ The Hopetopia Fire Department aims to save lives, protect property, provide resc
 | Professional Development   | 10,254  |
 | Management                 | 19,955  |
 
-: Operations Budget for FY23 (in 1,000s) {#tbl-fdops23}
+: Operations Budget for FY25 (in 1,000s) {#tbl-fdops25}
 
 | Fire             | 281,537 |
 |------------------|---------|
@@ -68,14 +59,14 @@ The Hopetopia Fire Department aims to save lives, protect property, provide resc
 | Fringe benefits  | 38,900  |
 | Overtime         | 65,115  |
 
-: Operations Budget for FY23 (in 1,000s) {#tbl-fddetail23}
+: Operations Budget for FY25 (in 1,000s) {#tbl-fddetail25}
 
 Budget Overview
 :::
 
-## FY22 Operations Budget
+## FY24 Operations Budget
 
-@tbl-budgetfdall outlines our budget for FY22. @tbl-fdops summarizes the budget by operations and @tbl-fddetail summarizes the budget by type of expenditure. Our FY23 budget is currently in development.
+@tbl-budgetfdall outlines our budget for FY24. @tbl-fdops summarizes the budget by operations and @tbl-fddetail summarizes the budget by type of expenditure.
 
 ::: {#tbl-budgetfdall layout-ncol="2"}
 | Fire                       | 282,037 |
@@ -87,7 +78,7 @@ Budget Overview
 | Professional Development   | 10,254  |
 | Management                 | 19,955  |
 
-: Operations Budget for FY22 (in 1,000s) {#tbl-fdops}
+: Operations Budget for FY24 (in 1,000s) {#tbl-fdops}
 
 | Fire             | 282,037 |
 |------------------|---------|
@@ -96,7 +87,7 @@ Budget Overview
 | Fringe benefits  | 38,900  |
 | Overtime         | 65,615  |
 
-: Operations Budget for FY22 (in 1,000s) {#tbl-fddetail}
+: Operations Budget for FY24 (in 1,000s) {#tbl-fddetail}
 
 Budget Overview
 :::

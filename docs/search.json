@@ -4,7 +4,11 @@
     "href": "index.html",
     "title": "Hopetopia",
     "section": "",
-    "text": "Welcome to the website of the city of Hopetopia! At this hub, you will find information about our city’s people, businesses, and broader economy. The rest of the site provides information on each of the city’s government departments, the services they provide, and the people who work in them."
+    "text": "Welcome to the website of the city of Hopetopia! At this hub, you will find information about our city’s people, businesses, and broader economy. The rest of the site provides information on each of the city’s government departments, the services they provide, and the people who work in them.",
+    "crumbs": [
+      "Home",
+      "Hopetopia"
+    ]
   },
   {
     "objectID": "about.html",
@@ -25,14 +29,22 @@
     "href": "dcd.html",
     "title": "Department of Community Development",
     "section": "",
-    "text": "The Department of Community Development is responsible for initiatives involving housing, commercial, and industrial development of city land and managing the city’s housing programs. The department headquarters is in Town Hall in the center of Hopetopia. DCD includes the Housing and Planning Agency - responsible for managing housing developments and public housing programs for low-income Hopetopians - and the Buildings and Regulations Agency - charged with reviewing proposed developments, conducting building safety inspections, and code enforcement. In general, Hopetopia, like most city governments, implement state and federal housing laws and programs alongside the city’s own initiatives. All new construction proposals are reviewed by a panel of appointed engineers and lawyers in the BRA. The BRA also conducts health and safety inspections of commercial and industrial enterprises and enforces building codes and standards in residential units. The sites for both departments provide an overview of recent events with the department and their current budget operations."
+    "text": "The Department of Community Development is responsible for initiatives involving housing, commercial, and industrial development of city land and managing the city’s housing programs. The department headquarters is in Town Hall in the center of Hopetopia. DCD includes the Housing and Planning Agency - responsible for managing housing developments and public housing programs for low-income Hopetopians - and the Buildings and Regulations Agency - charged with reviewing proposed developments, conducting building safety inspections, and code enforcement. In general, Hopetopia, like most city governments, implement state and federal housing laws and programs alongside the city’s own initiatives. All new construction proposals are reviewed by a panel of appointed engineers and lawyers in the BRA. The BRA also conducts health and safety inspections of commercial and industrial enterprises and enforces building codes and standards in residential units. The sites for both departments provide an overview of recent events with the department and their current budget operations.",
+    "crumbs": [
+      "Community Development",
+      "Department of Community Development"
+    ]
   },
   {
     "objectID": "des.html",
     "href": "des.html",
     "title": "Department of Emergency Services",
     "section": "",
-    "text": "The Department of Emergency Services houses the Hopetopia Police Department and the Hopetopia Fire Department. The aim of our agency is to ensure the safety of Hopetopians and respond to emergency situations quickly and handle them effectively. The headquarters of the Department of Emergency Services - which houses the leadership and administration offices for the police and fire departments - is in the Town Hall complex in the center of the city. Each Ward houses two precincts that cover roughly half of each Ward (a total of 8 precinct stations). The Fire department operates 10 stations in each Ward for a total of 40 fire stations. The Police Department and Fire Department sites provide more information about recent events for both departments and their current operating budgets."
+    "text": "The Department of Emergency Services houses the Hopetopia Police Department and the Hopetopia Fire Department. The aim of our agency is to ensure the safety of Hopetopians and respond to emergency situations quickly and handle them effectively. The headquarters of the Department of Emergency Services - which houses the leadership and administration offices for the police and fire departments - is in the Town Hall complex in the center of the city. Each Ward houses two precincts that cover roughly half of each Ward (a total of 8 precinct stations). The Fire department operates 10 stations in each Ward for a total of 40 fire stations. The Police Department and Fire Department sites provide more information about recent events for both departments and their current operating budgets.",
+    "crumbs": [
+      "Emergency Services",
+      "Department of Emergency Services"
+    ]
   },
   {
     "objectID": "dgs.html",

@@ -2,19 +2,28 @@
 title: "City News"
 ---
 
-## Budget Surplus Drives Mayor's Brainstorming 
-April 10, 2025
+## Cost-Benefit Analysis
 
-Hopetopia - The economic growth resulting from anticipated new industry and investment in the city has created a budgetary boon for the city of Hopetopia. The mayor has granted \$3,000,000 to each city department for new or expanded programming. Department leaders are now weighing their options on how to use their new resources to best complement existing city services. The mayor expects proposals to be ready for presentation at a coming council meeting on Tuesday, April 15th. Department leaders are expected to prepare two alternative uses for the money to target current problems facing their departments. They will present their analysis and make a final recommendation at the meeting on Tuesday. 
-
-"We appreciate the mayor leading this effort in how best to capitalize on our recent growth here in Hopetopia. We look forward to hearing the administration's proposals," the president of the city council said in a statement to the press after the mayor's announcement. 
-
-::: {.callout-note}
-You and your group will prepare a 5 slide presentation that identifies the problem you are tackling for your department, discusses the evaluation criteria you are using to assess your proposals, and a decision tree comparing two proposals for using the money. You should discuss any research used to anchor your forecasts of your proposals' effects.
+::: callout-note
+You and your group will tackle a new problem. You will be expected to consider 3 new policy alternatives that can be done within the cost allocated to you. You must show the costs, benefits, and net benefits in a table. You will need to show your work in a presentation of no more than 5 slides.
 
 :::
 
+
+## Budget Surplus Drives Mayor's Brainstorming
+
+April 10, 2025
+
+Hopetopia - The economic growth resulting from anticipated new industry and investment in the city has created a budgetary boon for the city of Hopetopia. The mayor has granted \$3,000,000 to each city department for new or expanded programming. Department leaders are now weighing their options on how to use their new resources to best complement existing city services. The mayor expects proposals to be ready for presentation at a coming council meeting on Tuesday, April 15th. Department leaders are expected to prepare two alternative uses for the money to target current problems facing their departments. They will present their analysis and make a final recommendation at the meeting on Tuesday.
+
+"We appreciate the mayor leading this effort in how best to capitalize on our recent growth here in Hopetopia. We look forward to hearing the administration's proposals," the president of the city council said in a statement to the press after the mayor's announcement.
+
+::: callout-note
+You and your group will prepare a 5 slide presentation that identifies the problem you are tackling for your department, discusses the evaluation criteria you are using to assess your proposals, and a decision tree comparing two proposals for using the money. You should discuss any research used to anchor your forecasts of your proposals' effects.
+:::
+
 ## The City of Hopetopia Gets a Major Investment
+
 April 3, 2025
 
 Hopetopia - The federal government today announced that two technology manufacturing hubs - one for battery production and one for microchip manufacturing, research, and development - will be funded and established in Hopetopia. Hiring has already begun for five battery manufacturers and three microchip producers. Ground will be broken on the facilities later this year with an expectation that they will be open for operation in the fall of 2026 and fully staffed in 2027. The battery manufacturers announced a forecast of 15,000 new jobs and an additional 5,000 jobs transferred to Hopetopia. The three microchip production companies announced 12,000 new jobs and an additional 1,000 job transfers to Hopetopia from other locations. The city is currently finalizing plans for factory siting throughout the city and additional city responses to the influx of new residents. The manufacturers anticipate all transfers and 30% of the new jobs to be filled by the end of 2026. Analysts have projected that 85% of the new jobs will involve new residents entering Hopetopia. The number of anticipated new jobs in research and development in both battery and chip design is forecasted to be between 5,000 and 10,000 by the end of 2027.
